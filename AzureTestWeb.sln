@@ -5,6 +5,12 @@ VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureTestWeb", "AzureTestWeb\AzureTestWeb.csproj", "{7C1EAD17-D3CF-42AF-A582-CAF6060273AE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EF86EFB8-E011-4A4D-ADD7-05EE1717C031}"
+	ProjectSection(SolutionItems) = preProject
+		.deployment = .deployment
+		deploy.cmd = deploy.cmd
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
