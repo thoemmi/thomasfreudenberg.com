@@ -1,29 +1,29 @@
 ---
-layout: nil
+layout: null
 ---
-<?xml version="1.0"?>
+
+<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Feed Name</title>
-  <link href="http://domain/"/>
-  <link type="application/atom+xml" rel="self" href="http://domain/atom.xml"/>
+
+  <title>{{ site.title }}</title>
+  <link href="{{ site.url }}/atom.xml" rel="self"/>
+  <link href="{{ site.url }}/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://domain/</id>
+  <id>{{ site.baseurl }}</id>
   <author>
-    <name>Author</name>
-    <email>Email</email>
+    <name>{{ site.author.name }}</name>
+    {% if site.email %}<email>{{ site.author.email }}</email>{% endif %}
   </author>
 
-  {% for post in site.posts %}
+  {% for post in site.posts limit: 20 %}
+  {% unless post.redirect %}
   <entry>
-    <id>http://domain/{{ post.url }}</id>
-    <link type="text/html" rel="alternate" href="http://domain/{{ post.url }}"/>
-    <title>{{ post.title | xml_escape }}</title>
+    <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
+    <link href="{{ site.url }}{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <author>
-      <name>Author</name>
-      <uri>http://domain/</uri>
-    </author>
-    <content type="html">{{ post.content | xml_escape }}</content>
+    <id>{{ site.baseurl }}{{ post.id }}</id>
+    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
   </entry>
+  {% endunless %}
   {% endfor %}
 </feed>

@@ -1,0 +1,11 @@
+{% capture date %}{{ post.date }}{% endcapture %}
+{% capture has_date %}{{ date | size }}{% endcapture %}
+{% if has_date != '0' %}
+<span class="post-date"><time datetime="{{ post.date | date_to_xmlschema }}" {% if updated %}data-updated="true"{% endif %} itemprop="datePublished">{{ post.date | date: "%B %e, %Y" }}</time></span>
+{% else %}
+{% capture date %}{{ page.date }}{% endcapture %}
+{% capture has_date %}{{ date | size }}{% endcapture %}
+{% if has_date != '0' %}
+<span class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}" {% if updated %}data-updated="true"{% endif %} itemprop="datePublished">{{ page.date | date: "%B %e, %Y" }}</time></span>
+{% endif %}
+{% endif %}

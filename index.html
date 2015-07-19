@@ -1,0 +1,37 @@
+---
+layout: default
+title: Home
+paginate: 5
+redirect_from:
+  - /blog/
+---
+
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <header>
+      <h1 class="post-title">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          {{ post.title }}
+        </a>
+      </h1>
+      {% include meta.html %}
+    </header>
+
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page_url %}
+    <a class="pagination-item older" href="{{ paginator.next_page_url | prepend: site.baseurl | replace: 'index.html', '' | replace: '//', '/' }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page_url %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_url | prepend: site.baseurl | replace: 'index.html', '' | replace: '//', '/' }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

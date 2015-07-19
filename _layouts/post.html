@@ -1,37 +1,43 @@
 ---
-layout: layout
+layout: default
 ---
 
-<div class="entry-container">
-	<div class='entry'>
-		<h1> {{page.title}} </h1>
-		<span class="postdate">{{ page.date | date: "%e %B, %Y"  }}
-			{% for tag in page.tags %}
-				<li><a href="/tag/{{ tag }}">{{ tag }}</a></li>
-			{% endfor %}
-		</span>
-		{{ content }}
-	</div>
+<article class="post">
+  <header>
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% include meta.html %}
+  </header>
+  {{ content }}
+</article>
+
+<div class="pagination">
+  {% if page.previous %}
+    <a class="pagination-item older" href="{{ site.url }}{{page.previous.url}}">{{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next %}
+  <a class="pagination-item newer" href="{{ site.url }}{{page.next.url}}">{{page.next.title}}</a>
+  {% endif %}
 </div>
-<div id="page-navigation"> 
-	<div class="left"> {% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&larr; {{page.previous.title}}</a> {% endif %} </div> 
-	<div class="right"> {% if page.next.url %} <a href="{{page.next.url}}" title="next Post: {{page.next.title}}">{{page.next.title}} &rarr; </a> {% endif %} </div> 
-	<div class="clear">&nbsp;</div>
-</div> 
 
-
-{% if page.comments == true %}
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'NAME'; // required: replace example with your forum shortname
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+{% if site.disqus_short_name and page.comments == true %}
+<section id="comment">
+    <h2 class="title">Comments</h2>
+    <div id="disqus_thread" aria-live="polite">{% include disqus_thread.html %}</div>
+</section>
 {% endif %}
+
+<section class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+            <small>{% include date.html %}{{ time }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
