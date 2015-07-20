@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">
     <header class="sidebar-about">
       {% if site.imageurl != null %}
-      <img src="{{ site.baseurl }}{{ site.imageurl }}" />
+      <img src="{{ site.baseurl }}{{ site.imageurl }}" alt={{ site.author.name }}/>
       {% endif %}
       <h1>
         <a href="{{ site.baseurl }}/">
@@ -28,7 +28,7 @@
 
     <footer>
       Copyright &copy; {{ site.time | date: '%Y' }}. Content licensed under the Creative Commons <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.<br/>
-      Design based on <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> by <a href="https://twitter.com/mdo">@mdo</a>.</br/>
+      Design based on <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> by <a href="https://twitter.com/mdo">@mdo</a>.<br/>
       <a href="/privacy">Privacy</a>
     </footer>
   </div>
