@@ -8,7 +8,7 @@ redirect_from:
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <article class="post">
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <header>
       <h1 class="post-title">
         <a href="{{ post.url | prepend: site.baseurl }}">
