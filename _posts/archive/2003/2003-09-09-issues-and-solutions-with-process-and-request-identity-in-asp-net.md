@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 181
 categories: [Development]
 redirect_from:
-  - /blog/archive/2003/09/09/181.aspx/
+  - /blog/archive/2003/09/09/181.aspx
 ---
 
 > Just found a great KB article that explains how deal with all kinds of permission and identity issues when doing stuff from ASP.NET. I've highlighted the sections so you can see all the tasks that could use configurations:

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 18036
 categories: [Firefox, Internet Explorer]
 redirect_from:
-  - /blog/archive/2006/10/21/Internet-Explorer-7-Installation.aspx/
+  - /blog/archive/2006/10/21/Internet-Explorer-7-Installation.aspx
 ---
 
 I just upgraded [Internet Explorer](http://www.microsoft.com/ie) on my third machine. [Jayson](http://jaysonknight.com/) has something to say about the [installation process](http://jaysonknight.com/blog/archive/2006/10/19/Internet-Explorer-Installation-Routine-Is-Ridiculous.aspx):

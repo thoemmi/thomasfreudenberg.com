@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 534
 categories: [.Text]
 redirect_from:
-  - /blog/archive/2005/01/27/Scott-says-_22002E00_Text-Still-Lives_2200_.aspx/
+  - /blog/archive/2005/01/27/Scott-says-_22002E00_Text-Still-Lives_2200_.aspx
 ---
 
 Finally, Scott answered to my previous series of posts, via mail as well as on his blog. I'm happy that Scott seems to understand my point. Sometimes I get stuck for the right words, and after getting first feedback to my posts, I noticed that it you may understand them the wrong way. But he didn't.

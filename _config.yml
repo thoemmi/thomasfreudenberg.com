@@ -24,6 +24,8 @@ paginate_path:    "page/:num"
 
 only_frontmatter_categories: true
 
+redirect_generate_aspx: true
+
 exclude:
   - _pretzel
   - deploy.cmd

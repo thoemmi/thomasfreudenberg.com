@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 18283
 categories: [Vacation]
 redirect_from:
-  - /blog/archive/2006/11/24/vacation-enforcement.aspx/
+  - /blog/archive/2006/11/24/vacation-enforcement.aspx
 ---
 
 Because of a mayor release in our company and the obligatory deadline pressure, I have a backlog of 30.5 free days, i.e. there's even half a day left from 2005. Because our boss decreed that we can transfer only a maximum of 10 free days to the next year, this means that I have to take more than 4 weeks off until the end of this year.

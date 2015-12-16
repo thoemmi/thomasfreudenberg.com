@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 251
 categories: [PDC '03, MSBuild]
 redirect_from:
-  - /blog/archive/2003/10/29/The-Return-of-the-Console.aspx/
+  - /blog/archive/2003/10/29/The-Return-of-the-Console.aspx
 ---
 
 I've never stopped using the console since the good old DOS. In fact, each developer at our [company](http://www.cycos.com/) is using the console, i.e. [4NT](http://www.jpsoft.com/4ntdes.htm). Our development environment depends heavily on the console, the complete build and deployment process is realized with batch files.

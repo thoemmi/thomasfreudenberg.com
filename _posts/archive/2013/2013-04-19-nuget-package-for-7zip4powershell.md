@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 458166
 categories: [7-zip, Powershell, NuGet]
 redirect_from:
-  - /blog/archive/2013/04/19/nuget-package-for-7zip4powershell.aspx/
+  - /blog/archive/2013/04/19/nuget-package-for-7zip4powershell.aspx
 ---
 
 ![nuget](/files/archive/nuget.png "nuget")

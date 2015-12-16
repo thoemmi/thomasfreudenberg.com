@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 403453
 categories: [msbuild]
 redirect_from:
-  - /blog/archive/2012/11/21/don-t-copy-my-referenced-assemblies.aspx/
+  - /blog/archive/2012/11/21/don-t-copy-my-referenced-assemblies.aspx
 ---
 
 There are cases where you don’t want referenced assemblies to be copied to your output folder.

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 18022
 categories: [Community Server, CSMVPs]
 redirect_from:
-  - /blog/archive/2006/10/19/Community-Server-MVP.aspx/
+  - /blog/archive/2006/10/19/Community-Server-MVP.aspx
 ---
 
 [![Community Server MVP](/files/archive/csmvp.gif)](http://csmvps.com)

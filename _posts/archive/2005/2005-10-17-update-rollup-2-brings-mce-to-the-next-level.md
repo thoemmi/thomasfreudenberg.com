@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 12554
 categories: [Software, MCE]
 redirect_from:
-  - /blog/archive/2005/10/17/media-center-edition-update-rollup-2.aspx/
+  - /blog/archive/2005/10/17/media-center-edition-update-rollup-2.aspx
 ---
 
 Many announcements and blog posts regarding UR2 for MCE have been published during the last few days. But for me as a developer the most interesting change I've discovered in Michael Creasy's [Update Rollup 2 for WIndows XP Media Center Edition is live!](http://michaelcreasy.com/blog/index.php?title=update_rollup_2_for_windows_xp_media_cen&more=1&c=1&tb=1&pb=1):

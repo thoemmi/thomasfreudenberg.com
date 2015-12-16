@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 28080
 categories: [Site news, Community Server]
 redirect_from:
-  - /blog/archive/2007/04/22/thomasfreudenberg-com-upgraded-to-communityserver-2007.aspx/
+  - /blog/archive/2007/04/22/thomasfreudenberg-com-upgraded-to-communityserver-2007.aspx
 ---
 
 This site has been upgraded to CommunityServer 2007 (I guess visitors to my site do know CommunityServer, and they already read the [announcements](http://communityserver.org/forums/t/486717.aspx).) Of all all CS MVPs, I am again late to the party [;)]

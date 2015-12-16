@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 175
 categories: [Community Server]
 redirect_from:
-  - /blog/archive/2003/09/07/175.aspx/
+  - /blog/archive/2003/09/07/175.aspx
 ---
 
 Testing automatic emoticon substitution:

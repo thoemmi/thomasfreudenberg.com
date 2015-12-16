@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 12500
 categories: [Windows Vista, PDC '05]
 redirect_from:
-  - /blog/archive/2005/09/13/Windows-Vista-UX-Guidelines-Released.aspx/
+  - /blog/archive/2005/09/13/Windows-Vista-UX-Guidelines-Released.aspx
 ---
 
 Steve Sinchak [points](http://www.tweaklh.com/article38744.aspx) to a [post](http://frogboy.joeuser.com/index.asp?c=1&aid=86257) by Brad Wardell, that Microsoft has released a preliminary version of the Vista User Experience guidelines:

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 13766
 categories: [coComment]
 redirect_from:
-  - /blog/archive/2006/02/12/coComment-logo.aspx/
+  - /blog/archive/2006/02/12/coComment-logo.aspx
 ---
 
 Jayson Knight [requested](/archive/2006/02/12/more-cocomment/) a logo for coComment to put on his blog. Though I think he refered to the comment form, I created two different "blog buttons" (or how these 80x15 images are called). Here they are:

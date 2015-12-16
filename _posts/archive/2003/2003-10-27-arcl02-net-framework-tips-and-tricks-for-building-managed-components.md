@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 243
 categories: [PDC '03]
 redirect_from:
-  - /blog/archive/2003/10/27/243.aspx/
+  - /blog/archive/2003/10/27/243.aspx
 ---
 
 Interesting session... for someone who hasn't heard of FxCop before. Ok, they have added some new rules targeting Whidbey. Besides that, it was the least interesting session today.

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 17656
 categories: [Software, Tools]
 redirect_from:
-  - /blog/archive/2006/08/27/KDE-Mouse-Emulator.aspx/
+  - /blog/archive/2006/08/27/KDE-Mouse-Emulator.aspx
 ---
 
 [Jörgen Sigvardsson](http://www.codeproject.com/script/profile/whos_who.asp?id=15093) published his [KDE Mouse Emulator](http://www.codeproject.com/useritems/kdemouse.asp) at CodeProject:

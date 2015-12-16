@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 17595
 categories: [Development, Software]
 redirect_from:
-  - /blog/archive/2006/08/22/Windows-Live-Writer-and-WLWPlugins.aspx/
+  - /blog/archive/2006/08/22/Windows-Live-Writer-and-WLWPlugins.aspx
 ---
 
 I just want to note that [my last post](/archive/2006/08/21/mixing-c-and-vb-net-in-one-assembly/) was brought to you by [Windows Live Writer](http://windowslivewriter.spaces.live.com/blog/cns!D85741BB5E0BE8AA!174.entry) and [Code Syntax Highlighter](http://www.codeplex.com/Wiki/View.aspx?ProjectName=WLWPlugins).

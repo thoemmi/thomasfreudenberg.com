@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 13387
 categories: [Firefox]
 redirect_from:
-  - /blog/archive/2006/01/24/firefox-and-ietab.aspx/
+  - /blog/archive/2006/01/24/firefox-and-ietab.aspx
 ---
 
 Why I recommend the [IE Tab extension](http://ietab.mozdev.org/) for [Firefox](http://www.mozilla.com/firefox/):

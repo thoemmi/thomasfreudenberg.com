@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 31811
 categories: [Development, ccnet, Twitter]
 redirect_from:
-  - /blog/archive/2007/06/17/twitter-publisher-for-cruisecontrol-net.aspx/
+  - /blog/archive/2007/06/17/twitter-publisher-for-cruisecontrol-net.aspx
 ---
 
 Some weeks ago [I posted a CC.NET](/archive/2007/04/29/blog-publisher-for-cruisecontrol-net/) task which pushes build results to a blog using the MetaWeblogAPI. This might be a feasable solution for projects which sources aren´t updated that often. Otherwise that blog would be really cluttered, and you won´t be able to keep track of all the build results.

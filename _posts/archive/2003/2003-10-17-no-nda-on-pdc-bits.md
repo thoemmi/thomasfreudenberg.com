@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 227
 categories: [PDC '03]
 redirect_from:
-  - /blog/archive/2003/10/17/No-NDA-on-PDC-bits.aspx/
+  - /blog/archive/2003/10/17/No-NDA-on-PDC-bits.aspx
 ---
 
 [Robert Scoble](http://radio.weblogs.com/0001011/) [says](http://radio.weblogs.com/0001011/2003/10/17.html#a5071):

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 16868
 categories: [Community Server, Development, coComment, Akismet]
 redirect_from:
-  - /blog/archive/2006/07/22/Whats-next.aspx/
+  - /blog/archive/2006/07/22/Whats-next.aspx
 ---
 
 ![](/files/archive/akismet.png)As mentioned in my [last post](/archive/2006/07/21/upgraded-to-community-server-2-1-beta-1/), I'm working on several extensions for Community Server 2.1. I used to use the [Intensive.CodeHighlighter library](http://communityserver.org/files/folders/add-ons/entry499284.aspx) by [Gary McPherson](http://intensivedesign.co.uk/), but I could not find any updated version. Therefore I "re-engineered" a .NET 2.0 version and improved its configuration handling. No custom `configSection` is required anymore.

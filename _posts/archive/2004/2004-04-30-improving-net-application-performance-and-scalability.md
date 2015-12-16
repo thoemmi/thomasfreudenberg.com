@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 385
 categories: [Development]
 redirect_from:
-  - /blog/archive/2004/04/30/385.aspx/
+  - /blog/archive/2004/04/30/385.aspx
 ---
 
 Microsoft's Patterns and Practices group has released its "[Improving .NET Application Performance and Scalability](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpag/html/scalenet.asp)" guide on MSDN. I also recommend reading [Rico Mariani's foreword](http://blogs.msdn.com/ricom/archive/2004/04/28/122503.aspx).

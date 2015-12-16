@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 17854
 categories: [Software]
 redirect_from:
-  - /blog/archive/2006/09/27/Windows-Live-Writer-1.0-Beta-Update.aspx/
+  - /blog/archive/2006/09/27/Windows-Live-Writer-1.0-Beta-Update.aspx
 ---
 
 Today an update for Windows Live Writer 1.0 Beta [was published](http://windowslivewriter.spaces.live.com/blog/cns!D85741BB5E0BE8AA!702.entry):

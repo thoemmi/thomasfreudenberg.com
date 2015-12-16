@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 363
 categories: [Fun]
 redirect_from:
-  - /blog/archive/2004/04/01/AprilFools.aspx/
+  - /blog/archive/2004/04/01/AprilFools.aspx
 ---
 
 [Happy April Fool's Day](http://www.codeproject.com/scrapbook/hosting.asp) ![:-)](/files/archive/smiley_smile.gif)

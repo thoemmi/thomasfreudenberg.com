@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 495
 categories: [Development, Tips 'n Tricks]
 redirect_from:
-  - /blog/archive/2005/01/20/495.aspx/
+  - /blog/archive/2005/01/20/495.aspx
 ---
 
 ![Setting up exception handling in Visual Studio](/files/archive/Exceptions.PNG)

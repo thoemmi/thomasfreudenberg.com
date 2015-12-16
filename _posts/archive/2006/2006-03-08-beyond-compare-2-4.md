@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 14325
 categories: [Development, Tools]
 redirect_from:
-  - /blog/archive/2006/03/08/beyond-compare-2-4.aspx/
+  - /blog/archive/2006/03/08/beyond-compare-2-4.aspx
 ---
 
 [![Beyond Compare](http://www.scootersoftware.com/en/shot7w.jpg)](http://www.scootersoftware.com/en/shot7w.png)

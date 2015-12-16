@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 282
 categories: [Development, Windows Vista]
 redirect_from:
-  - /blog/archive/2003/11/18/282.aspx/
+  - /blog/archive/2003/11/18/282.aspx
 ---
 
 [Walter Smith](http://walteratwork.com/PermaLink.aspx?guid=14be6a10-f92f-4586-9a64-082c8645e812):

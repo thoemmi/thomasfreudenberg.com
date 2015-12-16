@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 12680
 categories: [Site news]
 redirect_from:
-  - /blog/archive/2005/12/28/cyber-squatters-part-2.aspx/
+  - /blog/archive/2005/12/28/cyber-squatters-part-2.aspx
 ---
 
 I wrote two weeks ago that [a cyber squatter registered my domain thomasfreudenberg.com](/archive/2005/12/10/cyber-squatters-suck/). I've contacted her, and I want to share the exchanged mails with you:

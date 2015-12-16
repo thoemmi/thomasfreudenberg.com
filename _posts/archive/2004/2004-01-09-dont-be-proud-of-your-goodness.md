@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 307
 categories: [Site news]
 redirect_from:
-  - /blog/archive/2004/01/09/307.aspx/
+  - /blog/archive/2004/01/09/307.aspx
 ---
 
 ...since you may take a plunge.

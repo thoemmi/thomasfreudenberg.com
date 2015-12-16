@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 18930
 categories: [Site news, Community Server, FeedBurner]
 redirect_from:
-  - /blog/archive/2007/01/04/feedburner-site-statistics-for-communityserver.aspx/
+  - /blog/archive/2007/01/04/feedburner-site-statistics-for-communityserver.aspx
 ---
 
 Today [Nick Bradbury wrote](http://nick.typepad.com/blog/2007/01/feedburner_site.html):

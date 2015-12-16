@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 14114
 categories: [Development, Windows Vista]
 redirect_from:
-  - /blog/archive/2006/02/26/No-WPF-support-in-Vistas-Sidebar.aspx/
+  - /blog/archive/2006/02/26/No-WPF-support-in-Vistas-Sidebar.aspx
 ---
 
 ![Sidebar](/files/archive/sidebar2.png)

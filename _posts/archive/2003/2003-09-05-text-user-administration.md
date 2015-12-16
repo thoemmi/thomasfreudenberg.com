@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 165
 categories: [.Text]
 redirect_from:
-  - /blog/archive/2003/09/05/165.aspx/
+  - /blog/archive/2003/09/05/165.aspx
 ---
 
 .Text is a great product. However, currently there's no comfortable way to administrate the users, but you have to [edit and execute a SQL script](http://scottwater.com/dottext/posts/9253.aspx). I don't know how [Scott](http://scottwater.com/blog/) can manage all these 259 blogs at [weblogs @ asp.net](http://weblogs.asp.net/).

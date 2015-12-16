@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 28203
 categories: [User Group, Community, nrw07]
 redirect_from:
-  - /blog/archive/2007/04/28/nrw07-solution-technology-community.aspx/
+  - /blog/archive/2007/04/28/nrw07-solution-technology-community.aspx
 ---
 
 [![nrw07](http://nrw07.de/images/dabeirmini.png "nrw07")](http://nrw07.de/ "nrw07")

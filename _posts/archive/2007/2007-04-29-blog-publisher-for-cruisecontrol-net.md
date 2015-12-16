@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 28236
 categories: [Development, MetaWeblogApi, ccnet]
 redirect_from:
-  - /blog/archive/2007/04/29/blog-publisher-for-cruisecontrol-net.aspx/
+  - /blog/archive/2007/04/29/blog-publisher-for-cruisecontrol-net.aspx
 ---
 
 Some time ago I wrote a blog publisher for [CruiseControl.NET](http://ccnet.thoughtworks.com/), but didn't manage to blog about it. In fact, it totally slipped my mind. However, my machine behaves more and more weird lately, so I started to clean up the hard disks and back up all my data. So today it happened that I stumbled over my old blog publisher and finally posted it here.

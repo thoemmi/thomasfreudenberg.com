@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 161
 categories: [Development]
 redirect_from:
-  - /blog/archive/2003/09/04/161.aspx/
+  - /blog/archive/2003/09/04/161.aspx
 ---
 
 There's has been an [informative discussion](http://www.codeproject.com/lounge.asp?select=559609&df=100&tid=559609&forumid=1159&app=50#xx559609xx) in [CodeProject](http://www.codeproject.com/)'s [Lounge](http://www.codeproject.com/lounge.asp) regarding cached file dates.

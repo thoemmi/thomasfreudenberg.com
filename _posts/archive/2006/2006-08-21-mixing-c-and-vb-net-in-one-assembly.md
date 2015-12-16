@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 17593
 categories: [Development, MSBuild, CSMVPs]
 redirect_from:
-  - /blog/archive/2006/08/22/Mixing-C_2300_-and-VB.NET-in-one-assembly.aspx/
+  - /blog/archive/2006/08/22/Mixing-C_2300_-and-VB.NET-in-one-assembly.aspx
 ---
 
 A couple of weeks ago Jayson Knight invited me to join the [CSMVP's](http://csmvps.com/)' [CSModules package](http://csmvps.com/blogs/news/archive/2006/08/14/Community-Server-MVP_2700_s-Alabaster-CSModule-Package.aspx). This project was created to incorporate several CSModules written by CS MVP's. So I bought into that project by bringing along my Akismet spam rule.

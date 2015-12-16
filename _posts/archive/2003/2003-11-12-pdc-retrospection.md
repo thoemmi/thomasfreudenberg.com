@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 266
 categories: [PDC '03]
 redirect_from:
-  - /blog/archive/2003/11/13/PDC-Retrospection.aspx/
+  - /blog/archive/2003/11/13/PDC-Retrospection.aspx
 ---
 
 Today's the PDC retrospection "*Neues aus L.A.*" organized by [newtelligence AG](http://www.newtelligence.com/). You don't know newtelligence? Well, you may know [Clemens Vasters](http://staff.newtelligence.net/clemensv/), writer of [dasBlog](http://www.dasblog.net/). He's the CTO of newtelligence.

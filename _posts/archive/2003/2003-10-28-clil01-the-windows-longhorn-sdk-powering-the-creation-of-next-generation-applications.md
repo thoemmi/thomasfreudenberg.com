@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 249
 categories: [PDC '03]
 redirect_from:
-  - /blog/archive/2003/10/28/249.aspx/
+  - /blog/archive/2003/10/28/249.aspx
 ---
 
 Today I got an email from a coworker about the meaning of WinFX: "Is WinFX a new marketing name for .NET"?

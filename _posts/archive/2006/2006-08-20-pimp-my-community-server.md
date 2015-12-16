@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 17585
 categories: [Site news, Community Server]
 redirect_from:
-  - /blog/archive/2006/08/20/Pimp-my-Community-Server.aspx/
+  - /blog/archive/2006/08/20/Pimp-my-Community-Server.aspx
 ---
 
 Yesterday I upgraded my site to [Community Server 2.1 RTM](http://communityserver.org/blogs/announcements/archive/2006/08/09/Community-Server-2.1-Now-Available.aspx). I'm astonished how many additional mods I'm already using:

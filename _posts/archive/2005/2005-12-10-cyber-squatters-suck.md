@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 12673
 categories: [Site news]
 redirect_from:
-  - /blog/archive/2005/12/10/cyber-squatters-suck.aspx/
+  - /blog/archive/2005/12/10/cyber-squatters-suck.aspx
 ---
 
 Cyber squatters suck! Yes, they really suck!

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 28125
 categories: [Community Server, coComment]
 redirect_from:
-  - /blog/archive/2007/04/24/cocomment-for-cs-2007-updated.aspx/
+  - /blog/archive/2007/04/24/cocomment-for-cs-2007-updated.aspx
 ---
 
 Every day you can learn something new. Today it was [Scott](http://scottwater.com/) who taught me [`ControlAdapter`](http://weblogs.asp.net/scottgu/archive/2005/12/21/433692.aspx)s after he read my post about [coComment with CommunityServer 2007](/archive/2007/04/23/cocomment-support-for-cs-2007/). You know, `ControlAdapter`s are not only good for tweaking CSS.

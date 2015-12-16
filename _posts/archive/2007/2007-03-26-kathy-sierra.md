@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 25488
 categories: [Community]
 redirect_from:
-  - /blog/archive/2007/03/26/kathy-sierra.aspx/
+  - /blog/archive/2007/03/26/kathy-sierra.aspx
 ---
 
 Generally I limit my posts to programming stuff, but after I read Kathy Sierra's [Death threats against bloggers are NOT "protected speech"? (why I cancelled my ETech presentations)](http://headrush.typepad.com/creating_passionate_users/2007/03/as_i_type_this_.html) I have to break my habit.

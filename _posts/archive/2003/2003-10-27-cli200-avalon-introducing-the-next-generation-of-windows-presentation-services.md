@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 244
 categories: [PDC '03]
 redirect_from:
-  - /blog/archive/2003/10/27/244.aspx/
+  - /blog/archive/2003/10/27/244.aspx
 ---
 
 Awesome. Michael Wallent and Pablo Fernicola showed some impressive demos with Avalon. They coded a simple application containing several controls, which you can reposition, resize, and rotate during run-time. Interesting about it is that on of the controls played a WMV movie, glitchless even while rotating the hosting control.

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 349
 categories: [Site news, .Text]
 redirect_from:
-  - /blog/archive/2004/03/11/Stupidity.aspx/
+  - /blog/archive/2004/03/11/Stupidity.aspx
 ---
 
 Remember: if you patch your blogging engine, make sure everything works properly before publishing it! And backup everything!

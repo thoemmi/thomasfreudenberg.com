@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 183
 categories: [Development, PDC '03]
 redirect_from:
-  - /blog/archive/2003/09/09/Attending-PDC2003-in-LA.aspx/
+  - /blog/archive/2003/09/09/Attending-PDC2003-in-LA.aspx
 ---
 
 Chaka! I'm attending the PDC in L.A.!

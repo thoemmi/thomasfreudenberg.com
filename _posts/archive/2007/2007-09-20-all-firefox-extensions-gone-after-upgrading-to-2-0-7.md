@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 40563
 categories: [Software, Tips 'n Tricks, Firefox]
 redirect_from:
-  - /blog/archive/2007/09/20/all-firefox-extensions-gone-after-upgrading-to-2-0-7.aspx/
+  - /blog/archive/2007/09/20/all-firefox-extensions-gone-after-upgrading-to-2-0-7.aspx
 ---
 
 ![Firefox](/files/archive/firefox_logo.png)

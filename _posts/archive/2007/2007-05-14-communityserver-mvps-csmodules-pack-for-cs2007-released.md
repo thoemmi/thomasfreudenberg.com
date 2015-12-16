@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 29098
 categories: [Community Server, Akismet, CSMVPs]
 redirect_from:
-  - /blog/archive/2007/05/14/communityserver-mvps-csmodules-pack-for-cs2007-released.aspx/
+  - /blog/archive/2007/05/14/communityserver-mvps-csmodules-pack-for-cs2007-released.aspx
 ---
 
 Yesterday a new version of the CSMVPs CSModules package was released. Except the new LinkManager (which enables you to add customizable attributes to links in your posts automatically) it´s mainly a technical refresh targeting CommunityServer 2007 (SP1).

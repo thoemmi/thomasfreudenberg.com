@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 18196
 categories: [Community Server, Development, ASP.NET]
 redirect_from:
-  - /blog/archive/2006/11/13/Auto_2D00_attaching-to-aspnet_5F00_wp.exe.aspx/
+  - /blog/archive/2006/11/13/Auto_2D00_attaching-to-aspnet_5F00_wp.exe.aspx
 ---
 
 [Dennis van der Stelt](http://bloggingabout.net/blogs/dennis/) asked me how to debug CSModules without using the Community Server SDK. Ok, so here's how **I** debug my modules.

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 215
 categories: [Development, PDC '03]
 redirect_from:
-  - /blog/archive/2003/09/29/No-Aero-in-PDC_2700_s-Longhorn-Pre_2D00_Beta.aspx/
+  - /blog/archive/2003/09/29/No-Aero-in-PDC_2700_s-Longhorn-Pre_2D00_Beta.aspx
 ---
 
 [WinInformant](http://www.wininformant.com/Articles/Index.cfm?ArticleID=40367) says, that the PDC's Pre-Beta Longhorn supplied to the attendees will have the new GUI component Aero removed:

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 193
 categories: [Site news, Internet]
 redirect_from:
-  - /blog/archive/2003/09/12/193.aspx/
+  - /blog/archive/2003/09/12/193.aspx
 ---
 
 It seemed as [Feed Validator](http://feedvalidator.org/) didn't like me. When I checked it said it can't validate my [RSS feed](http://thoemmi.dyndns.org/tfr/rss.aspx). However, loading my feed within a web browser looked ok. Therefore, I wrote an email to [Mark](http://diveintomark.org/) and [Sam](http://www.intertwingly.net/blog/) this morning. I've got following reply:

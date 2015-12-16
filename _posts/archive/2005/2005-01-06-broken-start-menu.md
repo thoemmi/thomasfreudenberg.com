@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 467
 categories: [Tips 'n Tricks]
 redirect_from:
-  - /blog/archive/2005/01/07/467.aspx/
+  - /blog/archive/2005/01/07/467.aspx
 ---
 
 ![Broken Start Menu](/files/archive/startmenu.png)

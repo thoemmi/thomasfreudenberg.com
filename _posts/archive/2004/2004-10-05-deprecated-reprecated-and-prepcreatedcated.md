@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 444
 categories: [Development]
 redirect_from:
-  - /blog/archive/2004/10/05/444.aspx/
+  - /blog/archive/2004/10/05/444.aspx
 ---
 
 > \<kanze@gabi-soft.fr\> wrote in message

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 18518
 categories: [Vacation, Mexico]
 redirect_from:
-  - /blog/archive/2006/12/14/back-from-mexico.aspx/
+  - /blog/archive/2006/12/14/back-from-mexico.aspx
 ---
 
 ![](/files/archive/IMG_1487.JPG)

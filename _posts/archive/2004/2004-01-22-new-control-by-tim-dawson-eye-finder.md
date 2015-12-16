@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 318
 categories: [Development]
 redirect_from:
-  - /blog/archive/2004/01/22/New-control-by-Tim-Dawson_3A00_-Eye-Finder.aspx/
+  - /blog/archive/2004/01/22/New-control-by-Tim-Dawson_3A00_-Eye-Finder.aspx
 ---
 
 ![Eye Finder](/files/archive/eyefinder.gif)

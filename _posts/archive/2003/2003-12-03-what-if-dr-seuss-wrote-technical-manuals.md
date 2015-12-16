@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 287
 categories: []
 redirect_from:
-  - /blog/archive/2003/12/03/287.aspx/
+  - /blog/archive/2003/12/03/287.aspx
 ---
 
 > If a packet hits a pocket on a socket on a port,

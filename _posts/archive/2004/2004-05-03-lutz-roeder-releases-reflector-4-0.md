@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 392
 categories: [Development, Tools]
 redirect_from:
-  - /blog/archive/2004/05/03/Reflector40.aspx/
+  - /blog/archive/2004/05/03/Reflector40.aspx
 ---
 
 [Chris Sells wrote](http://www.sellsbrothers.com/news/showTopic.aspx?ixTopic=1314):

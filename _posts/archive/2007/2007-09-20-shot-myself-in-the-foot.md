@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 40544
 categories: [Site news, Comment Spam, CAPTCHA, Honeypot]
 redirect_from:
-  - /blog/archive/2007/09/20/shot-myself-in-the-foot.aspx/
+  - /blog/archive/2007/09/20/shot-myself-in-the-foot.aspx
 ---
 
 If you have tried to leave a comment on my site in the last two days, you may have noticed that they weren´t accepted. Here is why:

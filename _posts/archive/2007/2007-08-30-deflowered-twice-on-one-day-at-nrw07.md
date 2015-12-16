@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 38361
 categories: [Community Server, User Group, Community, nrw07, Conference]
 redirect_from:
-  - /blog/archive/2007/08/30/nrw07-follow-up.aspx/
+  - /blog/archive/2007/08/30/nrw07-follow-up.aspx
 ---
 
 ![nrw07 speaker](/files/archive/speakernrw07.jpg) 

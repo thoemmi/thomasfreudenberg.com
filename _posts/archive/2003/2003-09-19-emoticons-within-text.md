@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 199
 categories: [.Text]
 redirect_from:
-  - /blog/archive/2003/09/19/Emoticons-within-.Text.aspx/
+  - /blog/archive/2003/09/19/Emoticons-within-.Text.aspx
 ---
 
 Some days back I've started to implement support for emoticons in [.Text](http://scottwater.com/dottext/). It was expected to replace any textual emoticons such as :) into the graphical representation such as ![Smiley](/files/archive/smiley_smile.gif).

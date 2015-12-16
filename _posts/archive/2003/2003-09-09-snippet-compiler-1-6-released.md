@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 186
 categories: [Development]
 redirect_from:
-  - /blog/archive/2003/09/09/186.aspx/
+  - /blog/archive/2003/09/09/186.aspx
 ---
 
 [Peter Provost](http://www.peterprovost.org/weblog/) [says](http://www.peterprovost.org/weblog/permalink.aspx?guid=2bd8bfd9-9757-45aa-9696-4576ffd718aa):

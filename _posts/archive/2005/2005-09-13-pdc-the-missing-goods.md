@@ -7,7 +7,7 @@ disqus_identifier: 12499
 categories: [PDC '05]
 keywords: [pdc05]
 redirect_from:
-  - /blog/archive/2005/09/13/PDC_3A00_-The-_2800_missing_2900_-Goods.aspx/
+  - /blog/archive/2005/09/13/PDC_3A00_-The-_2800_missing_2900_-Goods.aspx
 ---
 
 ![PDC Goods](/files/archive/IMG_0602.png)

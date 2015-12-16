@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 486
 categories: [Internet, .Text]
 redirect_from:
-  - /blog/archive/2005/01/19/Add-rel_3D002200_nofollow_2200_-to-.Text-comments.aspx/
+  - /blog/archive/2005/01/19/Add-rel_3D002200_nofollow_2200_-to-.Text-comments.aspx
 ---
 
 Today [Google](http://www.google.com/googleblog/2005/01/preventing-comment-spam.html), [Yahoo](http://www.ysearchblog.com/archives/000069.html), [MSN Search](http://blogs.msdn.com/msnsearch/archive/2005/01/18/nofollow_tags.aspx), and other search operators announced their support of the `rel="nofollow"` attribute for `<a href="..." />` tags. Adding this attribute indicates the search crawlers, that the specific links should not contribute to the linked site's page rank. This [might](http://www.intertwingly.net/blog/2003/11/17/Comment-Throttle#c1069204247) help fighting comment spam, since overwhelming blogs with comments containing links to any pharmaceutical site won't increase their search rank.

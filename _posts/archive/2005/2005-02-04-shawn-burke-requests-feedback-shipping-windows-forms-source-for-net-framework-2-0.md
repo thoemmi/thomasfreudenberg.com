@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 619
 categories: [Development]
 redirect_from:
-  - /blog/archive/2005/02/04/619.aspx/
+  - /blog/archive/2005/02/04/619.aspx
 ---
 
 [Feedback requested: Shipping Windows Forms Source for .NET Framework 2.0:](http://www.shawnburke.com/permalink.aspx?documentname=85675fce-70e9-44eb-b4f0-90137220569f)

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 23803
 categories: [Development, Windows Vista, Whidbey]
 redirect_from:
-  - /blog/archive/2007/03/07/visual-studio-2005-service-pack-1-update-for-windows-vista.aspx/
+  - /blog/archive/2007/03/07/visual-studio-2005-service-pack-1-update-for-windows-vista.aspx
 ---
 
 It's finally there, my dear Vista developers:

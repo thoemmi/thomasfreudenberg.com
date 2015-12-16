@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 12481
 categories: [Vacation, Fuerteventura]
 redirect_from:
-  - /blog/archive/2005/09/09/Back-from-vacation.aspx/
+  - /blog/archive/2005/09/09/Back-from-vacation.aspx
 ---
 
 Two days ago my girl friend and I returned from our vacation on [Fuerteventura](http://www.fuerteventura.com/). Most of the time we were hanging around at the beach or the hotel's pool, but we have rented a Jeep for three days to explore the island. Though Fuerteventura is a relatively deserted island, I love this minimalistic landscape. If you're looking for quiet and recreative vacation, I can really recommend this island.

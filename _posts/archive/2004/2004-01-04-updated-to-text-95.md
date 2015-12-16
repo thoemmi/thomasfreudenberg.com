@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 296
 categories: [Site news, .Text]
 redirect_from:
-  - /blog/archive/2004/01/04/Updated-to-.Text--.95.aspx/
+  - /blog/archive/2004/01/04/Updated-to-.Text--.95.aspx
 ---
 
 Today I managed to update my site to [.Text .95](http://scottwater.com/blog/archive/2004/01/02/11058.aspx) by following [this guide](http://dottextwiki.scottwater.com/default.aspx/Dottext.ONinetyFiveUpgrade). It turned out all right, however, here's an advice for you: if you're using a custom skin, switch your blog back to a default one. ![Wink](/files/archive/smiley_dead.gif)

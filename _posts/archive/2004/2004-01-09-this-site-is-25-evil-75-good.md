@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 306
 categories: [Site news]
 redirect_from:
-  - /blog/archive/2004/01/09/306.aspx/
+  - /blog/archive/2004/01/09/306.aspx
 ---
 
 That's what [The Gematriculator](http://homokaasu.org/gematriculator/) says.

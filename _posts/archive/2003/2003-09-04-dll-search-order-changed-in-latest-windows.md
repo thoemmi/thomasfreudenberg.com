@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 162
 categories: [Development]
 redirect_from:
-  - /blog/archive/2003/09/04/162.aspx/
+  - /blog/archive/2003/09/04/162.aspx
 ---
 
 I found the following breaking change in the MSDN article "[Development Impacts of Security Changes in Windows Server 2003](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dncode/html/secure06122003.asp)" by Michael Howard:

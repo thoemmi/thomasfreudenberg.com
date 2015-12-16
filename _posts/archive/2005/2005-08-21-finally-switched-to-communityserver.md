@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 12429
 categories: [Site news, Community Server]
 redirect_from:
-  - /blog/archive/2005/08/21/12429.aspx/
+  - /blog/archive/2005/08/21/12429.aspx
 ---
 
 Finally, several month after the initial release of [CommunityServer](http://communityserver.org/) I've managed to migrate from dotText. With the help from [Kevin Harder](http://kevinharder.com/)'s [DotText-CS-Converter](http://kevinharder.com/communityserver/default.aspx#DotText-CS-Converter) and [Ken Robertson](http://www.qgyen.net/)'s [SiteUrls Generator](http://www.qgyen.net/csaddins/singlesite/) I was even able to preserve the old site structure.

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 236
 categories: [Site news]
 redirect_from:
-  - /blog/archive/2003/10/25/236.aspx/
+  - /blog/archive/2003/10/25/236.aspx
 ---
 
 I just finished the [relocation](/archive/2003/10/23/this-moveto-thomasfreudenberg-com/) of my site.

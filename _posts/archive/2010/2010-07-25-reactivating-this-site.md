@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 257646
 categories: [Site news]
 redirect_from:
-  - /blog/archive/2010/07/25/reactivating-this-site.aspx/
+  - /blog/archive/2010/07/25/reactivating-this-site.aspx
 ---
 
 ![germany.hamburg](/files/archive/germany.hamburg_4531E44E.png "germany.hamburg")

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 258
 categories: [Development, Software]
 redirect_from:
-  - /blog/archive/2003/11/05/258.aspx/
+  - /blog/archive/2003/11/05/258.aspx
 ---
 
 [SysInternals](http://www.sysinternals.com/) have released [Process Explorer 8.02](http://www.sysinternals.com/ntw2k/freeware/procexp.shtml) a few days ago.

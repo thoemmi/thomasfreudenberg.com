@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 225
 categories: [Development]
 redirect_from:
-  - /blog/archive/2003/10/15/225.aspx/
+  - /blog/archive/2003/10/15/225.aspx
 ---
 
 I'm programming in C\# for about 18 month by now, and I really like it. However, what I'm missing about C\# are constant parameters.

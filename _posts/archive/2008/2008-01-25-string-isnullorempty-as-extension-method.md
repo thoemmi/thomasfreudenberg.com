@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 57390
 categories: ['.NET']
 redirect_from:
-  - /blog/archive/2008/01/25/string-isnullorempty-as-extension-method.aspx/
+  - /blog/archive/2008/01/25/string-isnullorempty-as-extension-method.aspx
 ---
 
 Most you will probably know about Extension Method introduced with C\# 3.0. If not, I strongly recommend to read ScottGu's [explanation](http://weblogs.asp.net/scottgu/archive/2007/03/13/new-orcas-language-feature-extension-methods.aspx).

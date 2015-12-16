@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 319
 categories: [Development]
 redirect_from:
-  - /blog/archive/2004/01/22/Feature-Request-for-RSS-Bandit.aspx/
+  - /blog/archive/2004/01/22/Feature-Request-for-RSS-Bandit.aspx
 ---
 
 Earlier today [I mentioned](/archive/2004/01/22/new-control-by-tim-dawson-eye-finder/) the [new Eyefinder control](http://www.divil.co.uk/net/controls/eyefinder/) by [Tim Dawson](http://www.divil.co.uk/). I said I would like to see it in [RSS Bandit](http://rssbandit.org). Here's a screenshot of what I have in mind:

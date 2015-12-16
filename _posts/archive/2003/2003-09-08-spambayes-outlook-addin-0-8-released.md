@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 176
 categories: [Software]
 redirect_from:
-  - /blog/archive/2003/09/08/176.aspx/
+  - /blog/archive/2003/09/08/176.aspx
 ---
 
 Yesterday the Outlook addin by the SpamBayes project has been released in 0.8. I've been using 0.7 for several weeks. I'm impressed, no false positives by now.

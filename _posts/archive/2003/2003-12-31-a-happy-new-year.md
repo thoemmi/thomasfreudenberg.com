@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 294
 categories: []
 redirect_from:
-  - /blog/archive/2003/12/31/294.aspx/
+  - /blog/archive/2003/12/31/294.aspx
 ---
 
 I wish you all a good 2004. Take care everyone.

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 218
 categories: [Development]
 redirect_from:
-  - /blog/archive/2003/10/09/218.aspx/
+  - /blog/archive/2003/10/09/218.aspx
 ---
 
 Did you ever write a .NET Windows service? What I really dislike about it is that though the framework provides the [`System.ServiceProcess.ServiceInstaller`](http://msdn.microsoft.com/library/en-us/cpref/html/frlrfSystemServiceProcessServiceInstallerClassTopic.asp) class, you still have to use the external [installutil](http://msdn.microsoft.com/library/en-us/cptools/html/cpconinstallerutilityinstallutilexe.asp) tool.

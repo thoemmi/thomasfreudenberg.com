@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 258000
 categories: [WPF, MVVM]
 redirect_from:
-  - /blog/archive/2010/08/01/binding-webbrowser-content-in-wpf.aspx/
+  - /blog/archive/2010/08/01/binding-webbrowser-content-in-wpf.aspx
 ---
 
 When you’re using a [WebBrowser control](http://msdn.microsoft.com/en-us/library/system.windows.controls.webbrowser.aspx "WebBrowser control") in your WPF application, you may have noticed that you can’t bind the control’s content. WebBrowser has no property to set its content but a method named [`NavigateToString`](http://msdn.microsoft.com/en-us/library/system.windows.controls.webbrowser.navigatetostring.aspx "WebBrowser.NavigateToString"). So when you’re following a strict MVVM approach you’re lost because you don’t want any code-behind for your views.

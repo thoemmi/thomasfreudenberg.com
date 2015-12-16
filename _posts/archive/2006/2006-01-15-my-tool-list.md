@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 13165
 categories: [Software, Tools]
 redirect_from:
-  - /blog/archive/2006/01/15/my-ultimate-tool-list.aspx/
+  - /blog/archive/2006/01/15/my-ultimate-tool-list.aspx
 ---
 
 At the last meeting of our [UserGroup](http://www.vfl-niederrhein.net/) I've presented a list of tools I'm using frequently. Because of strong demand I promised to publish it here on my blog:

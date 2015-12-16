@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 376
 categories: [Software]
 redirect_from:
-  - /blog/archive/2004/04/07/EnableShutdownInLoginDialog.aspx/
+  - /blog/archive/2004/04/07/EnableShutdownInLoginDialog.aspx
 ---
 
 After I got rid of this [annoying shutdown dialog](/archive/2004/04/06/shut-down-windows-2003-without-being-hassled/), I have another tip for you. There's a shutdown button on the Windows 2003's login dialog, which is diabled all the time (at least on my machine). Google led me to [Brad Wilson](http://dotnetguy.techieswithcats.com/)'s [Windows Server 2003 Tip of the Day](http://dotnetguy.techieswithcats.com/archives/003718.shtml):

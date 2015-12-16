@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 13755
 categories: [coComment]
 redirect_from:
-  - /blog/archive/2006/02/12/more-coComment.aspx/
+  - /blog/archive/2006/02/12/more-coComment.aspx
 ---
 
 [Dave Burke](http://dbvt.com/) entered the [coComment](http://www.cocomment.com/) zone and [said](http://dbvt.com/blog/archive/2006/02/12/3918.aspx):

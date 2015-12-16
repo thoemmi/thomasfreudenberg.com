@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 18062
 categories: [Community Server]
 redirect_from:
-  - /blog/archive/2006/10/23/New-Features-in-CS-3.0.aspx/
+  - /blog/archive/2006/10/23/New-Features-in-CS-3.0.aspx
 ---
 
 Scott posted his [three favorite new features in Community Server 3.0](http://scottwater.com/blog/archive/cs-3-0-update.aspx), one of which is

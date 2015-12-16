@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 17777
 categories: [Community Server, Development, coComment]
 redirect_from:
-  - /blog/archive/2006/09/19/Updated-coComment-support-for-Community-Server-2.1.aspx/
+  - /blog/archive/2006/09/19/Updated-coComment-support-for-Community-Server-2.1.aspx
 ---
 
 Yesterday the guys at coComment [updated their scripts](http://www.cocomment.com/teamblog/?p=117). They also refreshed the example for Community Server, but that's targetting CS 2.0. There are some breaking changes in the API of CS 2.1, so that code won't work with Telligent's latest release. Keyvan Nayyeri [updated the code](http://nayyeri.net/archive/2006/07/21/Adding-CoComment-support-to-Community-Server-2.1.aspx) some time ago. I polished it a little bit and incorporated the latest changes from coComment:

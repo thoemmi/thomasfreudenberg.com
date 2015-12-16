@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 189
 categories: [Internet]
 redirect_from:
-  - /blog/archive/2003/09/11/189.aspx/
+  - /blog/archive/2003/09/11/189.aspx
 ---
 
 [What's up](http://new.blogger.com/home.pyra) at bloggers:

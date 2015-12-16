@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 260
 categories: [Software]
 redirect_from:
-  - /blog/archive/2003/11/06/260.aspx/
+  - /blog/archive/2003/11/06/260.aspx
 ---
 
 [Luke Hutteman](http://www.hutteman.com/) [has released a new version](http://www.hutteman.com/weblog/2003/11/07-137.html) of [SharpReader](http://www.sharpreader.net/):

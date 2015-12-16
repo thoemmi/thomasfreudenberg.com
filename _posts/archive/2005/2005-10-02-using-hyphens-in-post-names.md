@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 12540
 categories: [Community Server]
 redirect_from:
-  - /blog/archive/2005/10/03/using-hyphens-in-post-names.aspx/
+  - /blog/archive/2005/10/03/using-hyphens-in-post-names.aspx
 ---
 
 There was a discussion [regarding naming of posts](http://communityserver.org/forums/498215/ShowPost.aspx) in a CommunityServer forum (a surprisingly unknown feature of CS::Blogs, though even dotText .96 supported it). CS replaces spaces with underscores. However, Jonathan stated that Google prefers hyphens to underscores. So I tried to use hyphens in the post name, but I've stumbled over two issues:

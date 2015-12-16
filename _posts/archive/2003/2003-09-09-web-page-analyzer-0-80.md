@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 185
 categories: [Internet]
 redirect_from:
-  - /blog/archive/2003/09/09/185.aspx/
+  - /blog/archive/2003/09/09/185.aspx
 ---
 
 > [Andy King](http://www.websiteoptimization.com/about/) has updated his [web page analyzer](http://www.websiteoptimization.com/services/analyze/).

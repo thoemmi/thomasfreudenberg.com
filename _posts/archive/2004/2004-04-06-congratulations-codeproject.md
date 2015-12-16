@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 371
 categories: [Development]
 redirect_from:
-  - /blog/archive/2004/04/06/371.aspx/
+  - /blog/archive/2004/04/06/371.aspx
 ---
 
 [![](http://www.codeproject.com/images/codeproject100x30.gif)](http://www.codeproject.com/)

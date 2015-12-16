@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 16881
 categories: [Site news, Community Server]
 redirect_from:
-  - /blog/archive/2006/07/29/Community-Server-2.1-Beta-2.aspx/
+  - /blog/archive/2006/07/29/Community-Server-2.1-Beta-2.aspx
 ---
 
 I just upgraded my site with [Community Server 2.1 Beta 2](http://communityserver.org/forums/thread/540364.aspx), which was published yesterday.

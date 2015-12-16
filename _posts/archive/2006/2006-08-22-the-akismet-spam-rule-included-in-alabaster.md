@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 17598
 categories: [Community Server, Akismet, CSMVPs]
 redirect_from:
-  - /blog/archive/2006/08/22/The-Akismet-Spam-Rule-included-in-Alabaster.aspx/
+  - /blog/archive/2006/08/22/The-Akismet-Spam-Rule-included-in-Alabaster.aspx
 ---
 
 Though I spoke about my Akismet spam rule [a couple of weeks ago](/archive/2006/07/21/whats-next/), I didn't draw that much attention to it. However, now that the first version of CSMVP's CSModules package, code name [Alabaster](http://csmvps.com/blogs/news/archive/2006/08/14/Community-Server-MVP_2700_s-Alabaster-CSModule-Package.aspx), is released for more than a week, I'd like to spent some words on it, though Jayson mentioned it in his [CS Tidbits: Exploring The CS Spam Blocker](http://jaysonknight.com/blog/archive/2006/08/20/CS-Tidbits-_2300_21_3A00_-Exploring-The-CS-Spam-Blocker.aspx).

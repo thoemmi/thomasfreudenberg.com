@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 40205
 categories: []
 redirect_from:
-  - /blog/archive/2007/09/17/honeypot-captcha-for-community-server.aspx/
+  - /blog/archive/2007/09/17/honeypot-captcha-for-community-server.aspx
 ---
 
 A few days ago [Phil Haack](http://haacked.com/) wrote about [Honeypot Captcha](http://haacked.com/archive/2007/09/11/honeypot-captcha.aspx):

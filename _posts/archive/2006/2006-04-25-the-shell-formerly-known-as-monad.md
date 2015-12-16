@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 15211
 categories: [Development, PowerShell, Monad]
 redirect_from:
-  - /blog/archive/2006/04/25/The-shell-formerly-known-as-monad.aspx/
+  - /blog/archive/2006/04/25/The-shell-formerly-known-as-monad.aspx
 ---
 
 ...is now called [Windows PowerShell](http://blogs.msdn.com/powershell/) and available as [RC1](http://blogs.msdn.com/powershell/archive/2006/04/25/583344.aspx).

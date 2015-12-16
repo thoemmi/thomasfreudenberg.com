@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 458163
 categories: [7-zip, Powershell]
 redirect_from:
-  - /blog/archive/2013/04/07/7-zip-for-powershell.aspx/
+  - /blog/archive/2013/04/07/7-zip-for-powershell.aspx
 ---
 
 ![powershell\_logo](/files/archive/powershell_logo.jpg "powershell_logo")

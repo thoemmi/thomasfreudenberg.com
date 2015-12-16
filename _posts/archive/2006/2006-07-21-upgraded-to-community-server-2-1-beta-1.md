@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 16866
 categories: [Site news, Community Server]
 redirect_from:
-  - /blog/archive/2006/07/22/Upgraded-to-Community-Server-2.1-beta-1.aspx/
+  - /blog/archive/2006/07/22/Upgraded-to-Community-Server-2.1-beta-1.aspx
 ---
 
 Finally I managed to update my site. I already missed the last major step from 1.1 to 2.1. However, during the last few weeks the number of spams increased daily. Because CS 2.0 introduced a spam checker, I decided to bite the bullet. Of course I took the harder route: Not only updating from CS 1.1 to CS 2.1 beta 1, but from .NET 1.1 to 2.0 as well. Surprisingly it went smoother than expected:

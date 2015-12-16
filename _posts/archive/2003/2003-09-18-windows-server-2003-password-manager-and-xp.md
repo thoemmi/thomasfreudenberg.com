@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 197
 categories: [Software]
 redirect_from:
-  - /blog/archive/2003/09/18/197.aspx/
+  - /blog/archive/2003/09/18/197.aspx
 ---
 
 Are you working with Windows Server 2003? Maybe you have noticed that *Stored User Names and Passwords* control panel applet:

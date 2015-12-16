@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 250
 categories: [Whidbey, PDC '03]
 redirect_from:
-  - /blog/archive/2003/10/28/250.aspx/
+  - /blog/archive/2003/10/28/250.aspx
 ---
 
 -   Nice new features in the IDE:

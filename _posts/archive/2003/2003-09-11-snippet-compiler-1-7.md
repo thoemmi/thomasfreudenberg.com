@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 190
 categories: [Development]
 redirect_from:
-  - /blog/archive/2003/09/11/190.aspx/
+  - /blog/archive/2003/09/11/190.aspx
 ---
 
 While two days ago [I told you](http://thoemmi.dyndns.org/tfr/posts/186.aspx) about Snippet Compiler 1.6, today [1.7](http://www.sliver.com/dotnet/snippetcompiler/) has been released. Gosh, I'm glad we don't release our software at this speed.

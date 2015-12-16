@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 426
 categories: [Internet]
 redirect_from:
-  - /blog/archive/2004/07/19/426.aspx/
+  - /blog/archive/2004/07/19/426.aspx
 ---
 
 [Paschal Leloup](http://weblogs.asp.net/pleloup/) [has found](http://weblogs.asp.net/pleloup/archive/2004/06/16/156863.aspx) a site with free fonts:

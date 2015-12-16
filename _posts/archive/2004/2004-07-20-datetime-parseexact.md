@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 428
 categories: [Development]
 redirect_from:
-  - /blog/archive/2004/07/20/DateTime.ParseExact.aspx/
+  - /blog/archive/2004/07/20/DateTime.ParseExact.aspx
 ---
 
 If you're using [`DateTime.ParseExact`](http://msdn.microsoft.com/library/en-us/cpref/html/frlrfSystemDateTimeClassParseExactTopic.asp) with a custom format string including slashes, don't forget to escape them.

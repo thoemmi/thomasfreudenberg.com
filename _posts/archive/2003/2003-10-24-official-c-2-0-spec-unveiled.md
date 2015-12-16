@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 231
 categories: [Development]
 redirect_from:
-  - /blog/archive/2003/10/24/231.aspx/
+  - /blog/archive/2003/10/24/231.aspx
 ---
 
 > Today, the C\# team published the most up-to-date specification of the C\# language, which includes many improvements over the original proposal unveiled a year ago.

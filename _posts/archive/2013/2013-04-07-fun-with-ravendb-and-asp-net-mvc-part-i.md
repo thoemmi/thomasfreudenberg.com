@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 458164
 categories: [RavenDB, aspnetmvc]
 redirect_from:
-  - /blog/archive/2013/04/08/fun-with-ravendb-and-asp-net-mvc-part-i.aspx/
+  - /blog/archive/2013/04/08/fun-with-ravendb-and-asp-net-mvc-part-i.aspx
 ---
 
 I’m working on a small pet project with ASP.NET MVC, where hierarchical structured documents are stored in [RavenDB](http://ravendb.net/). These documents can be retrieved by their unique URL, which is also stored in the document. Because there are different kinds of document class, they all derive from the common interface `IRoutable`. This interface defines a property `Path`, by which the document can be accessed.

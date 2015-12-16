@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 421
 categories: [Development, Whidbey]
 redirect_from:
-  - /blog/archive/2004/07/09/VCBuild.aspx/
+  - /blog/archive/2004/07/09/VCBuild.aspx
 ---
 
 Several month ago, [Peter Huene](http://weblogs.asp.net/peterhu/) introduced [VC Build](http://weblogs.asp.net/peterhu/archive/2004/02/10/71133.aspx), a command line tool to build C++ projects and solutions. For building our product, we have a huge batch file, which spawns devenv for every project. You have to know that devenv loads lots of DLLs and consumes much memory, even if you're just building a project from the command line. The number of our projects is triple-digit, so devenv is started more than a hundred times. The entire build of our software took on my machine 1 1/4 hours.

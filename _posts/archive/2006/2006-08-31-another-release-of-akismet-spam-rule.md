@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 17690
 categories: [Community Server, Akismet, CSMVPs]
 redirect_from:
-  - /blog/archive/2006/08/31/Another-release-of-Akismet-spam-rule.aspx/
+  - /blog/archive/2006/08/31/Another-release-of-Akismet-spam-rule.aspx
 ---
 
 My [Akismet spam rule](/archive/2006/08/22/the-akismet-spam-rule-included-in-alabaster/) has a second home. Originally I contributed it to CSMVP's CSModules package aka [Alabaster](http://csmvps.com/blogs/news/archive/2006/08/14/Community-Server-MVP_2700_s-Alabaster-CSModule-Package.aspx). A couple of days ago [José Lema](http://www.tankete.com/core/blogs/jose_lema/) informed me that Telligent wants to release a free dedicated spam rule package, and they would like to include my rule as well. First I hesitated relinquishing my baby, but hey, the more users get easier access to that rule, the less spam they'll get. So finally I agreed José to include my rule in their package.

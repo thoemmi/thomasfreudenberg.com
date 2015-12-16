@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 22666
 categories: [Software, Tips 'n Tricks, Virtual PC]
 redirect_from:
-  - /blog/archive/2007/02/20/virtual-pc-2007-released.aspx/
+  - /blog/archive/2007/02/20/virtual-pc-2007-released.aspx
 ---
 
 ![myvirtualmachines Environment variable](/files/archive/MyVirtualMaschines.png "myvirtualmachines Environment variable")

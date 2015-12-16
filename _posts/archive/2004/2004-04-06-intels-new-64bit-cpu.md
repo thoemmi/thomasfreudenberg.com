@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 372
 categories: [Fun]
 redirect_from:
-  - /blog/archive/2004/04/06/Intel_2700_s-new-64bit-CPU.aspx/
+  - /blog/archive/2004/04/06/Intel_2700_s-new-64bit-CPU.aspx
 ---
 
 ![Intels new 64bit CPU](/files/archive/intel_64bit.jpg)

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 57736
 categories: [Community Server, Community]
 redirect_from:
-  - /blog/archive/2008/01/29/net-forum-de-launched.aspx/
+  - /blog/archive/2008/01/29/net-forum-de-launched.aspx
 ---
 
 [![.NET Forum](/files/archive/dotnet-forum.gif)](http://dotnet-forum.de/)

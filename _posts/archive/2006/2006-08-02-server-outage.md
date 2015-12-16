@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 16882
 categories: [Site news]
 redirect_from:
-  - /blog/archive/2006/08/02/Server-Outage.aspx/
+  - /blog/archive/2006/08/02/Server-Outage.aspx
 ---
 
 As my two readers may already have noticed, my site wasn't accessible for the last 24hrs. The SQL Server hosting my Community Server database had a hard disk failure, and it took them some time to find the backup tapes [:S]

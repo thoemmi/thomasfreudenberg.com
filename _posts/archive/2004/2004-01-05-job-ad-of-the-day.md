@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 298
 categories: []
 redirect_from:
-  - /blog/archive/2004/01/05/298.aspx/
+  - /blog/archive/2004/01/05/298.aspx
 ---
 
 That's what I call an adequate job advertisment for programmers:

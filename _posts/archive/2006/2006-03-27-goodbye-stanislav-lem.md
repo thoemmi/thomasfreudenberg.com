@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 14572
 categories: []
 redirect_from:
-  - /blog/archive/2006/03/27/14572.aspx/
+  - /blog/archive/2006/03/27/14572.aspx
 ---
 
 [Stanislav Lem](http://en.wikipedia.org/wiki/Stanislav_Lem), September 12, 1921 - March 27, 2006

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 158
 categories: [.Text]
 redirect_from:
-  - /blog/archive/2003/09/04/Some-more-issues-with-.94.aspx/
+  - /blog/archive/2003/09/04/Some-more-issues-with-.94.aspx
 ---
 
 ~~I've updated my site to~~ [~~.Text .94~~](http://scottwater.com/dottext/posts/9738.aspx)~~, but unfortunately I have had some issues, though I followed~~ [~~Scott's instructions~~](http://scottwater.com/dottext/posts/9742.aspx)~~. Maybe I did something wrong during the setup, but here are my changes to the aggregated version of `web.config` to get my site working:~~

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 13631
 categories: [Site news, Community Server, coComment]
 redirect_from:
-  - /blog/archive/2006/02/09/adding-coComment-support-to-CommunityServer.aspx/
+  - /blog/archive/2006/02/09/adding-coComment-support-to-CommunityServer.aspx
 ---
 
 Yesterday Jayson Knight [described](http://jaysonknight.com/blog/archive/2006/02/08/7008.aspx) how to add [**coComment**](http://cocomment.com/) support to **CommunityServer**. I'm a user of coComment too, therefore I added Jayson's hack to my blog.

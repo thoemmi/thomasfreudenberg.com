@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 28232
 categories: [Site news, Community Server]
 redirect_from:
-  - /blog/archive/2007/04/29/captcha-for-communityserver-2007.aspx/
+  - /blog/archive/2007/04/29/captcha-for-communityserver-2007.aspx
 ---
 
 Brendan Tompkins released [CAPTCHA for CommunityServer 2007](http://codebetter.com/blogs/brendan.tompkins/archive/2007/04/27/captcha-for-community-server-2007.aspx):

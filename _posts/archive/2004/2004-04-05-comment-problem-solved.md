@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 367
 categories: [Site news]
 redirect_from:
-  - /blog/archive/2004/04/05/CommentProblemSolved.aspx/
+  - /blog/archive/2004/04/05/CommentProblemSolved.aspx
 ---
 
 As [I posted](/archive/2004/04/01/no-comments-possible/), no postbacks on my site were possible. Though I'm running the same application at home and on my site, the `onsubmit` tag was rendered differently. At home I get

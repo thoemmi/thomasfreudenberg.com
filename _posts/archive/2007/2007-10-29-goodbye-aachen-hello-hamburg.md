@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 44355
 categories: [Hamburg, Proximity, Cycos]
 redirect_from:
-  - /blog/archive/2007/10/29/goodbye-aachen-hello-hamburg.aspx/
+  - /blog/archive/2007/10/29/goodbye-aachen-hello-hamburg.aspx
 ---
 
 [![Cycos](/files/archive/Cycos_Logo.png)](http://www.cycos.com/) 

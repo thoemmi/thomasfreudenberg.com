@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 58262
 categories: [Graffiti]
 redirect_from:
-  - /blog/archive/2008/02/04/sharing-extension-for-graffiti.aspx/
+  - /blog/archive/2008/02/04/sharing-extension-for-graffiti.aspx
 ---
 
 Two weeks ago [Telligent](http://telligent.com/) published the second beta of their upcoming new product [Graffiti](http://graffiticms.com/). It is a simple lightweight content management system. And by simple I don't mean lame. Far from it! It is simple in the sense of easy deployment, management, and publishing.

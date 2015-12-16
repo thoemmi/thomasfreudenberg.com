@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 145
 categories: [Site news]
 redirect_from:
-  - /blog/archive/2003/08/31/145.aspx/
+  - /blog/archive/2003/08/31/145.aspx
 ---
 
 Just started blogging. Well, sort of. In fact, I'm already blogging for two month by now,  but restricted to the intranet in our company [Cycos](http://www.cycos.com/).

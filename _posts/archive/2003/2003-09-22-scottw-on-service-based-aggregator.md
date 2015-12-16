@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 208
 categories: [Development]
 redirect_from:
-  - /blog/archive/2003/09/22/208.aspx/
+  - /blog/archive/2003/09/22/208.aspx
 ---
 
 [ScottW](http://scottwater.com/) [talks about a Service Based Aggregator](http://scottwater.com/blog/posts/9981.aspx):

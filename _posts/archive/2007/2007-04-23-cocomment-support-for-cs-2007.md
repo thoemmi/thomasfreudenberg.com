@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 28102
 categories: [Community Server, Development, coComment]
 redirect_from:
-  - /blog/archive/2007/04/23/cocomment-support-for-cs-2007.aspx/
+  - /blog/archive/2007/04/23/cocomment-support-for-cs-2007.aspx
 ---
 
 If you are one of my two regular readers, you may have noticed that I published [many posts](/files/archive/default.bin) regarding [coComment](http://www.cocomment.com/). In fact, I published instructions to integrate coComment in original [CommunityServer](/archive/2006/02/08/revised-cocomment-support/) and [CS2.1SP1](/archive/2006/09/19/updated-cocomment-support-for-community-server-2-1/) (for CS2.0 and CS2.1 [Keyvan](http://nayyeri.net/) was faster than me [:p])

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 284
 categories: [Development, Software, Windows Vista]
 redirect_from:
-  - /blog/archive/2003/11/27/284.aspx/
+  - /blog/archive/2003/11/27/284.aspx
 ---
 
 [Gartner](http://www.gartner.com/) [says](http://www.gartner.com/DisplayDocument?doc_cd=118261):

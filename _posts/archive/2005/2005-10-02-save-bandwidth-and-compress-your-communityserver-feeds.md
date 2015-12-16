@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 12539
 categories: [Community Server, Development]
 redirect_from:
-  - /blog/archive/2005/10/03/compress-your-communityserver-feeds.aspx/
+  - /blog/archive/2005/10/03/compress-your-communityserver-feeds.aspx
 ---
 
 Now that my vacation and the PDC are over, I can continue with all the stuff which I left unfinished on my desk. One of these is a mod for CommunityServer which compresses all the exposed feeds. I've written it some weeks ago already and deployed it on my web server. Since it seems to work properly, I now want to announce it publicly. Though my bandwidth at [WebHost4Life](http://www.WebHost4Life.com/default.asp?refid=thoemmi) isn't limited, for some of you it may save real money.

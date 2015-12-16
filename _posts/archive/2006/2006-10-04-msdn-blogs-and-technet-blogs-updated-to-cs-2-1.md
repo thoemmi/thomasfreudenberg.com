@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 17913
 categories: [Community Server]
 redirect_from:
-  - /blog/archive/2006/10/05/MSDN-Blogs-and-TechNet-Blogs-updated-to-CS-2.1.aspx/
+  - /blog/archive/2006/10/05/MSDN-Blogs-and-TechNet-Blogs-updated-to-CS-2.1.aspx
 ---
 
 [Dave Burke](http://dbvt.com/) mentioned on [CS Daily News last Monday](http://communityserver.org/blogs/dailynews/archive/2006/10/02/550666.aspx "Community Server Daily News") that both [MSDN Blogs](http://blogs.msdn.com/ "MSDN Blogs") and [TechNet Blogs](http://blogs.technet.com/ "TechNet Blogs") have been updated to Community Server 2.1. However, in my opinion they missed to make use of one of CS's most interesting new features: tag support.

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 12485
 categories: [PDC '05]
 redirect_from:
-  - /blog/archive/2005/09/09/Four-Days-Left.aspx/
+  - /blog/archive/2005/09/09/Four-Days-Left.aspx
 ---
 
 I'm cleaning up my desk at the moment and preparing my laptop as I did [the last time](/archive/2003/10/17/todos-before-pdc/) before I'll leave tomorrow.

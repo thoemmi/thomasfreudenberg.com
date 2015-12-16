@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 224
 categories: [Site news]
 redirect_from:
-  - /blog/archive/2003/10/13/224.aspx/
+  - /blog/archive/2003/10/13/224.aspx
 ---
 
 I know I'm a geek. These pages are hosted on my server at home. It's a recycled Athlon XP 1800+ running Windows Server 2003 incl IIS 6.0, MS SQL 2000 and MS Exchange 2003. It's connected via [T-DSL](http://www.t-dsl.com/) (768/128 KBit/s).

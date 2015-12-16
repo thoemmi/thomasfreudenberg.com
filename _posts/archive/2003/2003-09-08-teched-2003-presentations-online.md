@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 177
 categories: [Development]
 redirect_from:
-  - /blog/archive/2003/09/08/177.aspx/
+  - /blog/archive/2003/09/08/177.aspx
 ---
 
 > In case you didn't get a chance to go to TechEd this year, I just found that most (all?) of the presentations are available online. I don't mean just the PowerPoint decks, I mean the whole thing. Decks, audio, everything!

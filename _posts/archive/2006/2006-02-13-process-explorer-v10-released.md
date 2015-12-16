@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 13786
 categories: [Tools]
 redirect_from:
-  - /blog/archive/2006/02/13/process-explorer-v10.aspx/
+  - /blog/archive/2006/02/13/process-explorer-v10.aspx
 ---
 
 ![Process Explorer v10](http://www.sysinternals.com/images/screenshots/ProcessExplorer.gif)

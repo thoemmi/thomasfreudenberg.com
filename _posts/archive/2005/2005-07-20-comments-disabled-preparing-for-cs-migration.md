@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 12305
 categories: [Site news]
 redirect_from:
-  - /blog/archive/2005/07/20/12305.aspx/
+  - /blog/archive/2005/07/20/12305.aspx
 ---
 
 I've disabled comments, since comment spam gets out of hands. As you see in the header of this site, there are currently 8374 comments counted. However, forget about 8000. These are all spam!

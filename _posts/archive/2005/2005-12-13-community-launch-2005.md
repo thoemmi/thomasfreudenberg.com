@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 12676
 categories: [Development, User Group, Community]
 redirect_from:
-  - /blog/archive/2005/12/14/community-launch-2005.aspx/
+  - /blog/archive/2005/12/14/community-launch-2005.aspx
 ---
 
 Today's the [Community Launch 2005](http://www.nrw-summit.net/Events/CommunityLaunch2005/) of my .NET UserGroup [Vfl-NiederRhein](http://www.vfl-niederrhein.net/) and [netug Düsseldorf](http://www.netug-duesseldorf.de/).

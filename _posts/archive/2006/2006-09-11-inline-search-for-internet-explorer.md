@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 17728
 categories: [Tools, Internet Explorer]
 redirect_from:
-  - /blog/archive/2006/09/11/Inline-Search-for-Internet-Explorer.aspx/
+  - /blog/archive/2006/09/11/Inline-Search-for-Internet-Explorer.aspx
 ---
 
 > From Omar Shahine's blog post entitled [InlineSearch for Internet Explorer](http://www.shahine.com/omar/InlineSearchForInternetExplorer.aspx) we learn

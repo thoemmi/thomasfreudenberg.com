@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 216
 categories: [Development]
 redirect_from:
-  - /blog/archive/2003/10/08/216.aspx/
+  - /blog/archive/2003/10/08/216.aspx
 ---
 
 [Raymond Chen](http://blogs.gotdotnet.com/raymondc/) [mentions](http://blogs.gotdotnet.com/raymondc/permalink.aspx/5240117f-ef43-4336-9d2c-1cf7ecf8e7ac) [Jason Moore](http://blogs.gotdotnet.com/jasmo/)'s [Usability on the cheap, Part 1](http://blogs.gotdotnet.com/jasmo/PermaLink.aspx/66242dc8-fdfb-44c6-a3d3-cf229dad609d). It's a great reading, especially for GUI guys like me.

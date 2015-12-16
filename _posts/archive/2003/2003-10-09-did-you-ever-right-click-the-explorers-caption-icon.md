@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 217
 categories: [Software]
 redirect_from:
-  - /blog/archive/2003/10/09/217.aspx/
+  - /blog/archive/2003/10/09/217.aspx
 ---
 
 Well, I didn't until [Raymond Chen](http://blogs.gotdotnet.com/raymondc/) [posted](http://blogs.gotdotnet.com/raymondc/PermaLink.aspx/3e778fb5-0c5d-4605-b86e-16b1116a6751) following top today:

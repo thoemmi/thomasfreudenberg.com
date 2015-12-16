@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 528
 categories: [.Text]
 redirect_from:
-  - /blog/archive/2005/01/26/Where_2700_s-.Text-going-to_3F00_.aspx/
+  - /blog/archive/2005/01/26/Where_2700_s-.Text-going-to_3F00_.aspx
 ---
 
 I was told that [DonXMl](http://donxml.com/allthingstechie) has mailed [Scott](http://scottwater.com/) about my previous post. Well, I think the main point of my posts was: where's .Text going? To be more specific: Will .Text aka CS::Blogs released only together with CS::Forums and CS::Gallery, or will there be a stand-alone version? Is Telligent going to publish the sources? Hopefully Scott (or Rob Howard) can comment on this.

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 409
 categories: [Development, Whidbey]
 redirect_from:
-  - /blog/archive/2004/06/14/Unit-Testing-in-Visual-Studio-2005.aspx/
+  - /blog/archive/2004/06/14/Unit-Testing-in-Visual-Studio-2005.aspx
 ---
 
 [Peter Provost wrote](http://www.peterprovost.org/archive/2004/06/12/1379.aspx)

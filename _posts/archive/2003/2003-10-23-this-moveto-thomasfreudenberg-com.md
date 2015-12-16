@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 229
 categories: [Site news]
 redirect_from:
-  - /blog/archive/2003/10/24/229.aspx/
+  - /blog/archive/2003/10/24/229.aspx
 ---
 
 [As announced](/archive/2003/10/13/moving-this-site/) I've managed to move my site from my home system to [webhost4life](http://www.webhost4life.com/default.asp?refid=thoemmi). I have had some trouble importing my SQL database to the host's server, but thanks to the helpdesk staff I finally succeeded.

@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 355
 categories: [Development]
 redirect_from:
-  - /blog/archive/2004/03/19/355.aspx/
+  - /blog/archive/2004/03/19/355.aspx
 ---
 
 Then you should consider the Athlon64 FX 53.

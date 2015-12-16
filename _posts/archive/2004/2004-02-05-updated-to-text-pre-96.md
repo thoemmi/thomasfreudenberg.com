@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 337
 categories: [Site news, .Text]
 redirect_from:
-  - /blog/archive/2004/02/05/Updated-to-.Text-pre-.96.aspx/
+  - /blog/archive/2004/02/05/Updated-to-.Text-pre-.96.aspx
 ---
 
 [Scott](http://scottwater.com/) has [published the pre .96 sources of .Text](http://scottwater.com/blog/archive/2004/02/01/Pre096.aspx). It includes lots of exciting new features including the long-awaited search.
