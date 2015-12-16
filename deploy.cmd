@@ -68,7 +68,7 @@ IF NOT DEFINED MSBUILD_PATH (
 echo Handling .NET Web Application deployment.
 
 :: 1. call pretzel
-call :ExecuteCmd _pretzel\pretzel.exe bake --destination=%DEPLOYMENT_TEMP%
+call :ExecuteCmd _pretzel\pretzel.exe bake --destination=%DEPLOYMENT_TEMP% --cleantarget
 IF !ERRORLEVEL! NEQ 0 goto error
 
 :: 2. KuduSync
