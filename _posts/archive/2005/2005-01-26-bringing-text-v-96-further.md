@@ -7,6 +7,7 @@ disqus_identifier: 513
 categories: [.Text]
 redirect_from:
   - /blog/archive/2005/01/26/Bringing-.Text-v.96-further.aspx
+  - /blog/archive/2005/01/26/513.aspx
 ---
 
 Almost one year ago [I upgraded my .Text blog to .96](/archive/2004/02/05/updated-to-text-pre-96/). I blogged about it several times, my last post was about adding the rel="nofollow" attribute to links in comments.

@@ -7,6 +7,7 @@ disqus_identifier: 246
 categories: [PDC '03, MSBuild]
 redirect_from:
   - /blog/archive/2003/10/27/_5B00_TLS347_5D00_-Introducing-MSBuild_3A00_-The-Universal-Build-Engine-for-Visual-Studio-_2600_quot_3B00_Whidbey_2600_quot_3B00_-and-_2600_quot_3B00_Longhorn_2600_quot_3B00_.aspx
+  - /blog/archive/2003/10/27/246.aspx
 ---
 
 Several weeks ago I played around with NAnt, since we need a decent build environment for our new software. I've read about MSBuild a.k.a. XBuild before, but no information was available (at least outside Microsoft).

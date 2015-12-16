@@ -7,6 +7,7 @@ disqus_identifier: 353
 categories: [Fun]
 redirect_from:
   - /blog/archive/2004/03/16/ReadThisFirst.aspx
+  - /blog/archive/2004/03/16/353.aspx
 ---
 
 >     Congratulations! You have purchased an extremely fine

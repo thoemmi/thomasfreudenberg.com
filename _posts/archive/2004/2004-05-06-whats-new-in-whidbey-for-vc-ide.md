@@ -7,6 +7,7 @@ disqus_identifier: 393
 categories: [Development, Whidbey]
 redirect_from:
   - /blog/archive/2004/05/06/WhidbeyCppFeatures.aspx
+  - /blog/archive/2004/05/06/393.aspx
 ---
 
 [Peter Huene](http://weblogs.asp.net/peterhu/) has [compiled a list of new features](http://weblogs.asp.net/peterhu/archive/2004/05/05/126767.aspx) in Whidbey related to C++.

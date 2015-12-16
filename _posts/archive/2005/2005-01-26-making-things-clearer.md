@@ -7,6 +7,7 @@ disqus_identifier: 526
 categories: [.Text]
 redirect_from:
   - /blog/archive/2005/01/26/Making-things-clearer.aspx
+  - /blog/archive/2005/01/26/526.aspx
 ---
 
 Hell, I've got lots of feedback about [my previous post](/archive/2005/01/26/bringing-text-v-96-further/). Some commented in the blog, others send me private mails. Many questions arised. Therefore, I think I have to make my point clearer.

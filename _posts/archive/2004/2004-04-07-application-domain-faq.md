@@ -7,6 +7,7 @@ disqus_identifier: 375
 categories: [Development]
 redirect_from:
   - /blog/archive/2004/04/07/AppDomainFAQ.aspx
+  - /blog/archive/2004/04/07/375.aspx
 ---
 
 [Yves Dolce](http://weblogs.asp.net/yvesdolc/) [wrote](http://weblogs.asp.net/yvesdolc/archive/2004/04/06/108595.aspx):

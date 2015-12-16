@@ -6,7 +6,7 @@ comments: true
 disqus_identifier: 32139
 categories: [Development, Tools]
 redirect_from:
-  - /blog/archive/2007/06/22/resharper-3-0-released.aspx
+  - /blog/archive/2007/06/21/resharper-3-0-released.aspx
 ---
 
 [JetBrains released ReSharper 3.0](http://blogs.jetbrains.com/dotnet/2007/06/come-one-come-all-resharper-30-is-here/): 

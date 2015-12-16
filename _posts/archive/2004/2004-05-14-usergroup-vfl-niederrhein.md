@@ -7,6 +7,7 @@ disqus_identifier: 397
 categories: [Development, Windows Vista, User Group]
 redirect_from:
   - /blog/archive/2004/05/14/VFLNiederRhein.aspx
+  - /blog/archive/2004/05/14/397.aspx
 ---
 
 Today is our [formation meeting](http://www.vfl-niederrhein.net/CategoryView.aspx?category=Events) for a new INETA usergroup. It already has a [homepage](http://www.vfl-niederrhein.net/). [Daniel Fisher](http://www.lennybacon.com/) did a good shop with the longhorn ;-)

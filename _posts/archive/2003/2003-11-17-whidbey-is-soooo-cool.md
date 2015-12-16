@@ -7,6 +7,7 @@ disqus_identifier: 278
 categories: [Development, Whidbey]
 redirect_from:
   - /blog/archive/2003/11/17/Whidbey-is-soooo-cool_2E002E002E00_.aspx
+  - /blog/archive/2003/11/17/278.aspx
 ---
 
 ... but I have to switch back to .NET 1.1 because of [this ~~bug~~ issue](http://staff.newtelligence.net/clemensv/PermaLink.aspx?guid=3fc6b7ee-e292-4fd0-aa22-c95aa2dba9fc):

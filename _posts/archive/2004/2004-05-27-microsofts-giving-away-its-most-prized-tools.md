@@ -7,6 +7,7 @@ disqus_identifier: 404
 categories: [Development]
 redirect_from:
   - /blog/archive/2004/05/27/ToolsInWhidbey.aspx
+  - /blog/archive/2004/05/27/404.aspx
 ---
 
 While downloading [Whidbey CTP May 04](/archive/2004/05/27/visual-studio-2005-community-technology-preview-may-2004/), I'm just reading [Wesner Moise](http://wesnerm.blogs.com/net_undocumented/)'s *[Microsoft's Giving Away Its Most Prized Tools](http://wesnerm.blogs.com/net_undocumented/2004/05/microsofts_givi.html)*:

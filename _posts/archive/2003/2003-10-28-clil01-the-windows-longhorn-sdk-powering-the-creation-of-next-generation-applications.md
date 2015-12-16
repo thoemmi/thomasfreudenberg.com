@@ -15,40 +15,12 @@ No, it isn't. WinFX is the managed API, the SDK of Longhorn. Steven Goulet, th
 
 Steven has done some comparison between the .NET framework 1.0 and WinFX:
 
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td align="left"></td>
-<td align="left">.NET 1.0</td>
-<td align="left">WinFX (PDC build)</td>
-</tr>
-<tr class="even">
-<td align="left">Assemblies</td>
-<td align="left">39</td>
-<td align="left">&gt;100 <sup>*</sup></td>
-</tr>
-<tr class="odd">
-<td align="left">Namespaces</td>
-<td align="left">121</td>
-<td align="left">438</td>
-</tr>
-<tr class="even">
-<td align="left">Types</td>
-<td align="left">3889</td>
-<td align="left">13595</td>
-</tr>
-<tr class="odd">
-<td align="left">Implemented members</td>
-<td align="left">32523</td>
-<td align="left">93217</td>
-</tr>
-</tbody>
-</table>
+|                     | .NET 1.0 | WinFX (PDC build)    |
+|---------------------|---------:|---------------------:|
+| Assemblies          |       39 | &gt;100 <sup>*</sup> |
+| Namespaces          |      121 |                  438 |
+| Types               |     3889 |                13595 |
+| Implemented members |    32523 |                93217 |
 
 <sup>\*</sup>Sorry, I cannot read my own hand-writing
 

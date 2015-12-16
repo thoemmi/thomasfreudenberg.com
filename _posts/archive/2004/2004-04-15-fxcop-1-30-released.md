@@ -7,6 +7,7 @@ disqus_identifier: 379
 categories: [Development, Tools]
 redirect_from:
   - /blog/archive/2004/04/15/FxCop-1.30-released.aspx
+  - /blog/archive/2004/04/15/379.aspx
 ---
 
 Maybe I', a little late, since it is more than two weeks ago.

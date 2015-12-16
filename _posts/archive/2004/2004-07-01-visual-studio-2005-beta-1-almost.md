@@ -7,6 +7,7 @@ disqus_identifier: 416
 categories: [Development, Whidbey]
 redirect_from:
   - /blog/archive/2004/07/01/Visual-Studio-2005-Beta-1_2E002E002E00_-almost.aspx
+  - /blog/archive/2004/07/01/416.aspx
 ---
 
 ![Downloading Visual Studio 2005 Beta 1](/files/archive/VisualStudioDownload.PNG "Downloading Visual Studio 2005 Beta 1")

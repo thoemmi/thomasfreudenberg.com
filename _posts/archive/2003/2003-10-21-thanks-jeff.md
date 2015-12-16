@@ -7,6 +7,7 @@ disqus_identifier: 228
 categories: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/21/Thanks_2C00_-Jeff.aspx
+  - /blog/archive/2003/10/21/228.aspx
 ---
 
 Such a [T-Shirt](http://radio.weblogs.com/0124699/2003/10/20.html) arrived yesterday. Thanks, [Jeff](http://radio.weblogs.com/0124699/).

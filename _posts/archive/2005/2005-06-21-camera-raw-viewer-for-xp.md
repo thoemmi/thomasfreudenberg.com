@@ -7,6 +7,7 @@ disqus_identifier: 8098
 categories: [Software]
 redirect_from:
   - /blog/archive/2005/06/21/RawViewerPowerToy.aspx
+  - /blog/archive/2005/06/21/RawViewerPowerToy.aspx
 ---
 
 > Microsoft released a [new power toy](http://www.microsoft.com/downloads/details.aspx?familyid=d48e808e-b10d-4ce4-a141-5866fd4a3286&displaylang=en) for viewing RAW images (currently Canon and Nikon only supported).

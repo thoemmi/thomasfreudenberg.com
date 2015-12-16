@@ -7,6 +7,7 @@ disqus_identifier: 313
 categories: [Site news, .Text]
 redirect_from:
   - /blog/archive/2004/01/11/I_2700_m-compressed_2E002E002E00_.aspx
+  - /blog/archive/2004/01/11/313.aspx
 ---
 
 Well, at least my [RSS feed is](http://pipeboost.com/getreport.asp?URL=http://thomasfreudenberg.com/blog/rss.aspx).

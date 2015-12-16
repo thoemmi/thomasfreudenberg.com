@@ -7,6 +7,7 @@ disqus_identifier: 233
 categories: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/25/How-am-I-going-to-tackle-the-PDC_3F00_.aspx
+  - /blog/archive/2003/10/25/233.aspx
 ---
 
 [Jim Blizzard](http://snowstormlife.com/blog/) asks: [How are you going to tackle the PDC?](http://snowstormlife.com/blog/posts/285.aspx)

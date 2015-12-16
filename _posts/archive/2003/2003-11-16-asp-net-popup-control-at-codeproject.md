@@ -7,6 +7,7 @@ disqus_identifier: 275
 categories: [Development]
 redirect_from:
   - /blog/archive/2003/11/16/ASP.NET-Popup-Control-at-CodeProject.aspx
+  - /blog/archive/2003/11/16/275.aspx
 ---
 
 ![ASP.NET Popup Control](/files/archive/ieandmoz.png) 

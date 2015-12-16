@@ -7,6 +7,7 @@ disqus_identifier: 281
 categories: [Windows Vista, PDC '03]
 redirect_from:
   - /blog/archive/2003/11/18/Looking-for-the-PDC-Wallpaper_3F00_.aspx
+  - /blog/archive/2003/11/18/281.aspx
 ---
 
 Well, here it is:

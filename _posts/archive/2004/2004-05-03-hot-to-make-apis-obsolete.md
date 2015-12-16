@@ -7,6 +7,7 @@ disqus_identifier: 391
 categories: [Development]
 redirect_from:
   - /blog/archive/2004/05/03/Obsoleting.aspx
+  - /blog/archive/2004/05/03/391.aspx
 ---
 
 [Brad Abrams](http://blogs.msdn.com/brada/) [points](http://blogs.msdn.com/brada/archive/2004/05/01/124548.aspx) to a document at GotDotNet explaining Micosoft's process to [make API's obsolete](http://www.gotdotnet.com/team/changeinfo/V2.0/obsoletefaq.aspx).

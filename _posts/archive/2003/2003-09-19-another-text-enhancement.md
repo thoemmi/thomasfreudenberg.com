@@ -7,6 +7,7 @@ disqus_identifier: 203
 categories: [.Text]
 redirect_from:
   - /blog/archive/2003/09/19/Another-.Text-enhancement.aspx
+  - /blog/archive/2003/09/19/203.aspx
 ---
 
 I'm using the [.Text](http://scottwater.com/dottext/) web administrator for writing my postings. Unfortunately, there's no link provided to get from the administrator section to the public view. Either you have to edit the address line, click on a favourite link, or logout. Neither of them is very comfortable. I admit I never log out ![Blushing](/files/archive/smiley_redface.gif).

@@ -7,6 +7,7 @@ disqus_identifier: 390
 categories: [Fun]
 redirect_from:
   - /blog/archive/2004/05/03/GrammerGod.aspx
+  - /blog/archive/2004/05/03/390.aspx
 ---
 
 Damn, I'd have never expected that (well, is this statement syntactically correct?)

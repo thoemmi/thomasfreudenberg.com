@@ -7,6 +7,7 @@ disqus_identifier: 401
 categories: [Fun]
 redirect_from:
   - /blog/archive/2004/05/26/HalfLife2CaseMod.aspx
+  - /blog/archive/2004/05/26/401.aspx
 ---
 
 For all the Half-Live fans out there:

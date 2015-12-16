@@ -7,6 +7,7 @@ disqus_identifier: 378
 categories: [Development, Tools]
 redirect_from:
   - /blog/archive/2004/04/08/TortoiseCVS.aspx
+  - /blog/archive/2004/04/08/378.aspx
 ---
 
 With this post I'm starting a new category on my blog, *c:\\utils*. Its name is derived from [Scott Hanselman](http://www.hanselman.com/)'s [Ultimate Developer and Power Users Tools List](http://radio.weblogs.com/0106747/stories/2003/09/09/scottHanselmansUltimateDeveloperAndPowerUsersToolsList.html). However, I'm not going to post a complete list of tools I am using, instead I will post a small notice here whenever one of the utilities is updated.

@@ -7,6 +7,7 @@ disqus_identifier: 240
 categories: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/27/Arriving-in-L.A.-Yesterday.aspx
+  - /blog/archive/2003/10/27/240.aspx
 ---
 
 After 12 hours of flying I arrived yesterday in Los Angeles. Though I heared about the current fires around L.A. in German news, I was surprised by the dark and grey sky. I hope they're able to fight it.

@@ -7,6 +7,7 @@ disqus_identifier: 242
 categories: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/27/Keynote-with-Bill-Gates-and-Jim-Allchin.aspx
+  - /blog/archive/2003/10/27/242.aspx
 ---
 
 The first time I've seen Bill Gates in real live. He spoke much about the past development of the IT industry and presented the Microsoft's vision for the next few years. Nice to see some self-critism.

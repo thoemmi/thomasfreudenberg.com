@@ -7,6 +7,7 @@ disqus_identifier: 373
 categories: [Software]
 redirect_from:
   - /blog/archive/2004/04/06/Shut-down-Windows-2003-without-being-hassled.aspx
+  - /blog/archive/2004/04/06/373.aspx
 ---
 
 [Jeff Key](http://weblogs.asp.net/jkey/) [describes](http://weblogs.asp.net/jkey/archive/2003/12/22/45300.aspx), how to disable this annoying dialog when shutting down a Windows 2003 server:

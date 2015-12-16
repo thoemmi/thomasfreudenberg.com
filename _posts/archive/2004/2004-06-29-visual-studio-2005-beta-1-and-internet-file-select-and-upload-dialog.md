@@ -7,6 +7,7 @@ disqus_identifier: 412
 categories: [Development, Software, Whidbey]
 redirect_from:
   - /blog/archive/2004/06/29/Visual-Studio-2005-Beta-1-and-Internet-File-Select-and-Upload-Dialog.aspx
+  - /blog/archive/2004/06/29/412.aspx
 ---
 
 \*Sigh\* You may have already read that today (06/29/2004) Visual Studio Beta 1 *should* be available to MSDN subscribers. I'm checking the [Subscriber Downloads](http://msdn.microsoft.com/subscriptions/resources/subdwnld.asp) pages now for several hours every now and then, but until now (17:47, or 5:47 PM for my American readers) it's still not listed there. I suppose it's not replicated yet to [Akamai](http://www.akamai.com/)'s servers in Europe (or at least in Germany).
