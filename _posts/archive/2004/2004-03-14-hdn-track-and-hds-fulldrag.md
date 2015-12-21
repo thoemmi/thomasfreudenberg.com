@@ -7,7 +7,7 @@ disqus_identifier: 352
 categories: [Development]
 keywords: [listview, HDN_BEGINTRACK, HDN_TRACK, HDN_ENDTRACK, HDS_FULLDRAG]
 redirect_from:
-  - /blog/archive/2004/03/14/HDN_TRACK.aspx
+  - /blog/archive/2004/03/14/HDN-TRACK.aspx
   - /blog/archive/2004/03/14/352.aspx
 ---
 
