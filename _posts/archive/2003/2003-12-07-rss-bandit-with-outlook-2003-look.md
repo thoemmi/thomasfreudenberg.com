@@ -8,6 +8,7 @@ tags: [Development, Software]
 redirect_from:
   - /blog/archive/2003/12/08/RSS-Bandit-with-Outlook-2003-look.aspx
   - /blog/archive/2003/12/08/288.aspx
+  - /blog/posts/288.aspx
 ---
 
 [RSS Bandit](http://www.rssbandit.org/) is getting [better](http://www.rendelmann.info/blog/Trackback.aspx?guid=1782d30f-3725-45c3-9b74-d1a7b81f3cf9) and [better](http://www.25hoursaday.com/weblog/PermaLink.aspx?guid=690c21aa-205d-4a08-b38c-8c0321013fbc). I'm really thinking about switching from [SharpReader](http://www.sharpreader.net/), but it doesn't feel *right* at the moment. ![Wink](/files/archive/smiley_wink.gif)
