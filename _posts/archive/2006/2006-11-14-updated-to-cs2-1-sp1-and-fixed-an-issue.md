@@ -4,7 +4,7 @@ title: 'Updated to CS2.1 SP1 and fixed an issue'
 date: 2006-11-14 15:17:00 +01
 comments: true
 disqus_identifier: 18202
-categories: [Site news, Community Server, coComment]
+tags: [Site news, Community Server, coComment]
 redirect_from:
   - /blog/archive/2006/11/15/updated-to-cs2-1-sp1-and-fixed-an-issue.aspx
 ---

@@ -4,7 +4,7 @@ title: 'Yukon and Whidbey delayed to 2005'
 date: 2004-03-11 07:44:00 +01
 comments: true
 disqus_identifier: 351
-categories: [Development, Software, Whidbey]
+tags: [Development, Software, Whidbey]
 redirect_from:
   - /blog/archive/2004/03/11/Yukon-and-Whidbey-delayed-to-2005.aspx
   - /blog/archive/2004/03/11/351.aspx

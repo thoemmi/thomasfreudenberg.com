@@ -4,7 +4,7 @@ title: 'Kathy Sierra'
 date: 2007-03-26 11:33:00 +02
 comments: true
 disqus_identifier: 25488
-categories: [Community]
+tags: [Community]
 redirect_from:
   - /blog/archive/2007/03/26/kathy-sierra.aspx
 ---

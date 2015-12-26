@@ -4,7 +4,7 @@ title: 'VC Build included in Visual Studio 2005 Beta 1'
 date: 2004-07-09 14:09:00 +02
 comments: true
 disqus_identifier: 421
-categories: [Development, Whidbey]
+tags: [Development, Whidbey]
 redirect_from:
   - /blog/archive/2004/07/09/VCBuild.aspx
   - /blog/archive/2004/07/09/421.aspx

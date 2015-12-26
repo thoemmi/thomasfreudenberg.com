@@ -4,7 +4,7 @@ title: '.Text and Image quality'
 date: 2003-09-03 13:33:00 +02
 comments: true
 disqus_identifier: 156
-categories: [.Text]
+tags: [.Text]
 redirect_from:
   - /blog/archive/2003/09/03/156.aspx
 ---

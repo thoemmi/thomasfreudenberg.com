@@ -4,7 +4,7 @@ title: 'Whidbey is soooo cool...'
 date: 2003-11-17 05:09:00 +01
 comments: true
 disqus_identifier: 278
-categories: [Development, Whidbey]
+tags: [Development, Whidbey]
 redirect_from:
   - /blog/archive/2003/11/17/Whidbey-is-soooo-cool_2E002E002E00_.aspx
   - /blog/archive/2003/11/17/278.aspx

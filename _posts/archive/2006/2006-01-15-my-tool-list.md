@@ -4,7 +4,7 @@ title: 'My Tool List'
 date: 2006-01-15 04:35:00 +01
 comments: true
 disqus_identifier: 13165
-categories: [Software, Tools]
+tags: [Software, Tools]
 redirect_from:
   - /blog/archive/2006/01/15/my-ultimate-tool-list.aspx
 ---

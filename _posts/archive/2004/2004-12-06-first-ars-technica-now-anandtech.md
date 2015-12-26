@@ -4,7 +4,7 @@ title: 'First Ars Technica, now AnandTech'
 date: 2004-12-06 13:31:00 +01
 comments: true
 disqus_identifier: 455
-categories: []
+tags: []
 redirect_from:
   - /blog/archive/2004/12/06/455.aspx
 ---

@@ -4,7 +4,7 @@ title: 'Windows Live Writer and WLWPlugins'
 date: 2006-08-21 16:33:00 +02
 comments: true
 disqus_identifier: 17595
-categories: [Development, Software]
+tags: [Development, Software]
 redirect_from:
   - /blog/archive/2006/08/22/Windows-Live-Writer-and-WLWPlugins.aspx
 ---

@@ -4,7 +4,7 @@ title: 'nrw07 - Solution.Technology.Community'
 date: 2007-04-28 03:20:00 +02
 comments: true
 disqus_identifier: 28203
-categories: [User Group, Community, nrw07]
+tags: [User Group, Community, nrw07]
 redirect_from:
   - /blog/archive/2007/04/28/nrw07-solution-technology-community.aspx
 ---

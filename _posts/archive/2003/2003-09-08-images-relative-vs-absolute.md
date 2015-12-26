@@ -4,7 +4,7 @@ title: 'Images&#58; relative vs. absolute'
 date: 2003-09-08 21:04:00 +02
 comments: true
 disqus_identifier: 178
-categories: [Site news]
+tags: [Site news]
 redirect_from:
   - /blog/archive/2003/09/08/178.aspx
 ---

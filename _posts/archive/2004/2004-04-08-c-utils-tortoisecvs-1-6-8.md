@@ -4,7 +4,7 @@ title: 'c&#58;\utils&#58; TortoiseCVS 1.6.8'
 date: 2004-04-08 03:12:00 +02
 comments: true
 disqus_identifier: 378
-categories: [Development, Tools]
+tags: [Development, Tools]
 redirect_from:
   - /blog/archive/2004/04/08/TortoiseCVS.aspx
   - /blog/archive/2004/04/08/378.aspx

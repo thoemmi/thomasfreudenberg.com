@@ -4,7 +4,7 @@ title: 'Broken Start Menu'
 date: 2005-01-06 22:48:00 +01
 comments: true
 disqus_identifier: 467
-categories: [Tips 'n Tricks]
+tags: [Tips 'n Tricks]
 redirect_from:
   - /blog/archive/2005/01/07/467.aspx
 ---

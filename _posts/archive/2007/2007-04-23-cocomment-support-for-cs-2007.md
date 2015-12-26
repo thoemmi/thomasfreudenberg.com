@@ -4,7 +4,7 @@ title: 'coComment support for CS 2007'
 date: 2007-04-23 12:34:00 +02
 comments: true
 disqus_identifier: 28102
-categories: [Community Server, Development, coComment]
+tags: [Community Server, Development, coComment]
 redirect_from:
   - /blog/archive/2007/04/23/cocomment-support-for-cs-2007.aspx
 ---

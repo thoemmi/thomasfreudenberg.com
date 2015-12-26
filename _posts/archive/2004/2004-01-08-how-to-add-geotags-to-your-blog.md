@@ -4,7 +4,7 @@ title: 'How to add GeoTags to your blog'
 date: 2004-01-08 19:50:00 +01
 comments: true
 disqus_identifier: 305
-categories: [Site news, .Text]
+tags: [Site news, .Text]
 redirect_from:
   - /blog/archive/2004/01/09/How-to-add-GeoTags-to-your-blog.aspx
   - /blog/archive/2004/01/09/305.aspx

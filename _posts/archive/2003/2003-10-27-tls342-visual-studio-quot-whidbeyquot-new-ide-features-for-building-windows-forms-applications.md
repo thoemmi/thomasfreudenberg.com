@@ -4,7 +4,7 @@ title: '[TLS342] Visual Studio &amp;quot;Whidbey&amp;quot;&#58; New IDE Features
 date: 2003-10-27 19:54:00 +01
 comments: true
 disqus_identifier: 245
-categories: [Whidbey, PDC '03]
+tags: [Whidbey, PDC '03]
 redirect_from:
   - /blog/archive/2003/10/27/245.aspx
 ---

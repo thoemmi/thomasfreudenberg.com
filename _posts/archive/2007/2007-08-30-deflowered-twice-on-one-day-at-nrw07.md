@@ -4,7 +4,7 @@ title: 'Deflowered twice on one day at nrw07'
 date: 2007-08-30 12:28:00 +02
 comments: true
 disqus_identifier: 38361
-categories: [Community Server, User Group, Community, nrw07, Conference]
+tags: [Community Server, User Group, Community, nrw07, Conference]
 redirect_from:
   - /blog/archive/2007/08/30/nrw07-follow-up.aspx
 ---

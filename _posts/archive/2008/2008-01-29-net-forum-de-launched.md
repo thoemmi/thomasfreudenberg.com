@@ -4,7 +4,7 @@ title: '.NET-Forum.de launched'
 date: 2008-01-29 12:21:00 +01
 comments: true
 disqus_identifier: 57736
-categories: [Community Server, Community]
+tags: [Community Server, Community]
 redirect_from:
   - /blog/archive/2008/01/29/net-forum-de-launched.aspx
 ---

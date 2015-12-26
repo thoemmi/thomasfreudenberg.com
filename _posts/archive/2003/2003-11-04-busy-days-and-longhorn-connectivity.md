@@ -4,7 +4,7 @@ title: 'Busy days and Longhorn connectivity'
 date: 2003-11-04 01:57:00 +01
 comments: true
 disqus_identifier: 256
-categories: [Windows Vista]
+tags: [Windows Vista]
 redirect_from:
   - /blog/archive/2003/11/04/256.aspx
 ---

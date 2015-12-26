@@ -4,7 +4,7 @@ title: 'Blogger free for everyone'
 date: 2003-09-11 10:04:00 +02
 comments: true
 disqus_identifier: 189
-categories: [Internet]
+tags: [Internet]
 redirect_from:
   - /blog/archive/2003/09/11/189.aspx
 ---

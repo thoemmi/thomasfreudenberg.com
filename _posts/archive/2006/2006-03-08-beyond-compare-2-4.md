@@ -4,7 +4,7 @@ title: 'Beyond Compare 2.4'
 date: 2006-03-08 01:04:00 +01
 comments: true
 disqus_identifier: 14325
-categories: [Development, Tools]
+tags: [Development, Tools]
 redirect_from:
   - /blog/archive/2006/03/08/beyond-compare-2-4.aspx
 ---

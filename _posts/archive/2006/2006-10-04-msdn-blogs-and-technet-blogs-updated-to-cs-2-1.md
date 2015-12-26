@@ -4,7 +4,7 @@ title: 'MSDN Blogs and TechNet Blogs updated to CS 2.1'
 date: 2006-10-04 13:14:00 +02
 comments: true
 disqus_identifier: 17913
-categories: [Community Server]
+tags: [Community Server]
 redirect_from:
   - /blog/archive/2006/10/05/MSDN-Blogs-and-TechNet-Blogs-updated-to-CS-2.1.aspx
 ---

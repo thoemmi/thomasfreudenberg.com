@@ -4,7 +4,7 @@ title: 'Deprecated, reprecated, and prepcreatedcated'
 date: 2004-10-05 05:27:00 +02
 comments: true
 disqus_identifier: 444
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2004/10/05/444.aspx
 ---

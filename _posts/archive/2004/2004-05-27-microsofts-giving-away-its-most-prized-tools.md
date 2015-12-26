@@ -4,7 +4,7 @@ title: 'Microsoft''s Giving Away Its Most Prized Tools'
 date: 2004-05-27 09:22:00 +02
 comments: true
 disqus_identifier: 404
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2004/05/27/ToolsInWhidbey.aspx
   - /blog/archive/2004/05/27/404.aspx

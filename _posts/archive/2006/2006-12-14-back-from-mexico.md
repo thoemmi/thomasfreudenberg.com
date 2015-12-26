@@ -4,7 +4,7 @@ title: 'Back from Mexico'
 date: 2006-12-14 09:33:00 +01
 comments: true
 disqus_identifier: 18518
-categories: [Vacation, Mexico]
+tags: [Vacation, Mexico]
 redirect_from:
   - /blog/archive/2006/12/14/back-from-mexico.aspx
 ---

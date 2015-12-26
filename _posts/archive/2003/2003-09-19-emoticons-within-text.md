@@ -4,7 +4,7 @@ title: 'Emoticons within .Text'
 date: 2003-09-19 06:56:00 +02
 comments: true
 disqus_identifier: 199
-categories: [.Text]
+tags: [.Text]
 redirect_from:
   - /blog/archive/2003/09/19/Emoticons-within-.Text.aspx
   - /blog/archive/2003/09/19/199.aspx

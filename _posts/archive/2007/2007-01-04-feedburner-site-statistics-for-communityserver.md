@@ -4,7 +4,7 @@ title: 'FeedBurner Site Statistics for CommunityServer'
 date: 2007-01-04 13:27:00 +01
 comments: true
 disqus_identifier: 18930
-categories: [Site news, Community Server, FeedBurner]
+tags: [Site news, Community Server, FeedBurner]
 redirect_from:
   - /blog/archive/2007/01/04/feedburner-site-statistics-for-communityserver.aspx
 ---

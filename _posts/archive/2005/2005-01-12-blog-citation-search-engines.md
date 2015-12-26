@@ -4,7 +4,7 @@ title: 'Blog citation search engines'
 date: 2005-01-12 08:38:00 +01
 comments: true
 disqus_identifier: 473
-categories: [Internet]
+tags: [Internet]
 redirect_from:
   - /blog/archive/2005/01/12/473.aspx
 ---

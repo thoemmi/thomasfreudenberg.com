@@ -4,7 +4,7 @@ title: 'DateTime.ParseExact'
 date: 2004-07-20 02:24:00 +02
 comments: true
 disqus_identifier: 428
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2004/07/20/DateTime.ParseExact.aspx
   - /blog/archive/2004/07/20/428.aspx

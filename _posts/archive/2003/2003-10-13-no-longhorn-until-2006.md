@@ -4,7 +4,7 @@ title: 'No Longhorn Until 2006'
 date: 2003-10-13 05:43:00 +02
 comments: true
 disqus_identifier: 223
-categories: [Software, PDC '03]
+tags: [Software, PDC '03]
 redirect_from:
   - /blog/archive/2003/10/13/No-Longhorn-Until-2006.aspx
   - /blog/archive/2003/10/13/223.aspx

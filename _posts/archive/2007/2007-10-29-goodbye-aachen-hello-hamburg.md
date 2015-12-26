@@ -4,7 +4,7 @@ title: 'Goodbye Aachen, Hello Hamburg'
 date: 2007-10-29 11:02:00 +01
 comments: true
 disqus_identifier: 44355
-categories: [Hamburg, Proximity, Cycos]
+tags: [Hamburg, Proximity, Cycos]
 redirect_from:
   - /blog/archive/2007/10/29/goodbye-aachen-hello-hamburg.aspx
 ---

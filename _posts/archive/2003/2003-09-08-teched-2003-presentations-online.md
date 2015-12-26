@@ -4,7 +4,7 @@ title: 'TechEd 2003 Presentations Online'
 date: 2003-09-08 12:34:00 +02
 comments: true
 disqus_identifier: 177
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2003/09/08/177.aspx
 ---

@@ -4,7 +4,7 @@ title: 'Separate vs. Seperate'
 date: 2007-01-15 12:07:53 +01
 comments: true
 disqus_identifier: 19283
-categories: []
+tags: []
 redirect_from:
   - /blog/archive/2007/01/15/separate-vs-seperate.aspx
 ---

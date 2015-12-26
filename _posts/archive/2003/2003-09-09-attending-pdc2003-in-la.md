@@ -4,7 +4,7 @@ title: 'Attending PDC2003 in LA'
 date: 2003-09-09 07:24:00 +02
 comments: true
 disqus_identifier: 183
-categories: [Development, PDC '03]
+tags: [Development, PDC '03]
 redirect_from:
   - /blog/archive/2003/09/09/Attending-PDC2003-in-LA.aspx
   - /blog/archive/2003/09/09/183.aspx

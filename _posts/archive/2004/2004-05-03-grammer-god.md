@@ -4,7 +4,7 @@ title: 'Grammer God'
 date: 2004-05-03 05:22:00 +02
 comments: true
 disqus_identifier: 390
-categories: [Fun]
+tags: [Fun]
 redirect_from:
   - /blog/archive/2004/05/03/GrammerGod.aspx
   - /blog/archive/2004/05/03/390.aspx

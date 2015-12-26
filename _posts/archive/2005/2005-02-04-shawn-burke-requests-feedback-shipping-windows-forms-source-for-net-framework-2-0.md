@@ -4,7 +4,7 @@ title: 'Shawn Burke requests feedback&#58; Shipping Windows Forms Source for .NE
 date: 2005-02-04 06:27:00 +01
 comments: true
 disqus_identifier: 619
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2005/02/04/619.aspx
 ---

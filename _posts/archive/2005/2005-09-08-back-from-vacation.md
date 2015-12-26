@@ -4,7 +4,7 @@ title: 'Back from vacation'
 date: 2005-09-08 13:40:00 +02
 comments: true
 disqus_identifier: 12481
-categories: [Vacation, Fuerteventura]
+tags: [Vacation, Fuerteventura]
 redirect_from:
   - /blog/archive/2005/09/09/Back-from-vacation.aspx
 ---

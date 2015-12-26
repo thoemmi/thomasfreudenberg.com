@@ -4,7 +4,7 @@ title: 'Another release of Akismet spam rule'
 date: 2006-08-31 12:25:43 +02
 comments: true
 disqus_identifier: 17690
-categories: [Community Server, Akismet, CSMVPs]
+tags: [Community Server, Akismet, CSMVPs]
 redirect_from:
   - /blog/archive/2006/08/31/Another-release-of-Akismet-spam-rule.aspx
 ---

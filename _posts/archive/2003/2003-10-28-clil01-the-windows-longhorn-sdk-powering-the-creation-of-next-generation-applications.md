@@ -4,7 +4,7 @@ title: '[CLIL01] The Windows &quot;Longhorn&quot; SDK&#58; Powering the Creation
 date: 2003-10-28 18:43:00 +01
 comments: true
 disqus_identifier: 249
-categories: [PDC '03]
+tags: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/28/249.aspx
 ---

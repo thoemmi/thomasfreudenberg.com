@@ -4,7 +4,7 @@ title: 'Inline Search for Internet Explorer'
 date: 2006-09-11 10:20:50 +02
 comments: true
 disqus_identifier: 17728
-categories: [Tools, Internet Explorer]
+tags: [Tools, Internet Explorer]
 redirect_from:
   - /blog/archive/2006/09/11/Inline-Search-for-Internet-Explorer.aspx
 ---

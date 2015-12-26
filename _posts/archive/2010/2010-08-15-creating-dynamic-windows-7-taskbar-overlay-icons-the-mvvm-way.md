@@ -4,7 +4,7 @@ title: 'Creating Dynamic Windows 7 Taskbar Overlay Icons, the MVVM Way'
 date: 2010-08-15 09:35:00 +02
 comments: true
 disqus_identifier: 258609
-categories: [WPF, MVVM]
+tags: [WPF, MVVM]
 redirect_from:
   - /blog/archive/2010/08/15/creating-dynamic-windows-7-taskbar-overlay-icons-the-mvvm-way.aspx
 ---

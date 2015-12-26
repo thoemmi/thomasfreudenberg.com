@@ -4,7 +4,7 @@ title: 'Meeting CPians at PDC'
 date: 2003-10-29 06:59:00 +01
 comments: true
 disqus_identifier: 253
-categories: [PDC '03]
+tags: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/29/Meeting-CPians-at-PDC.aspx
   - /blog/archive/2003/10/29/253.aspx

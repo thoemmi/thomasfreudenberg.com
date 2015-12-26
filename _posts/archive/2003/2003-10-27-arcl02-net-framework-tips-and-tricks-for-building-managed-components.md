@@ -4,7 +4,7 @@ title: '[ARCL02] .NET Framework&#58; Tips and Tricks for Building Managed Compon
 date: 2003-10-27 19:45:00 +01
 comments: true
 disqus_identifier: 243
-categories: [PDC '03]
+tags: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/27/243.aspx
 ---

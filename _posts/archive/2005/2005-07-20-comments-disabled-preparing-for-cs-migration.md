@@ -4,7 +4,7 @@ title: 'Comments disabled, preparing for CS migration'
 date: 2005-07-20 14:04:00 +02
 comments: true
 disqus_identifier: 12305
-categories: [Site news]
+tags: [Site news]
 redirect_from:
   - /blog/archive/2005/07/20/12305.aspx
 ---

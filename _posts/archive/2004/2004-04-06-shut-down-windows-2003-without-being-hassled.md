@@ -4,7 +4,7 @@ title: 'Shut down Windows 2003 without being hassled'
 date: 2004-04-06 04:18:00 +02
 comments: true
 disqus_identifier: 373
-categories: [Software]
+tags: [Software]
 redirect_from:
   - /blog/archive/2004/04/06/Shut-down-Windows-2003-without-being-hassled.aspx
   - /blog/archive/2004/04/06/373.aspx

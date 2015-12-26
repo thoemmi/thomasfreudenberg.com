@@ -4,7 +4,7 @@ title: 'Can I get a copy?'
 date: 2003-11-18 16:26:00 +01
 comments: true
 disqus_identifier: 282
-categories: [Development, Windows Vista]
+tags: [Development, Windows Vista]
 redirect_from:
   - /blog/archive/2003/11/18/282.aspx
 ---

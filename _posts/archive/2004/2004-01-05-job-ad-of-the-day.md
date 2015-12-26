@@ -4,7 +4,7 @@ title: 'Job Ad of the Day'
 date: 2004-01-05 10:10:00 +01
 comments: true
 disqus_identifier: 298
-categories: []
+tags: []
 redirect_from:
   - /blog/archive/2004/01/05/298.aspx
 ---

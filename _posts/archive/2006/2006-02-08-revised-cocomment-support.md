@@ -4,7 +4,7 @@ title: 'Revised coComment support'
 date: 2006-02-08 14:05:00 +01
 comments: true
 disqus_identifier: 13631
-categories: [Site news, Community Server, coComment]
+tags: [Site news, Community Server, coComment]
 redirect_from:
   - /blog/archive/2006/02/09/adding-coComment-support-to-CommunityServer.aspx
 ---

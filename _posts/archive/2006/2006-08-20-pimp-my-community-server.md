@@ -4,7 +4,7 @@ title: 'Pimp my Community Server'
 date: 2006-08-20 02:42:00 +02
 comments: true
 disqus_identifier: 17585
-categories: [Site news, Community Server]
+tags: [Site news, Community Server]
 redirect_from:
   - /blog/archive/2006/08/20/Pimp-my-Community-Server.aspx
 ---

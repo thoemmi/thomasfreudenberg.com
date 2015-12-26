@@ -4,7 +4,7 @@ title: 'Free font site'
 date: 2004-07-19 07:18:00 +02
 comments: true
 disqus_identifier: 426
-categories: [Internet]
+tags: [Internet]
 redirect_from:
   - /blog/archive/2004/07/19/426.aspx
 ---

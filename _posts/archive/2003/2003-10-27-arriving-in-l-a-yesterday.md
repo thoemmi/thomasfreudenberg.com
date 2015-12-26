@@ -4,7 +4,7 @@ title: 'Arriving in L.A. Yesterday'
 date: 2003-10-27 10:53:00 +01
 comments: true
 disqus_identifier: 240
-categories: [PDC '03]
+tags: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/27/Arriving-in-L.A.-Yesterday.aspx
   - /blog/archive/2003/10/27/240.aspx

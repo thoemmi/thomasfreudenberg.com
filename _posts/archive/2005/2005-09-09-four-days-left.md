@@ -4,7 +4,7 @@ title: 'Four Days Left'
 date: 2005-09-09 04:13:00 +02
 comments: true
 disqus_identifier: 12485
-categories: [PDC '05]
+tags: [PDC '05]
 redirect_from:
   - /blog/archive/2005/09/09/Four-Days-Left.aspx
 ---

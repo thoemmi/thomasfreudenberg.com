@@ -4,7 +4,7 @@ title: 'What''s new in Whidbey for VC++ IDE '
 date: 2004-05-06 06:31:00 +02
 comments: true
 disqus_identifier: 393
-categories: [Development, Whidbey]
+tags: [Development, Whidbey]
 redirect_from:
   - /blog/archive/2004/05/06/WhidbeyCppFeatures.aspx
   - /blog/archive/2004/05/06/393.aspx

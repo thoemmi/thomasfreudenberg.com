@@ -4,7 +4,7 @@ title: '&quot;Neues aus L.A.&quot;'
 date: 2003-11-17 10:18:00 +01
 comments: true
 disqus_identifier: 276
-categories: [PDC '03]
+tags: [PDC '03]
 redirect_from:
   - /blog/archive/2003/11/17/276.aspx
 ---

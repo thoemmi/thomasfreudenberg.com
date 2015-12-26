@@ -4,7 +4,7 @@ title: 'Comment Problem Solved'
 date: 2004-04-05 04:43:00 +02
 comments: true
 disqus_identifier: 367
-categories: [Site news]
+tags: [Site news]
 redirect_from:
   - /blog/archive/2004/04/05/CommentProblemSolved.aspx
   - /blog/archive/2004/04/05/367.aspx

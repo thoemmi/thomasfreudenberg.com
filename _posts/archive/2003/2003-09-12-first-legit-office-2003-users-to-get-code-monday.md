@@ -4,7 +4,7 @@ title: 'First (Legit) Office 2003 Users to Get Code Monday '
 date: 2003-09-12 20:35:00 +02
 comments: true
 disqus_identifier: 192
-categories: [Software]
+tags: [Software]
 redirect_from:
   - /blog/archive/2003/09/12/192.aspx
 ---

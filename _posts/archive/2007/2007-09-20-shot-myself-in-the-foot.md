@@ -4,7 +4,7 @@ title: 'Shot myself in the foot'
 date: 2007-09-20 08:02:00 +02
 comments: true
 disqus_identifier: 40544
-categories: [Site news, Comment Spam, CAPTCHA, Honeypot]
+tags: [Site news, Comment Spam, CAPTCHA, Honeypot]
 redirect_from:
   - /blog/archive/2007/09/20/shot-myself-in-the-foot.aspx
 ---

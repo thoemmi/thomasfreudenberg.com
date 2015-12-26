@@ -4,7 +4,7 @@ title: 'Mixing C# and VB.NET in one assembly'
 date: 2006-08-21 13:18:00 +02
 comments: true
 disqus_identifier: 17593
-categories: [Development, MSBuild, CSMVPs]
+tags: [Development, MSBuild, CSMVPs]
 redirect_from:
   - /blog/archive/2006/08/22/Mixing-C_2300_-and-VB.NET-in-one-assembly.aspx
 ---

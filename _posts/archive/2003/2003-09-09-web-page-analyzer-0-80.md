@@ -4,7 +4,7 @@ title: 'Web Page Analyzer 0.80 '
 date: 2003-09-09 16:56:00 +02
 comments: true
 disqus_identifier: 185
-categories: [Internet]
+tags: [Internet]
 redirect_from:
   - /blog/archive/2003/09/09/185.aspx
 ---

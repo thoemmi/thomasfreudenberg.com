@@ -4,7 +4,7 @@ title: 'FxCop 1.30 released'
 date: 2004-04-15 12:08:00 +02
 comments: true
 disqus_identifier: 379
-categories: [Development, Tools]
+tags: [Development, Tools]
 redirect_from:
   - /blog/archive/2004/04/15/FxCop-1.30-released.aspx
   - /blog/archive/2004/04/15/379.aspx

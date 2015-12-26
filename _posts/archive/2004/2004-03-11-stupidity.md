@@ -4,7 +4,7 @@ title: 'Stupidity'
 date: 2004-03-11 06:09:00 +01
 comments: true
 disqus_identifier: 349
-categories: [Site news, .Text]
+tags: [Site news, .Text]
 redirect_from:
   - /blog/archive/2004/03/11/Stupidity.aspx
   - /blog/archive/2004/03/11/349.aspx

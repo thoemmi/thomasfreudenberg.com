@@ -4,7 +4,7 @@ title: 'coComment Logo for my blog'
 date: 2006-02-12 08:05:00 +01
 comments: true
 disqus_identifier: 13766
-categories: [coComment]
+tags: [coComment]
 redirect_from:
   - /blog/archive/2006/02/12/coComment-logo.aspx
 ---

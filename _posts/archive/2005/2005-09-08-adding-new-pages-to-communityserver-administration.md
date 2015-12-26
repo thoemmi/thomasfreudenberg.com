@@ -4,7 +4,7 @@ title: 'Adding new pages to CommunityServer administration'
 date: 2005-09-08 13:56:00 +02
 comments: true
 disqus_identifier: 12484
-categories: [Community Server]
+tags: [Community Server]
 redirect_from:
   - /blog/archive/2005/09/09/Adding-new-pages-to-CommunityServer-administration.aspx
 ---

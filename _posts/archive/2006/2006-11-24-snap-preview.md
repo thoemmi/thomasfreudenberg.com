@@ -4,7 +4,7 @@ title: 'Snap Preview'
 date: 2006-11-24 12:32:00 +01
 comments: true
 disqus_identifier: 18285
-categories: [Site news, Community Server]
+tags: [Site news, Community Server]
 redirect_from:
   - /blog/archive/2006/11/24/snap-preview.aspx
 ---

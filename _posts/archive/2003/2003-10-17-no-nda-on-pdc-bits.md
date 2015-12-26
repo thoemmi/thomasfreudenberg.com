@@ -4,7 +4,7 @@ title: 'No NDA on PDC bits'
 date: 2003-10-17 13:27:00 +02
 comments: true
 disqus_identifier: 227
-categories: [PDC '03]
+tags: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/17/No-NDA-on-PDC-bits.aspx
   - /blog/archive/2003/10/17/227.aspx

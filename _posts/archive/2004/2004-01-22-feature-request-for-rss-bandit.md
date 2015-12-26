@@ -4,7 +4,7 @@ title: 'Feature Request for RSS Bandit'
 date: 2004-01-22 11:45:00 +01
 comments: true
 disqus_identifier: 319
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2004/01/22/Feature-Request-for-RSS-Bandit.aspx
   - /blog/archive/2004/01/22/319.aspx

@@ -4,7 +4,7 @@ title: 'Visual Studio 2005 Beta 1... almost'
 date: 2004-07-01 06:19:00 +02
 comments: true
 disqus_identifier: 416
-categories: [Development, Whidbey]
+tags: [Development, Whidbey]
 redirect_from:
   - /blog/archive/2004/07/01/Visual-Studio-2005-Beta-1_2E002E002E00_-almost.aspx
   - /blog/archive/2004/07/01/416.aspx

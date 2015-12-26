@@ -4,7 +4,7 @@ title: 'Fun with RavenDB and ASP.NET MVC&#58; part I'
 date: 2013-04-07 22:09:55 +02
 comments: true
 disqus_identifier: 458164
-categories: [RavenDB, aspnetmvc]
+tags: [RavenDB, aspnetmvc]
 redirect_from:
   - /blog/archive/2013/04/08/fun-with-ravendb-and-asp-net-mvc-part-i.aspx
 ---

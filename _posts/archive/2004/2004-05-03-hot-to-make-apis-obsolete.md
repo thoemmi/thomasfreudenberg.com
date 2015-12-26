@@ -4,7 +4,7 @@ title: 'Hot to make APIs obsolete'
 date: 2004-05-03 05:31:00 +02
 comments: true
 disqus_identifier: 391
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2004/05/03/Obsoleting.aspx
   - /blog/archive/2004/05/03/391.aspx

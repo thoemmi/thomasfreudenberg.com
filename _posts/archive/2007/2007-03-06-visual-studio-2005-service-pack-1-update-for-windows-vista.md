@@ -4,7 +4,7 @@ title: 'Visual Studio 2005 Service Pack 1 Update for Windows Vista'
 date: 2007-03-06 21:56:00 +01
 comments: true
 disqus_identifier: 23803
-categories: [Development, Windows Vista, Whidbey]
+tags: [Development, Windows Vista, Whidbey]
 redirect_from:
   - /blog/archive/2007/03/07/visual-studio-2005-service-pack-1-update-for-windows-vista.aspx
 ---

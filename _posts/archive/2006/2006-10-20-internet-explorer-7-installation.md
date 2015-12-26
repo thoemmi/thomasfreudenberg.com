@@ -4,7 +4,7 @@ title: 'Internet Explorer 7 Installation'
 date: 2006-10-20 13:19:31 +02
 comments: true
 disqus_identifier: 18036
-categories: [Firefox, Internet Explorer]
+tags: [Firefox, Internet Explorer]
 redirect_from:
   - /blog/archive/2006/10/21/Internet-Explorer-7-Installation.aspx
 ---

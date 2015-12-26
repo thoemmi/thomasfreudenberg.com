@@ -4,7 +4,7 @@ title: 'Add rel=&quot;nofollow&quot; to .Text comments'
 date: 2005-01-19 08:15:00 +01
 comments: true
 disqus_identifier: 486
-categories: [Internet, .Text]
+tags: [Internet, .Text]
 redirect_from:
   - /blog/archive/2005/01/19/Add-rel_3D002200_nofollow_2200_-to-.Text-comments.aspx
   - /blog/archive/2005/01/19/486.aspx

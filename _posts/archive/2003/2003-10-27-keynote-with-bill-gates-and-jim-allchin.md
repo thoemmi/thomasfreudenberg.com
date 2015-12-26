@@ -4,7 +4,7 @@ title: 'Keynote with Bill Gates and Jim Allchin'
 date: 2003-10-27 11:09:00 +01
 comments: true
 disqus_identifier: 242
-categories: [PDC '03]
+tags: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/27/Keynote-with-Bill-Gates-and-Jim-Allchin.aspx
   - /blog/archive/2003/10/27/242.aspx

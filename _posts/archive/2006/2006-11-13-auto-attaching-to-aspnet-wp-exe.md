@@ -4,7 +4,7 @@ title: 'Auto-attaching to aspnet_wp.exe'
 date: 2006-11-13 13:58:00 +01
 comments: true
 disqus_identifier: 18196
-categories: [Community Server, Development, ASP.NET]
+tags: [Community Server, Development, ASP.NET]
 redirect_from:
   - /blog/archive/2006/11/13/Auto_2D00_attaching-to-aspnet_5F00_wp.exe.aspx
 ---

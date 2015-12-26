@@ -4,7 +4,7 @@ title: 'Lutz Roeder releases Reflector 4.0'
 date: 2004-05-03 07:52:00 +02
 comments: true
 disqus_identifier: 392
-categories: [Development, Tools]
+tags: [Development, Tools]
 redirect_from:
   - /blog/archive/2004/05/03/Reflector40.aspx
   - /blog/archive/2004/05/03/392.aspx

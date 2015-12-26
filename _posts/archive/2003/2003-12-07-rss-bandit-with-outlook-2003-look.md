@@ -4,7 +4,7 @@ title: 'RSS Bandit with Outlook 2003 look'
 date: 2003-12-07 20:55:00 +01
 comments: true
 disqus_identifier: 288
-categories: [Development, Software]
+tags: [Development, Software]
 redirect_from:
   - /blog/archive/2003/12/08/RSS-Bandit-with-Outlook-2003-look.aspx
   - /blog/archive/2003/12/08/288.aspx

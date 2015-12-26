@@ -4,7 +4,7 @@ title: 'ReSharper 3.0 Released'
 date: 2007-06-21 13:26:00 +02
 comments: true
 disqus_identifier: 32139
-categories: [Development, Tools]
+tags: [Development, Tools]
 redirect_from:
   - /blog/archive/2007/06/21/resharper-3-0-released.aspx
 ---

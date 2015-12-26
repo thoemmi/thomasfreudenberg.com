@@ -4,7 +4,7 @@ title: 'Snippet Compiler 1.7'
 date: 2003-09-11 13:43:00 +02
 comments: true
 disqus_identifier: 190
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2003/09/11/190.aspx
 ---

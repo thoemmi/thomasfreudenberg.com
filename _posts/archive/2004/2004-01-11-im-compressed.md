@@ -4,7 +4,7 @@ title: 'I''m compressed...'
 date: 2004-01-11 14:39:00 +01
 comments: true
 disqus_identifier: 313
-categories: [Site news, .Text]
+tags: [Site news, .Text]
 redirect_from:
   - /blog/archive/2004/01/11/I_2700_m-compressed_2E002E002E00_.aspx
   - /blog/archive/2004/01/11/313.aspx

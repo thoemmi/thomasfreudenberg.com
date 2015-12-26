@@ -4,7 +4,7 @@ title: 'Firefox + IE Tab'
 date: 2006-01-24 02:34:00 +01
 comments: true
 disqus_identifier: 13387
-categories: [Firefox]
+tags: [Firefox]
 redirect_from:
   - /blog/archive/2006/01/24/firefox-and-ietab.aspx
 ---

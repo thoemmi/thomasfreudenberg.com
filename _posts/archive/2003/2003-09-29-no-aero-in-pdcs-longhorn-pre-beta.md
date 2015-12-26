@@ -4,7 +4,7 @@ title: 'No Aero in PDC''s Longhorn Pre-Beta'
 date: 2003-09-29 08:45:00 +02
 comments: true
 disqus_identifier: 215
-categories: [Development, PDC '03]
+tags: [Development, PDC '03]
 redirect_from:
   - /blog/archive/2003/09/29/No-Aero-in-PDC_2700_s-Longhorn-Pre_2D00_Beta.aspx
   - /blog/archive/2003/09/29/215.aspx

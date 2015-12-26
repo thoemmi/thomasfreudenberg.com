@@ -4,7 +4,7 @@ title: 'Starting signal'
 date: 2003-08-31 14:29:00 +02
 comments: true
 disqus_identifier: 145
-categories: [Site news]
+tags: [Site news]
 redirect_from:
   - /blog/archive/2003/08/31/145.aspx
 ---

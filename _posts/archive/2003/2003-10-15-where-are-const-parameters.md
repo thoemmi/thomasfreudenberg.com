@@ -4,7 +4,7 @@ title: 'Where are const parameters?'
 date: 2003-10-15 08:02:00 +02
 comments: true
 disqus_identifier: 225
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2003/10/15/225.aspx
 ---

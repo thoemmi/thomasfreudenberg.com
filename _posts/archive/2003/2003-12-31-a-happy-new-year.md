@@ -4,7 +4,7 @@ title: 'A Happy New Year'
 date: 2003-12-31 11:53:00 +01
 comments: true
 disqus_identifier: 294
-categories: []
+tags: []
 redirect_from:
   - /blog/archive/2003/12/31/294.aspx
 ---

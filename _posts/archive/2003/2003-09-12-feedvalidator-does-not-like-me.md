@@ -4,7 +4,7 @@ title: 'FeedValidator does not like me'
 date: 2003-09-12 20:53:00 +02
 comments: true
 disqus_identifier: 193
-categories: [Site news, Internet]
+tags: [Site news, Internet]
 redirect_from:
   - /blog/archive/2003/09/12/193.aspx
 ---

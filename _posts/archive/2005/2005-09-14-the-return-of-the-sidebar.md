@@ -4,7 +4,7 @@ title: 'The Return of the Sidebar'
 date: 2005-09-14 05:43:00 +02
 comments: true
 disqus_identifier: 12501
-categories: [Windows Vista, PDC '05]
+tags: [Windows Vista, PDC '05]
 redirect_from:
   - /blog/archive/2005/09/14/The-Return-of-the-Sidebar.aspx
 ---

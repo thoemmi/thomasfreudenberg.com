@@ -4,7 +4,7 @@ title: 'Honeypot Captcha for Community Server'
 date: 2007-09-17 11:34:00 +02
 comments: true
 disqus_identifier: 40205
-categories: []
+tags: []
 redirect_from:
   - /blog/archive/2007/09/17/honeypot-captcha-for-community-server.aspx
 ---

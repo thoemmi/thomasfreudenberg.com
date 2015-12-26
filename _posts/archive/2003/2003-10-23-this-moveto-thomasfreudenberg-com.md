@@ -4,7 +4,7 @@ title: 'this.MoveTo("ThomasFreudenberg.com")'
 date: 2003-10-23 23:20:00 +02
 comments: true
 disqus_identifier: 229
-categories: [Site news]
+tags: [Site news]
 redirect_from:
   - /blog/archive/2003/10/24/229.aspx
 ---

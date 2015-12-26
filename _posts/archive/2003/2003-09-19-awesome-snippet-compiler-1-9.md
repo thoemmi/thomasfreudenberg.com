@@ -4,7 +4,7 @@ title: 'Awesome&#58; Snippet Compiler 1.9'
 date: 2003-09-19 10:14:00 +02
 comments: true
 disqus_identifier: 200
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2003/09/19/200.aspx
 ---

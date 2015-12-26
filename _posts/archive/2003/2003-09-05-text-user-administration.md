@@ -4,7 +4,7 @@ title: '.Text User Administration'
 date: 2003-09-05 21:54:00 +02
 comments: true
 disqus_identifier: 165
-categories: [.Text]
+tags: [.Text]
 redirect_from:
   - /blog/archive/2003/09/05/165.aspx
 ---

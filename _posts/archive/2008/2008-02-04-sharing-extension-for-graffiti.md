@@ -4,7 +4,7 @@ title: 'Sharing Extension for Graffiti'
 date: 2008-02-04 10:52:00 +01
 comments: true
 disqus_identifier: 58262
-categories: [Graffiti]
+tags: [Graffiti]
 redirect_from:
   - /blog/archive/2008/02/04/sharing-extension-for-graffiti.aspx
 ---

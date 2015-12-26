@@ -4,7 +4,7 @@ title: 'Vacation Enforcement'
 date: 2006-11-24 12:06:00 +01
 comments: true
 disqus_identifier: 18283
-categories: [Vacation]
+tags: [Vacation]
 redirect_from:
   - /blog/archive/2006/11/24/vacation-enforcement.aspx
 ---

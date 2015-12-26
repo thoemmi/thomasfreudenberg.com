@@ -4,7 +4,7 @@ title: 'What''s New in Windows Forms 2.0'
 date: 2004-04-29 07:38:00 +02
 comments: true
 disqus_identifier: 384
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2004/04/29/WinForms2.aspx
   - /blog/archive/2004/04/29/384.aspx

@@ -4,7 +4,7 @@ title: 'Longhorn demo application video'
 date: 2004-01-06 05:24:00 +01
 comments: true
 disqus_identifier: 301
-categories: [Development, Windows Vista]
+tags: [Development, Windows Vista]
 redirect_from:
   - /blog/archive/2004/01/06/301.aspx
 ---

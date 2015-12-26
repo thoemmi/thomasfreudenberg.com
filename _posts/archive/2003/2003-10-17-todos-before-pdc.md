@@ -4,7 +4,7 @@ title: 'ToDo''s before PDC'
 date: 2003-10-17 10:04:00 +02
 comments: true
 disqus_identifier: 226
-categories: [Software, PDC '03]
+tags: [Software, PDC '03]
 redirect_from:
   - /blog/archive/2003/10/17/ToDo_2700_s-before-PDC.aspx
   - /blog/archive/2003/10/17/226.aspx

@@ -4,7 +4,7 @@ title: 'More coComment'
 date: 2006-02-12 04:07:00 +01
 comments: true
 disqus_identifier: 13755
-categories: [coComment]
+tags: [coComment]
 redirect_from:
   - /blog/archive/2006/02/12/more-coComment.aspx
 ---

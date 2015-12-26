@@ -4,7 +4,7 @@ title: 'Reactivating this site'
 date: 2010-07-25 12:16:40 +02
 comments: true
 disqus_identifier: 257646
-categories: [Site news]
+tags: [Site news]
 redirect_from:
   - /blog/archive/2010/07/25/reactivating-this-site.aspx
 ---

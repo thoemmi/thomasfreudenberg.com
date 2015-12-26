@@ -4,7 +4,7 @@ title: 'Snippet Compiler 1.6 released'
 date: 2003-09-09 17:02:00 +02
 comments: true
 disqus_identifier: 186
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2003/09/09/186.aspx
 ---

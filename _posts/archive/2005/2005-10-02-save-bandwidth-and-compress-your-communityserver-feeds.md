@@ -4,7 +4,7 @@ title: 'Save Bandwidth and Compress Your CommunityServer Feeds'
 date: 2005-10-02 22:02:00 +02
 comments: true
 disqus_identifier: 12539
-categories: [Community Server, Development]
+tags: [Community Server, Development]
 redirect_from:
   - /blog/archive/2005/10/03/compress-your-communityserver-feeds.aspx
 ---

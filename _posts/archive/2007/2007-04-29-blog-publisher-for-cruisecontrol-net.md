@@ -4,7 +4,7 @@ title: 'Blog Publisher for CruiseControl.NET'
 date: 2007-04-29 08:47:00 +02
 comments: true
 disqus_identifier: 28236
-categories: [Development, MetaWeblogApi, ccnet]
+tags: [Development, MetaWeblogApi, ccnet]
 redirect_from:
   - /blog/archive/2007/04/29/blog-publisher-for-cruisecontrol-net.aspx
 ---

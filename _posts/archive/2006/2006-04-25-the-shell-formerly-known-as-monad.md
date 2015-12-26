@@ -4,7 +4,7 @@ title: 'The shell formerly known as Monad...'
 date: 2006-04-25 12:11:00 +02
 comments: true
 disqus_identifier: 15211
-categories: [Development, PowerShell, Monad]
+tags: [Development, PowerShell, Monad]
 redirect_from:
   - /blog/archive/2006/04/25/The-shell-formerly-known-as-monad.aspx
 ---

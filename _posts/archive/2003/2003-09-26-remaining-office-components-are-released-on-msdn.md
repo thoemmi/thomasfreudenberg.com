@@ -4,7 +4,7 @@ title: 'Remaining Office Components are released on MSDN'
 date: 2003-09-26 10:20:00 +02
 comments: true
 disqus_identifier: 210
-categories: [Software]
+tags: [Software]
 redirect_from:
   - /blog/archive/2003/09/26/210.aspx
 ---

@@ -4,7 +4,7 @@ title: 'Community Server MVP'
 date: 2006-10-19 12:34:00 +02
 comments: true
 disqus_identifier: 18022
-categories: [Community Server, CSMVPs]
+tags: [Community Server, CSMVPs]
 redirect_from:
   - /blog/archive/2006/10/19/Community-Server-MVP.aspx
 ---

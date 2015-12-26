@@ -4,7 +4,7 @@ title: 'ScottW on Service Based Aggregator'
 date: 2003-09-22 06:19:00 +02
 comments: true
 disqus_identifier: 208
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2003/09/22/208.aspx
 ---

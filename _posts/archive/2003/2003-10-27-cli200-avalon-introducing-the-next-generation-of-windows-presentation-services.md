@@ -4,7 +4,7 @@ title: '[CLI200] &quot;Avalon&quot;&#58; Introducing the Next Generation of Wind
 date: 2003-10-27 19:50:00 +01
 comments: true
 disqus_identifier: 244
-categories: [PDC '03]
+tags: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/27/244.aspx
 ---

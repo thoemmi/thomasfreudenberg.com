@@ -4,7 +4,7 @@ title: 'DLL Search Order Changed in Latest Windows'
 date: 2003-09-04 17:33:00 +02
 comments: true
 disqus_identifier: 162
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2003/09/04/162.aspx
 ---

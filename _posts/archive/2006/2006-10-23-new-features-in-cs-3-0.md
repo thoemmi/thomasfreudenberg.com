@@ -4,7 +4,7 @@ title: 'New Features in CS 3.0'
 date: 2006-10-23 10:03:00 +02
 comments: true
 disqus_identifier: 18062
-categories: [Community Server]
+tags: [Community Server]
 redirect_from:
   - /blog/archive/2006/10/23/New-Features-in-CS-3.0.aspx
 ---

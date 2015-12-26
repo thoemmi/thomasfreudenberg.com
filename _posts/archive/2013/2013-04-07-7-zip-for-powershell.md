@@ -4,7 +4,7 @@ title: '7-Zip for Powershell'
 date: 2013-04-07 16:27:56 +02
 comments: true
 disqus_identifier: 458163
-categories: [7-zip, Powershell]
+tags: [7-zip, Powershell]
 redirect_from:
   - /blog/archive/2013/04/07/7-zip-for-powershell.aspx
 ---

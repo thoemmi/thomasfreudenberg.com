@@ -4,7 +4,7 @@ title: 'ASP.NET Popup Control at CodeProject'
 date: 2003-11-16 05:17:00 +01
 comments: true
 disqus_identifier: 275
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2003/11/16/ASP.NET-Popup-Control-at-CodeProject.aspx
   - /blog/archive/2003/11/16/275.aspx

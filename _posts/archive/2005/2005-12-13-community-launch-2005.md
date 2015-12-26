@@ -4,7 +4,7 @@ title: 'Community Launch 2005'
 date: 2005-12-13 15:12:00 +01
 comments: true
 disqus_identifier: 12676
-categories: [Development, User Group, Community]
+tags: [Development, User Group, Community]
 redirect_from:
   - /blog/archive/2005/12/14/community-launch-2005.aspx
 ---

@@ -4,7 +4,7 @@ title: 'Microsoft Virtual PC 2004 RTM'
 date: 2003-11-10 22:17:00 +01
 comments: true
 disqus_identifier: 264
-categories: [Development, Software]
+tags: [Development, Software]
 redirect_from:
   - /blog/archive/2003/11/10/264.aspx
 ---

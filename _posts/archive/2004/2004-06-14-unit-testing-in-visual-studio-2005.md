@@ -4,7 +4,7 @@ title: 'Unit Testing in Visual Studio 2005'
 date: 2004-06-14 08:45:00 +02
 comments: true
 disqus_identifier: 409
-categories: [Development, Whidbey]
+tags: [Development, Whidbey]
 redirect_from:
   - /blog/archive/2004/06/14/Unit-Testing-in-Visual-Studio-2005.aspx
   - /blog/archive/2004/06/14/409.aspx

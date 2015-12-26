@@ -4,7 +4,7 @@ title: 'How am I going to tackle the PDC?'
 date: 2003-10-25 08:56:00 +02
 comments: true
 disqus_identifier: 233
-categories: [PDC '03]
+tags: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/25/How-am-I-going-to-tackle-the-PDC_3F00_.aspx
   - /blog/archive/2003/10/25/233.aspx

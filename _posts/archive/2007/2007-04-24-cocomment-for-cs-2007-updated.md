@@ -4,7 +4,7 @@ title: 'coComment for CS 2007 updated'
 date: 2007-04-24 11:09:00 +02
 comments: true
 disqus_identifier: 28125
-categories: [Community Server, coComment]
+tags: [Community Server, coComment]
 redirect_from:
   - /blog/archive/2007/04/24/cocomment-for-cs-2007-updated.aspx
 ---

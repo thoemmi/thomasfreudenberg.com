@@ -4,7 +4,7 @@ title: 'All Firefox Extensions Gone after upgrading to 2.0.7'
 date: 2007-09-20 11:09:00 +02
 comments: true
 disqus_identifier: 40563
-categories: [Software, Tips 'n Tricks, Firefox]
+tags: [Software, Tips 'n Tricks, Firefox]
 redirect_from:
   - /blog/archive/2007/09/20/all-firefox-extensions-gone-after-upgrading-to-2-0-7.aspx
 ---

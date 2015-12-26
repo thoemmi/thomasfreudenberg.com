@@ -4,7 +4,7 @@ title: 'Congratulations CodeProject'
 date: 2004-04-06 09:55:00 +02
 comments: true
 disqus_identifier: 371
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2004/04/06/371.aspx
 ---

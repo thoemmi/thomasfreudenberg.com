@@ -4,7 +4,7 @@ title: 'HDN_TRACK and HDS_FULLDRAG'
 date: 2004-03-14 05:14:00 +01
 comments: true
 disqus_identifier: 352
-categories: [Development]
+tags: [Development]
 keywords: [listview, HDN_BEGINTRACK, HDN_TRACK, HDN_ENDTRACK, HDS_FULLDRAG]
 redirect_from:
   - /blog/archive/2004/03/14/HDN-TRACK.aspx

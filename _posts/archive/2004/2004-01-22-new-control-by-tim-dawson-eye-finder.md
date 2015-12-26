@@ -4,7 +4,7 @@ title: 'New control by Tim Dawson&#58; Eye Finder'
 date: 2004-01-22 02:39:00 +01
 comments: true
 disqus_identifier: 318
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2004/01/22/New-control-by-Tim-Dawson_3A00_-Eye-Finder.aspx
   - /blog/archive/2004/01/22/318.aspx

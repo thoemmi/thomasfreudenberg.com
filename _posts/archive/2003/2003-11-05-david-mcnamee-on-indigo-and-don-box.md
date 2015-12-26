@@ -4,7 +4,7 @@ title: 'David McNamee on Indigo and Don Box'
 date: 2003-11-05 13:39:00 +01
 comments: true
 disqus_identifier: 259
-categories: [Development, Windows Vista]
+tags: [Development, Windows Vista]
 redirect_from:
   - /blog/archive/2003/11/05/259.aspx
 ---

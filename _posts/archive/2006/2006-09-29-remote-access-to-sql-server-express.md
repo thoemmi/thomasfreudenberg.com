@@ -4,7 +4,7 @@ title: 'Remote Access to SQL Server Express'
 date: 2006-09-29 06:40:48 +02
 comments: true
 disqus_identifier: 17882
-categories: [Development, Tips 'n Tricks, SQL Server]
+tags: [Development, Tips 'n Tricks, SQL Server]
 redirect_from:
   - /blog/archive/2006/09/29/Remote-Access-to-SQL-Server-Express.aspx
 ---

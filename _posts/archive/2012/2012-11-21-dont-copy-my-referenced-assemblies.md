@@ -4,7 +4,7 @@ title: 'Don’t copy my referenced assemblies'
 date: 2012-11-21 07:51:17 +01
 comments: true
 disqus_identifier: 403453
-categories: [msbuild]
+tags: [msbuild]
 redirect_from:
   - /blog/archive/2012/11/21/don-t-copy-my-referenced-assemblies.aspx
 ---

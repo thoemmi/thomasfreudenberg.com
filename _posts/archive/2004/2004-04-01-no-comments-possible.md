@@ -4,7 +4,7 @@ title: 'No comments possible'
 date: 2004-04-01 02:59:00 +02
 comments: true
 disqus_identifier: 364
-categories: [Site news, .Text]
+tags: [Site news, .Text]
 redirect_from:
   - /blog/archive/2004/04/01/CommentsBroken.aspx
   - /blog/archive/2004/04/01/364.aspx

@@ -4,7 +4,7 @@ title: 'Did you ever right-click the Explorer''s caption icon?'
 date: 2003-10-09 06:38:00 +02
 comments: true
 disqus_identifier: 217
-categories: [Software]
+tags: [Software]
 redirect_from:
   - /blog/archive/2003/10/09/217.aspx
 ---

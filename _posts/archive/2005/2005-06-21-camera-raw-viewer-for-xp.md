@@ -4,7 +4,7 @@ title: 'Camera Raw viewer for XP'
 date: 2005-06-21 12:56:00 +02
 comments: true
 disqus_identifier: 8098
-categories: [Software]
+tags: [Software]
 redirect_from:
   - /blog/archive/2005/06/21/RawViewerPowerToy.aspx
   - /blog/archive/2005/06/21/RawViewerPowerToy.aspx

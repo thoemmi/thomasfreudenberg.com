@@ -4,7 +4,7 @@ title: 'Some more issues with .94'
 date: 2003-09-04 07:53:00 +02
 comments: true
 disqus_identifier: 158
-categories: [.Text]
+tags: [.Text]
 redirect_from:
   - /blog/archive/2003/09/04/Some-more-issues-with-.94.aspx
   - /blog/archive/2003/09/04/158.aspx

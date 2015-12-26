@@ -4,7 +4,7 @@ title: 'Community Server 2.1 Beta 2'
 date: 2006-07-28 13:57:00 +02
 comments: true
 disqus_identifier: 16881
-categories: [Site news, Community Server]
+tags: [Site news, Community Server]
 redirect_from:
   - /blog/archive/2006/07/29/Community-Server-2.1-Beta-2.aspx
 ---

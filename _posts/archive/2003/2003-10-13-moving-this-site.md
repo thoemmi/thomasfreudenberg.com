@@ -4,7 +4,7 @@ title: 'Moving this site'
 date: 2003-10-13 10:34:00 +02
 comments: true
 disqus_identifier: 224
-categories: [Site news]
+tags: [Site news]
 redirect_from:
   - /blog/archive/2003/10/13/224.aspx
 ---

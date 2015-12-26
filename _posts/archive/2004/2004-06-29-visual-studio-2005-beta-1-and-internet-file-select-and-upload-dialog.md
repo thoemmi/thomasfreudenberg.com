@@ -4,7 +4,7 @@ title: 'Visual Studio 2005 Beta 1 and Internet File Select and Upload Dialog'
 date: 2004-06-29 04:58:00 +02
 comments: true
 disqus_identifier: 412
-categories: [Development, Software, Whidbey]
+tags: [Development, Software, Whidbey]
 redirect_from:
   - /blog/archive/2004/06/29/Visual-Studio-2005-Beta-1-and-Internet-File-Select-and-Upload-Dialog.aspx
   - /blog/archive/2004/06/29/412.aspx

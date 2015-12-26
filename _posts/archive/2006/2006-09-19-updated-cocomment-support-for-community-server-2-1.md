@@ -4,7 +4,7 @@ title: 'Updated coComment support for Community Server 2.1'
 date: 2006-09-19 12:47:00 +02
 comments: true
 disqus_identifier: 17777
-categories: [Community Server, Development, coComment]
+tags: [Community Server, Development, coComment]
 redirect_from:
   - /blog/archive/2006/09/19/Updated-coComment-support-for-Community-Server-2.1.aspx
 ---

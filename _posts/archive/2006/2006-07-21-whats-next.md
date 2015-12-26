@@ -4,7 +4,7 @@ title: 'What''s next'
 date: 2006-07-21 19:06:00 +02
 comments: true
 disqus_identifier: 16868
-categories: [Community Server, Development, coComment, Akismet]
+tags: [Community Server, Development, coComment, Akismet]
 redirect_from:
   - /blog/archive/2006/07/22/Whats-next.aspx
 ---

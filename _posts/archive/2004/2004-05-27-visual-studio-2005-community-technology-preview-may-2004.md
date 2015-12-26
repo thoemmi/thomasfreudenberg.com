@@ -4,7 +4,7 @@ title: 'Visual Studio 2005 Community Technology Preview May 2004'
 date: 2004-05-27 08:59:00 +02
 comments: true
 disqus_identifier: 403
-categories: [Development, Whidbey]
+tags: [Development, Whidbey]
 redirect_from:
   - /blog/archive/2004/05/27/VS2005CTPMay04.aspx
   - /blog/archive/2004/05/27/403.aspx

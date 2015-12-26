@@ -4,7 +4,7 @@ title: 'Thanks, Jeff'
 date: 2003-10-21 07:40:00 +02
 comments: true
 disqus_identifier: 228
-categories: [PDC '03]
+tags: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/21/Thanks_2C00_-Jeff.aspx
   - /blog/archive/2003/10/21/228.aspx

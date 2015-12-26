@@ -4,7 +4,7 @@ title: 'SpamBayes Outlook Addin 0.8 released'
 date: 2003-09-08 12:09:00 +02
 comments: true
 disqus_identifier: 176
-categories: [Software]
+tags: [Software]
 redirect_from:
   - /blog/archive/2003/09/08/176.aspx
 ---

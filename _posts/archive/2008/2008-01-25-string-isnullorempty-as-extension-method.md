@@ -4,7 +4,7 @@ title: 'String.IsNullOrEmpty as Extension Method'
 date: 2008-01-25 12:53:00 +01
 comments: true
 disqus_identifier: 57390
-categories: ['.NET']
+tags: ['.NET']
 redirect_from:
   - /blog/archive/2008/01/25/string-isnullorempty-as-extension-method.aspx
 ---

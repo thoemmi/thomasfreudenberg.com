@@ -4,7 +4,7 @@ title: 'Windows Vista UX Guidelines Released'
 date: 2005-09-13 20:06:00 +02
 comments: true
 disqus_identifier: 12500
-categories: [Windows Vista, PDC '05]
+tags: [Windows Vista, PDC '05]
 redirect_from:
   - /blog/archive/2005/09/13/Windows-Vista-UX-Guidelines-Released.aspx
 ---

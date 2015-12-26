@@ -4,7 +4,7 @@ title: 'Where''s .Text going to?'
 date: 2005-01-26 19:11:00 +01
 comments: true
 disqus_identifier: 528
-categories: [.Text]
+tags: [.Text]
 redirect_from:
   - /blog/archive/2005/01/26/Where_2700_s-.Text-going-to_3F00_.aspx
   - /blog/archive/2005/01/26/528.aspx

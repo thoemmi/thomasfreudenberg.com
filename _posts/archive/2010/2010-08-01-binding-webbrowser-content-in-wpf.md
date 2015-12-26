@@ -4,7 +4,7 @@ title: 'Binding WebBrowser content in WPF'
 date: 2010-08-01 06:23:00 +02
 comments: true
 disqus_identifier: 258000
-categories: [WPF, MVVM]
+tags: [WPF, MVVM]
 redirect_from:
   - /blog/archive/2010/08/01/binding-webbrowser-content-in-wpf.aspx
 ---

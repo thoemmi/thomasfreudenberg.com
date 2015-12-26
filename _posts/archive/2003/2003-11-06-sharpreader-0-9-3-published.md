@@ -4,7 +4,7 @@ title: 'SharpReader 0.9.3 published'
 date: 2003-11-06 22:17:00 +01
 comments: true
 disqus_identifier: 260
-categories: [Software]
+tags: [Software]
 redirect_from:
   - /blog/archive/2003/11/06/260.aspx
 ---

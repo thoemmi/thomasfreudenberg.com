@@ -4,7 +4,7 @@ title: 'PDC Retrospection'
 date: 2003-11-12 23:47:00 +01
 comments: true
 disqus_identifier: 266
-categories: [PDC '03]
+tags: [PDC '03]
 redirect_from:
   - /blog/archive/2003/11/13/PDC-Retrospection.aspx
   - /blog/archive/2003/11/13/266.aspx

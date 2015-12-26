@@ -4,7 +4,7 @@ title: 'Process Explorer v10 released'
 date: 2006-02-13 02:45:00 +01
 comments: true
 disqus_identifier: 13786
-categories: [Tools]
+tags: [Tools]
 redirect_from:
   - /blog/archive/2006/02/13/process-explorer-v10.aspx
 ---

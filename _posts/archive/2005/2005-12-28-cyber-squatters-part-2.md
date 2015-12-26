@@ -4,7 +4,7 @@ title: 'Cyber Squatters - Part 2'
 date: 2005-12-28 00:30:00 +01
 comments: true
 disqus_identifier: 12680
-categories: [Site news]
+tags: [Site news]
 redirect_from:
   - /blog/archive/2005/12/28/cyber-squatters-part-2.aspx
 ---

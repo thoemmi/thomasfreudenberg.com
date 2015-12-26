@@ -4,7 +4,7 @@ title: 'Let the party start'
 date: 2005-09-13 06:02:00 +02
 comments: true
 disqus_identifier: 12492
-categories: [PDC '05]
+tags: [PDC '05]
 redirect_from:
   - /blog/archive/2005/09/13/Let-the-party-start.aspx
 ---

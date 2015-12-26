@@ -4,7 +4,7 @@ title: 'Goodbye Stanislav Lem'
 date: 2006-03-27 13:05:00 +02
 comments: true
 disqus_identifier: 14572
-categories: []
+tags: []
 redirect_from:
   - /blog/archive/2006/03/27/14572.aspx
 ---

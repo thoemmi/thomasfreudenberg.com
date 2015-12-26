@@ -4,7 +4,7 @@ title: 'The Akismet Spam Rule included in Alabaster'
 date: 2006-08-22 12:57:00 +02
 comments: true
 disqus_identifier: 17598
-categories: [Community Server, Akismet, CSMVPs]
+tags: [Community Server, Akismet, CSMVPs]
 redirect_from:
   - /blog/archive/2006/08/22/The-Akismet-Spam-Rule-included-in-Alabaster.aspx
 ---

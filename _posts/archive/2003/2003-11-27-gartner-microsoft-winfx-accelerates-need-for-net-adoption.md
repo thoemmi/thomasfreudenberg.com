@@ -4,7 +4,7 @@ title: 'Gartner&#58; Microsoft WinFX Accelerates Need for .NET Adoption'
 date: 2003-11-27 08:59:00 +01
 comments: true
 disqus_identifier: 284
-categories: [Development, Software, Windows Vista]
+tags: [Development, Software, Windows Vista]
 redirect_from:
   - /blog/archive/2003/11/27/284.aspx
 ---

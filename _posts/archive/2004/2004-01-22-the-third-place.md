@@ -4,7 +4,7 @@ title: 'The Third Place'
 date: 2004-01-22 21:41:00 +01
 comments: true
 disqus_identifier: 321
-categories: []
+tags: []
 redirect_from:
   - /blog/archive/2004/01/22/321.aspx
 ---

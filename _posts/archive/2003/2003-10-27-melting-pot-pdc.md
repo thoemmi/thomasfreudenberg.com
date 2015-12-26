@@ -4,7 +4,7 @@ title: 'Melting Pot PDC'
 date: 2003-10-27 10:58:00 +01
 comments: true
 disqus_identifier: 241
-categories: [PDC '03]
+tags: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/27/Melting-Pot-PDC.aspx
   - /blog/archive/2003/10/27/241.aspx

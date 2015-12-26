@@ -4,7 +4,7 @@ title: 'UserGroup VFL NiederRhein'
 date: 2004-05-14 04:23:00 +02
 comments: true
 disqus_identifier: 397
-categories: [Development, Windows Vista, User Group]
+tags: [Development, Windows Vista, User Group]
 redirect_from:
   - /blog/archive/2004/05/14/VFLNiederRhein.aspx
   - /blog/archive/2004/05/14/397.aspx

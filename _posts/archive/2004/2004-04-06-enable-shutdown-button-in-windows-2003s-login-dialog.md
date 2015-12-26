@@ -4,7 +4,7 @@ title: 'Enable shutdown button in Windows 2003''s login dialog '
 date: 2004-04-06 22:40:00 +02
 comments: true
 disqus_identifier: 376
-categories: [Software]
+tags: [Software]
 redirect_from:
   - /blog/archive/2004/04/07/EnableShutdownInLoginDialog.aspx
   - /blog/archive/2004/04/07/376.aspx

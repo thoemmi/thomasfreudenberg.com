@@ -4,7 +4,7 @@ title: 'Windows Server 2003 Password Manager and XP'
 date: 2003-09-18 09:04:00 +02
 comments: true
 disqus_identifier: 197
-categories: [Software]
+tags: [Software]
 redirect_from:
   - /blog/archive/2003/09/18/197.aspx
 ---

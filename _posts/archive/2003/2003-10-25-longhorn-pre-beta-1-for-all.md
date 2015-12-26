@@ -4,7 +4,7 @@ title: 'Longhorn pre-Beta 1 For All!'
 date: 2003-10-25 07:44:00 +02
 comments: true
 disqus_identifier: 232
-categories: [PDC '03]
+tags: [PDC '03]
 redirect_from:
   - /blog/archive/2003/10/25/Longhorn-pre_2D00_Beta-1-For-All_2100_.aspx
   - /blog/archive/2003/10/25/232.aspx

@@ -4,7 +4,7 @@ title: 'This site is 25% evil, 75% good'
 date: 2004-01-09 22:15:00 +01
 comments: true
 disqus_identifier: 306
-categories: [Site news]
+tags: [Site news]
 redirect_from:
   - /blog/archive/2004/01/09/306.aspx
 ---

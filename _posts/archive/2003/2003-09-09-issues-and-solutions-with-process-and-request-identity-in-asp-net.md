@@ -4,7 +4,7 @@ title: 'Issues and solutions with Process and Request Identity in ASP.NET '
 date: 2003-09-09 08:31:00 +02
 comments: true
 disqus_identifier: 181
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2003/09/09/181.aspx
 ---

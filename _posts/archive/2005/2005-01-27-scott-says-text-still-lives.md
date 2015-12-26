@@ -4,7 +4,7 @@ title: 'Scott says &quot;.Text Still Lives&quot;'
 date: 2005-01-27 19:16:00 +01
 comments: true
 disqus_identifier: 534
-categories: [.Text]
+tags: [.Text]
 redirect_from:
   - /blog/archive/2005/01/27/Scott-says-_22002E00_Text-Still-Lives_2200_.aspx
   - /blog/archive/2005/01/27/534.aspx

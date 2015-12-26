@@ -4,7 +4,7 @@ title: 'Making things clearer'
 date: 2005-01-26 18:44:00 +01
 comments: true
 disqus_identifier: 526
-categories: [.Text]
+tags: [.Text]
 redirect_from:
   - /blog/archive/2005/01/26/Making-things-clearer.aspx
   - /blog/archive/2005/01/26/526.aspx

@@ -4,7 +4,7 @@ title: 'What if Dr. Seuss wrote technical manuals?'
 date: 2003-12-03 13:24:00 +01
 comments: true
 disqus_identifier: 287
-categories: []
+tags: []
 redirect_from:
   - /blog/archive/2003/12/03/287.aspx
 ---

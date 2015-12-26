@@ -4,7 +4,7 @@ title: 'Moved Permanently'
 date: 2003-10-25 12:36:00 +02
 comments: true
 disqus_identifier: 236
-categories: [Site news]
+tags: [Site news]
 redirect_from:
   - /blog/archive/2003/10/25/236.aspx
 ---

@@ -4,7 +4,7 @@ title: 'Self-Installing .NET Windows Service'
 date: 2003-10-09 16:57:00 +02
 comments: true
 disqus_identifier: 218
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2003/10/09/218.aspx
 ---

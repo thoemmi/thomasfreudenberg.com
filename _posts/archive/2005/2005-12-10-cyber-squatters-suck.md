@@ -4,7 +4,7 @@ title: 'Cyber squatters suck!'
 date: 2005-12-10 13:17:00 +01
 comments: true
 disqus_identifier: 12673
-categories: [Site news]
+tags: [Site news]
 redirect_from:
   - /blog/archive/2005/12/10/cyber-squatters-suck.aspx
 ---

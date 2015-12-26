@@ -4,7 +4,7 @@ title: 'ThomasFreudenberg.com Upgraded to CommunityServer 2007'
 date: 2007-04-22 10:14:00 +02
 comments: true
 disqus_identifier: 28080
-categories: [Site news, Community Server]
+tags: [Site news, Community Server]
 redirect_from:
   - /blog/archive/2007/04/22/thomasfreudenberg-com-upgraded-to-communityserver-2007.aspx
 ---

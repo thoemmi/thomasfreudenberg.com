@@ -4,7 +4,7 @@ title: 'Another teaser'
 date: 2006-11-07 01:00:55 +01
 comments: true
 disqus_identifier: 18149
-categories: []
+tags: []
 redirect_from:
   - /blog/archive/2006/11/07/Another-teaser.aspx
 ---

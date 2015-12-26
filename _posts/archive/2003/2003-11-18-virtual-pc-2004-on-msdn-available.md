@@ -4,7 +4,7 @@ title: 'Virtual PC 2004 on MSDN available'
 date: 2003-11-18 06:52:00 +01
 comments: true
 disqus_identifier: 280
-categories: [Development, Software]
+tags: [Development, Software]
 redirect_from:
   - /blog/archive/2003/11/18/280.aspx
 ---

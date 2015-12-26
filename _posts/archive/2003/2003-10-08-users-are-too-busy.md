@@ -4,7 +4,7 @@ title: 'Users are too busy'
 date: 2003-10-08 09:09:00 +02
 comments: true
 disqus_identifier: 216
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2003/10/08/216.aspx
 ---

@@ -4,7 +4,7 @@ title: 'Bringing .Text v.96 further'
 date: 2005-01-26 06:31:00 +01
 comments: true
 disqus_identifier: 513
-categories: [.Text]
+tags: [.Text]
 redirect_from:
   - /blog/archive/2005/01/26/Bringing-.Text-v.96-further.aspx
   - /blog/archive/2005/01/26/513.aspx

@@ -4,7 +4,7 @@ title: 'Update Rollup 2 brings MCE to the next level'
 date: 2005-10-17 00:32:00 +02
 comments: true
 disqus_identifier: 12554
-categories: [Software, MCE]
+tags: [Software, MCE]
 redirect_from:
   - /blog/archive/2005/10/17/media-center-edition-update-rollup-2.aspx
 ---

@@ -4,7 +4,7 @@ title: '[TLS321] Visual C# &amp;quot;Whidbey&amp;quot;&#58; IDE Enhancement for 
 date: 2003-10-28 18:52:00 +01
 comments: true
 disqus_identifier: 250
-categories: [Whidbey, PDC '03]
+tags: [Whidbey, PDC '03]
 redirect_from:
   - /blog/archive/2003/10/28/250.aspx
 ---

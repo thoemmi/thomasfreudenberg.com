@@ -4,7 +4,7 @@ title: 'CommunityServer MVPs CSModules Pack for CS2007 released'
 date: 2007-05-14 09:56:00 +02
 comments: true
 disqus_identifier: 29098
-categories: [Community Server, Akismet, CSMVPs]
+tags: [Community Server, Akismet, CSMVPs]
 redirect_from:
   - /blog/archive/2007/05/14/communityserver-mvps-csmodules-pack-for-cs2007-released.aspx
 ---

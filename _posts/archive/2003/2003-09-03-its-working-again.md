@@ -4,7 +4,7 @@ title: 'It''s working again'
 date: 2003-09-03 20:09:00 +02
 comments: true
 disqus_identifier: 150
-categories: [Site news]
+tags: [Site news]
 redirect_from:
   - /blog/archive/2003/09/03/150.aspx
 ---

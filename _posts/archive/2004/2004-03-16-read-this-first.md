@@ -4,7 +4,7 @@ title: '"Read This First"'
 date: 2004-03-16 10:18:00 +01
 comments: true
 disqus_identifier: 353
-categories: [Fun]
+tags: [Fun]
 redirect_from:
   - /blog/archive/2004/03/16/ReadThisFirst.aspx
   - /blog/archive/2004/03/16/353.aspx

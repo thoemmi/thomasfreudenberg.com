@@ -4,7 +4,7 @@ title: 'Twitter Publisher for CruiseControl.NET'
 date: 2007-06-17 12:09:00 +02
 comments: true
 disqus_identifier: 31811
-categories: [Development, ccnet, Twitter]
+tags: [Development, ccnet, Twitter]
 redirect_from:
   - /blog/archive/2007/06/17/twitter-publisher-for-cruisecontrol-net.aspx
 ---

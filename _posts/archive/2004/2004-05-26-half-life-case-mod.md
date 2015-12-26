@@ -4,7 +4,7 @@ title: 'Half-Life&sup2; case mod'
 date: 2004-05-26 07:26:00 +02
 comments: true
 disqus_identifier: 401
-categories: [Fun]
+tags: [Fun]
 redirect_from:
   - /blog/archive/2004/05/26/HalfLife2CaseMod.aspx
   - /blog/archive/2004/05/26/401.aspx

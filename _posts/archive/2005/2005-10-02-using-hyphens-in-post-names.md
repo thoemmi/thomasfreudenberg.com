@@ -4,7 +4,7 @@ title: 'Using Hyphens In Post Names'
 date: 2005-10-02 23:21:00 +02
 comments: true
 disqus_identifier: 12540
-categories: [Community Server]
+tags: [Community Server]
 redirect_from:
   - /blog/archive/2005/10/03/using-hyphens-in-post-names.aspx
 ---

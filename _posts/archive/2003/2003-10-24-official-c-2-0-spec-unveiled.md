@@ -4,7 +4,7 @@ title: 'Official C# 2.0 Spec Unveiled'
 date: 2003-10-24 00:24:00 +02
 comments: true
 disqus_identifier: 231
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2003/10/24/231.aspx
 ---

@@ -4,7 +4,7 @@ title: 'KDE Mouse Emulator'
 date: 2006-08-27 08:32:00 +02
 comments: true
 disqus_identifier: 17656
-categories: [Software, Tools]
+tags: [Software, Tools]
 redirect_from:
   - /blog/archive/2006/08/27/KDE-Mouse-Emulator.aspx
 ---

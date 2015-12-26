@@ -4,7 +4,7 @@ title: 'PDC&#58; The (missing) Goods'
 date: 2005-09-13 07:58:00 +02
 comments: true
 disqus_identifier: 12499
-categories: [PDC '05]
+tags: [PDC '05]
 keywords: [pdc05]
 redirect_from:
   - /blog/archive/2005/09/13/PDC_3A00_-The-_2800_missing_2900_-Goods.aspx

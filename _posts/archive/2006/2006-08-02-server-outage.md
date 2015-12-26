@@ -4,7 +4,7 @@ title: 'Server Outage'
 date: 2006-08-02 04:13:00 +02
 comments: true
 disqus_identifier: 16882
-categories: [Site news]
+tags: [Site news]
 redirect_from:
   - /blog/archive/2006/08/02/Server-Outage.aspx
 ---

@@ -4,7 +4,7 @@ title: 'NRW06 Community Conference'
 date: 2006-06-26 04:01:00 +02
 comments: true
 disqus_identifier: 16782
-categories: [User Group, Community]
+tags: [User Group, Community]
 redirect_from:
   - /blog/archive/2006/06/26/nrw06.aspx
 ---

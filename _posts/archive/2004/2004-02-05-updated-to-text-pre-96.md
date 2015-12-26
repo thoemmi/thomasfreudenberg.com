@@ -4,7 +4,7 @@ title: 'Updated to .Text pre .96'
 date: 2004-02-05 07:15:00 +01
 comments: true
 disqus_identifier: 337
-categories: [Site news, .Text]
+tags: [Site news, .Text]
 redirect_from:
   - /blog/archive/2004/02/05/Updated-to-.Text-pre-.96.aspx
   - /blog/archive/2004/02/05/337.aspx

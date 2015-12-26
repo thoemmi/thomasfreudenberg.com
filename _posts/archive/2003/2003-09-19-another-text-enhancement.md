@@ -4,7 +4,7 @@ title: 'Another .Text enhancement'
 date: 2003-09-19 07:53:00 +02
 comments: true
 disqus_identifier: 203
-categories: [.Text]
+tags: [.Text]
 redirect_from:
   - /blog/archive/2003/09/19/Another-.Text-enhancement.aspx
   - /blog/archive/2003/09/19/203.aspx

@@ -4,7 +4,7 @@ title: 'NuGet package for 7Zip4Powershell'
 date: 2013-04-19 18:06:19 +02
 comments: true
 disqus_identifier: 458166
-categories: [7-zip, Powershell, NuGet]
+tags: [7-zip, Powershell, NuGet]
 redirect_from:
   - /blog/archive/2013/04/19/nuget-package-for-7zip4powershell.aspx
 ---

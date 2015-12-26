@@ -4,7 +4,7 @@ title: 'Process Explorer 8.02 released'
 date: 2003-11-04 23:21:00 +01
 comments: true
 disqus_identifier: 258
-categories: [Development, Software]
+tags: [Development, Software]
 redirect_from:
   - /blog/archive/2003/11/05/258.aspx
 ---

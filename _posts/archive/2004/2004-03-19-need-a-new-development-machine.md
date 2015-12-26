@@ -4,7 +4,7 @@ title: 'Need a new development machine?'
 date: 2004-03-19 05:19:00 +01
 comments: true
 disqus_identifier: 355
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2004/03/19/355.aspx
 ---

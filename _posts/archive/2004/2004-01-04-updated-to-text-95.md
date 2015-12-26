@@ -4,7 +4,7 @@ title: 'Updated to .Text  .95'
 date: 2004-01-04 15:37:00 +01
 comments: true
 disqus_identifier: 296
-categories: [Site news, .Text]
+tags: [Site news, .Text]
 redirect_from:
   - /blog/archive/2004/01/04/Updated-to-.Text--.95.aspx
   - /blog/archive/2004/01/04/296.aspx

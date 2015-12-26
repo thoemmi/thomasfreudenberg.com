@@ -4,7 +4,7 @@ title: 'CAPTCHA for CommunityServer 2007'
 date: 2007-04-29 07:50:00 +02
 comments: true
 disqus_identifier: 28232
-categories: [Site news, Community Server]
+tags: [Site news, Community Server]
 redirect_from:
   - /blog/archive/2007/04/29/captcha-for-communityserver-2007.aspx
 ---

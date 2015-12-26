@@ -4,7 +4,7 @@ title: 'Finally switched to CommunityServer'
 date: 2005-08-21 12:08:00 +02
 comments: true
 disqus_identifier: 12429
-categories: [Site news, Community Server]
+tags: [Site news, Community Server]
 redirect_from:
   - /blog/archive/2005/08/21/12429.aspx
 ---

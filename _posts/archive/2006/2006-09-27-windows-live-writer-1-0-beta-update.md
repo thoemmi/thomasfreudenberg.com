@@ -4,7 +4,7 @@ title: 'Windows Live Writer 1.0 Beta Update'
 date: 2006-09-27 11:19:18 +02
 comments: true
 disqus_identifier: 17854
-categories: [Software]
+tags: [Software]
 redirect_from:
   - /blog/archive/2006/09/27/Windows-Live-Writer-1.0-Beta-Update.aspx
 ---

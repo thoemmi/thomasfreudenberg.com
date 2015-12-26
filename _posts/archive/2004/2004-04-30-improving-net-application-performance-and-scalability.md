@@ -4,7 +4,7 @@ title: 'Improving .NET Application Performance and Scalability'
 date: 2004-04-30 06:14:00 +02
 comments: true
 disqus_identifier: 385
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2004/04/30/385.aspx
 ---

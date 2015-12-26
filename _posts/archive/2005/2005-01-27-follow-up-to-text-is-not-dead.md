@@ -4,7 +4,7 @@ title: 'Follow-up to &quot;.Text is not dead&quot;'
 date: 2005-01-27 19:19:00 +01
 comments: true
 disqus_identifier: 535
-categories: [.Text]
+tags: [.Text]
 redirect_from:
   - /blog/archive/2005/01/27/Follow_2D00_up-to-_22002E00_Text-is-not-dead_2200_.aspx
   - /blog/archive/2005/01/27/535.aspx

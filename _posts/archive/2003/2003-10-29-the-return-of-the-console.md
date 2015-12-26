@@ -4,7 +4,7 @@ title: 'The Return of the Console'
 date: 2003-10-29 12:31:00 +01
 comments: true
 disqus_identifier: 251
-categories: [PDC '03, MSBuild]
+tags: [PDC '03, MSBuild]
 redirect_from:
   - /blog/archive/2003/10/29/The-Return-of-the-Console.aspx
   - /blog/archive/2003/10/29/251.aspx

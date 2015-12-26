@@ -4,7 +4,7 @@ title: 'Why does Windows Messenger not reflect buddy''s state?'
 date: 2003-09-24 07:33:00 +02
 comments: true
 disqus_identifier: 209
-categories: []
+tags: []
 redirect_from:
   - /blog/archive/2003/09/24/209.aspx
 ---

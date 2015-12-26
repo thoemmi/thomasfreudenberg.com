@@ -4,7 +4,7 @@ title: 'Application Domain FAQ'
 date: 2004-04-07 06:01:00 +02
 comments: true
 disqus_identifier: 375
-categories: [Development]
+tags: [Development]
 redirect_from:
   - /blog/archive/2004/04/07/AppDomainFAQ.aspx
   - /blog/archive/2004/04/07/375.aspx
