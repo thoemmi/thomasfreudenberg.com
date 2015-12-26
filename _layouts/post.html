@@ -11,12 +11,12 @@ layout: default
 </article>
 
 <div class="pagination">
-  {% if page.previous %}
+  {% if page.previous -%}
     <a class="pagination-item older" href="{{page.previous.url}}">{{page.previous.title}}</a>
-  {% endif %}
-  {% if page.next %}
+  {% endif -%}
+  {% if page.next -%}
   <a class="pagination-item newer" href="{{page.next.url}}">{{page.next.title}}</a>
-  {% endif %}
+  {% endif -%}
 </div>
 
 {% if site.disqus_short_name and page.comments == true %}
