@@ -7,6 +7,7 @@ disqus_identifier: 264
 tags: [Development, Software]
 redirect_from:
   - /blog/archive/2003/11/10/264.aspx
+  - /blog/posts/264.aspx
 ---
 
 Microsoft released [Virtual PC 2004](http://www.microsoft.com/windowsxp/virtualpc/) to manufacturing.
