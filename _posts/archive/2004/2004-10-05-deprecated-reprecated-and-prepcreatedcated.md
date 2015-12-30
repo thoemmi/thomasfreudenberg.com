@@ -9,21 +9,20 @@ redirect_from:
   - /blog/archive/2004/10/05/444.aspx
 ---
 
-> \<kanze@gabi-soft.fr\> wrote in message
-> [news:d6652001.0408260141.293d53e7@posting.google.com](http://groups.google.com/groups?selm=d6652001.0408260141.293d53e7%40posting.google.com)...
-> \> Sounds good to me.  Let's see:
-> \>
-> \> Features that are in the standard, and have never been deprecated, are
-> \> precated.
-> \>
-> \> Features that have been deprecated, but aren't any more, are reprecated.
-> \>
-> \> Features that aren't in the standard, but are (more or less) guaranteed
-> \> to be in a future standard (the library TR, for example), are
-> \> preprecated.
-> \>
-> \> I like this group.  Not only can we invent new features for C++, we can
-> \> invent them for English as well:-).
+> > Sounds good to me.  Let's see:
+> >
+> > Features that are in the standard, and have never been deprecated, are
+> > precated.
+> >
+> > Features that have been deprecated, but aren't any more, are reprecated.
+> >
+> > Features that aren't in the standard, but are (more or less) guaranteed
+> > to be in a future standard (the library TR, for example), are
+> > preprecated.
+> >
+> > I like this group.  Not only can we invent new features for C++, we can
+> > invent them for English as well:-).
+>
 > I'd suggest adding a couple more:
 >
 > Features that nobody wants in the standard are antiprecated. Example: the
@@ -40,4 +39,3 @@ redirect_from:
 > Andrei
 
 [[Andrei Alexandrescu](http://moderncppdesign.com/) in [comp.lang.c++.moderated](http://groups.google.de/groups?hl=en&lr=&ie=UTF-8&selm=2pbn40Fj7745U1%40uni-berlin.de)]
-
