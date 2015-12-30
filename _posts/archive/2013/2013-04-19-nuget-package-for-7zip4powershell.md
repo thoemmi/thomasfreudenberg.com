@@ -17,6 +17,7 @@ It took me a while to figure it out, but finally it’s a “tools only” packa
 
 To use the new commands just add the package to your solution and import it in your Powershell script:
 
-    $SolutionDir = split-path -parent $PSCommandPath
-    Import-Module (Join-Path $SolutionDir "packages\7Zip4Powershell.1.0\tools\7Zip4Powershell.dll")
-
+```powershell
+$SolutionDir = split-path -parent $PSCommandPath
+Import-Module (Join-Path $SolutionDir "packages\7Zip4Powershell.1.0\tools\7Zip4Powershell.dll")
+```
