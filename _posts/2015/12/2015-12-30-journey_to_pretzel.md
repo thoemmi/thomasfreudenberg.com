@@ -12,6 +12,6 @@ However, I lost interest in CS after a while. I started writing my own blog engi
 
 Well, though I learnt a lot about the different technologies, libraries etc, I never got to the point where my software was ready to be published.    
 
-Finally I decided to overcome my developer ego and use some existing software. A few month ago I switched to [Jekyll](http://jekyllrb.com/). Some weeks later I switched again, this time to [Pretzel](https://github.com/Code52/pretzel), which is very similar to Jekyll but written in .NET.
+Finally I decided to overcome my developer ego and use some existing software. A few month ago I switched to [Jekyll](http://jekyllrb.com/), a static site generator written in Ruby. Some weeks later I switched again, this time to [Pretzel](https://github.com/Code52/pretzel), which is very similar to Jekyll but written in .NET.
 
 After writing this introduction, I intend to publish a couple of posts about the different stations of my journey to Pretzel in the next few weeks. E.g. I wrote several extensions for Pretzel, and I configured Azure for auto-deployment whenever I push to the [git repository of this site](https://github.com/thoemmi/thomasfreudenberg.com).
