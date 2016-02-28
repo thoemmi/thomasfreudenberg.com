@@ -9,7 +9,9 @@ redirect_from:
   - /blog/archive/2010/07/25/reactivating-this-site.aspx
 ---
 
+::: image-right
 ![germany.hamburg](/files/archive/germany.hamburg_4531E44E.png "germany.hamburg")
+:::
 
 Yes, this blog is still alive, though the last post is about two and a half years old.
 

@@ -9,7 +9,9 @@ redirect_from:
   - /blog/archive/2013/04/07/7-zip-for-powershell.aspx
 ---
 
+::: image-right
 ![powershell\_logo](/files/archive/powershell_logo.jpg "powershell_logo")
+:::
 
 At work we deal with different big databases, and by big I mean between 3.5 and 8 GB. Those databases are zipped with [7-Zip](http://7-zip.org/) and stored on a server. Depending on the scenario we unzip one of these databases to a local folder and attach it to the SQL Server. To simplify these steps we have a couple of Powershell scripts, among other things invoking the command line version of 7-Zip.
 

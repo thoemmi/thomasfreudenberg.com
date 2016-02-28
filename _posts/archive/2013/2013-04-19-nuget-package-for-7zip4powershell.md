@@ -9,7 +9,9 @@ redirect_from:
   - /blog/archive/2013/04/19/nuget-package-for-7zip4powershell.aspx
 ---
 
+::: image-right
 ![nuget](/files/archive/nuget.png "nuget")
+:::
 
 A few days ago I mentioned [7-Zip for Powershell](/archive/2013/04/07/7-zip-for-powershell/). I’ve now created a NuGet package and published it at [NuGet.org](https://nuget.org/packages/7Zip4Powershell/).
 

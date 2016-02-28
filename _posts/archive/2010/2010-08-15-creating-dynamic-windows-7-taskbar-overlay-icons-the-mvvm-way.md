@@ -9,7 +9,9 @@ redirect_from:
   - /blog/archive/2010/08/15/creating-dynamic-windows-7-taskbar-overlay-icons-the-mvvm-way.aspx
 ---
 
+::: image-right
 ![metrotwit](/files/archive/metrotwit_516A72C4.png "metrotwit")
+:::
 
 Since Windows 7 the icon of an application can get an overlay bitmap. You can use that to indicate some state of the application, or–like [MetroTwit](http://www.metrotwit.com/)–to show the number of unread items.
 

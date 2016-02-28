@@ -9,7 +9,9 @@ redirect_from:
   - /blog/archive/2008/01/29/net-forum-de-launched.aspx
 ---
 
+::: image-left
 [![.NET Forum](/files/archive/dotnet-forum.gif)](http://dotnet-forum.de/)
+:::
 
 A couple of days ago [Jan Welker](http://blog.jan-welker.de/) launched a new German .NET related community site, [.NET-Forum.de](http://dotnet-forum.de/). I didn't expect the developsphere to require just another site, but there are already 51 users registered, even though the site wasn't advertised anywhere except the [dotnet-snippets.de](http://dotnet-snippets.de) newsletter.
 

@@ -9,7 +9,9 @@ redirect_from:
   - /blog/archive/2007/09/20/all-firefox-extensions-gone-after-upgrading-to-2-0-7.aspx
 ---
 
+::: image-right
 ![Firefox](/files/archive/firefox_logo.png)
+:::
 
 Today I upgraded Firefox to 2.0.7, which [fixes a flaw in the QuickTime plugin](http://www.mozilla.org/security/announce/2007/mfsa2007-28.html). However, after the upgrade **Firefox didn't load any of the extensions** I have installed
 

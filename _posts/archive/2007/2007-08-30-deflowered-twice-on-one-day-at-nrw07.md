@@ -9,7 +9,9 @@ redirect_from:
   - /blog/archive/2007/08/30/nrw07-follow-up.aspx
 ---
 
-![nrw07 speaker](/files/archive/speakernrw07.jpg) 
+::: image-left
+![nrw07 speaker](/files/archive/speakernrw07.jpg)
+::: 
 
 Last Friday the [nrw07](http://nrw07.de/) took place in Wuppertal, the biggest community conference in North Rhine-Westphalia. About **100 attendees** including the 22 speakers! The Diebels brewery contributes a couple of beer crates, and Subway served lots of sandwiches for lunch.
 
