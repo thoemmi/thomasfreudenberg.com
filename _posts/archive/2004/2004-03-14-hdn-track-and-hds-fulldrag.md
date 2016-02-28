@@ -9,6 +9,7 @@ keywords: [listview, HDN_BEGINTRACK, HDN_TRACK, HDN_ENDTRACK, HDS_FULLDRAG]
 redirect_from:
   - /blog/archive/2004/03/14/HDN-TRACK.aspx
   - /blog/archive/2004/03/14/352.aspx
+  - /blog/comments/352.aspx
 ---
 
 I'm posting this, because it took me two hours to find the issue.
