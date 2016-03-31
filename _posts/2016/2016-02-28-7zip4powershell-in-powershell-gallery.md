@@ -4,6 +4,7 @@ title: '7Zip4Powershell in PowerShell Gallery'
 comments: true
 tags: [7-zip, Powershell]
 keywords: [7-zip, PowerShell, Gallery, 7Zip4PowerShell]
+og_image: /files/archive/powershell-gallery.png
 ---
 
 ::: image-right
