@@ -4,7 +4,7 @@ title: 'Password support in 7Zip4Powershell'
 comments: true
 tags: [7-zip, Powershell]
 keywords: [7-zip, PowerShell, Gallery, 7Zip4PowerShell]
-og_image: /files/archive/7zip4powershell-logo.png
+og_image: /files/archive/7zip4powershell-logo_big.png
 ---
 
 ::: image-right
