@@ -13,7 +13,7 @@ public partial class _404 : System.Web.UI.Page
         Response.TrySkipIisCustomErrors = true;
         Response.Status = "404 Not Found";
         Response.StatusCode = 404;
-        Response.WriteFile(Server.MapPath("404.html"));
+        Response.WriteFile(Server.MapPath("/404.html"));
         Response.End();
     }
 }
