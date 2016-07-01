@@ -34,7 +34,7 @@ Property : Length
 That's about **4.6 MiB** of PNGs. Than I let ZopfliPNG re-compress all these files:
 
 ``` powershell
-gci *.png -Recurse | %{ .\zopflipng.exe -y --lossy_transparent $_.FullName $_.FullName } 
+gci *.png -Recurse | %{ zopflipng.exe -y --lossy_transparent $_.FullName $_.FullName } 
 ```
 
 A few minutes and 110 files later the command has finished. 56 files have been changed, i.e. ZopfliPNG was able to produce a smaller size for more than half of all images.
