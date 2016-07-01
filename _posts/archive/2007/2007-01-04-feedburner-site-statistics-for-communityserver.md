@@ -43,14 +43,14 @@ Anyway, here are the instructions. For each theme you have to make following cha
 
 Add these two lines right after the *\<%@ Register* directives at the top:
 
-``` aspx-cs
+``` aspnet
 <%@ Import Namespace="CommunityServer.Components" %>
 <%@ Import Namespace="CommunityServer.Blogs.Components" %>
 ```
 
 Add following block right before the closing *\</body\>* tag:
 
-``` aspx-cs
+``` aspnet
 <% CSContext context = CSContext.Current; %>
 <% Weblog currentBlog = Weblogs.GetWeblog(context.ApplicationKey); %>
 <% if (!Globals.IsNullorEmpty(currentBlog.ExternalFeedUrl) && currentBlog.ExternalFeedUrl.StartsWith("http://feeds.feedburner.com/")) { %>

@@ -15,7 +15,7 @@ However, I don't like how the URL to the blog post is rendered (it's the rewritt
 
 Anyway, here's what I came up with:
 
-``` aspx-cs
+``` aspnet
 <%@ Import Namespace="CommunityServer.Components" %>
 <%@ Import Namespace="CommunityServer.Blogs.Components" %>
 <% WeblogPost currentPost = WeblogPosts.GetWeblogEntry(CSContext.Current.BlogGroupID, CSContext.Current.PostID); %>

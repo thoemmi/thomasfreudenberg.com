@@ -12,7 +12,7 @@ redirect_from:
 
 Someone [asked](http://www.asp.net/Forums/ShowPost.aspx?tabindex=1&PostID=438059) in the [.Text forum](http://www.asp.net/Forums/ShowForum.aspx?tabindex=1&ForumID=149) how to add [GeoTags](http://www.geourl.com/) to your blog. Well, since version .95 .Text uses a masterpage, which is declared in `DottextWeb/DTP.aspx`. In its header section I've added my GeoTags as follows (my changes in **bold**):
 
-``` aspx-cs 
+``` aspnet
 <%@ Page language="c#" Codebehind="DTP.aspx.cs" AutoEventWireup="false"
     Inherits="Dottext.Web.UI.Pages.DottextMasterPage" %>
 <%@ Register TagPrefix="DT" Namespace="Dottext.Web.UI.WebControls" Assembly="Dottext.Web" %>

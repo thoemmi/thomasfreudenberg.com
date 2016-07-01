@@ -17,7 +17,7 @@ AFAIK that's not possible in C\#. Whenever you call a method with a parameter wh
 
 One possible solution is shown in following sample:
 
-``` C#
+``` csharp
 public interface IFoo
 {
     int Param {get; }

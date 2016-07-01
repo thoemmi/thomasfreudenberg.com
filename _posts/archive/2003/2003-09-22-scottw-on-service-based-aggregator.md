@@ -11,7 +11,7 @@ redirect_from:
 
 [ScottW](http://scottwater.com/) [talks about a Service Based Aggregator](http://scottwater.com/blog/posts/9981.aspx):
 
-> *For a new little project, I needed to create a simple windows service that aggregated a set of feeds. Part two was wiring up this data to a winform app. Along the way, it got me to thinking that this might be an interesting way to create an aggregator. Some service/site runs in the background processing the data. When you need it, fire up your application (Winform/Site/Etc).  The other really cool thing is that now all of this great data is just sitting there waiting to be used and reused.*
+> For a new little project, I needed to create a simple windows service that aggregated a set of feeds. Part two was wiring up this data to a winform app. Along the way, it got me to thinking that this might be an interesting way to create an aggregator. Some service/site runs in the background processing the data. When you need it, fire up your application (Winform/Site/Etc).  The other really cool thing is that now all of this great data is just sitting there waiting to be used and reused.
 
 I really like that idea for three reasons:
 

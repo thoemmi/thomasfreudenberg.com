@@ -25,7 +25,7 @@ Open `post.aspx` of your desired blog theme
 
 1.  Add following line right after the imports:
 
-    ``` aspx-cs
+    ``` aspnet
     <%@ Register TagPrefix="TFr" Namespace="ThomasFreudenberg.CS2007"
         Assembly="ThomasFreudenberg.CS2007" %>
     ```

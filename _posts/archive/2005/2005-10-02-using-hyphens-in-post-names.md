@@ -21,7 +21,7 @@ There was a discussion [regarding naming of posts](http://communityserver.org/fo
 
 2.  When you want to visit the post using the named url, you'll get a 404 error. That's because the regular expression in `SiteUrls.config` is defined as ``\w+`, i.e. only letters, digits, and underscores. Again no underscores. Fortunately, there's no compilation required, instead change the regular expressions for `weblogpostName` and `weblogarticleName` to:
 
-    ``` aspx-cs
+    ``` aspnet
     <url name="weblogpostName"
         location="weblogs" path="{0}/archive/{1}/{2}/{3}/{4}.aspx"
         pattern="([\w\.-]+)/archive/(\d{4})/(\d{1,2})/(\d{1,2})/([a-zA-Z][1234567890a-zA-Z\-_]*)\.aspx"

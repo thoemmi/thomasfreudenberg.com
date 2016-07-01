@@ -53,7 +53,7 @@ The installation is pretty easy: [Download the ZIP file](/files/archive/Thoemmi.
 
 If you have had a default installation before, the `httpHandlers` section should now contain following lines:
 
-``` aspx-cs
+``` xml
 <add verb="GET" path="blogs/rss.aspx"
     type="Thoemmi.CommunityServer.Compression.CompressedWeblogRssHandler, Thoemmi.CommunityServer.Compression" />
 

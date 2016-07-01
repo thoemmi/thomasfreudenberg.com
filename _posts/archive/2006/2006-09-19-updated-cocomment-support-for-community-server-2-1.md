@@ -11,7 +11,7 @@ redirect_from:
 
 Yesterday the guys at coComment [updated their scripts](http://www.cocomment.com/teamblog/?p=117). They also refreshed the example for Community Server, but that's targetting CS 2.0. There are some breaking changes in the API of CS 2.1, so that code won't work with Telligent's latest release. Keyvan Nayyeri [updated the code](http://nayyeri.net/archive/2006/07/21/Adding-CoComment-support-to-Community-Server-2.1.aspx) some time ago. I polished it a little bit and incorporated the latest changes from coComment:
 
-``` aspx-cs        
+``` aspnet    
 <%@ Import Namespace="CommunityServer.Components" %>
 <%@ Import Namespace="CommunityServer.Blogs.Components" %>
 

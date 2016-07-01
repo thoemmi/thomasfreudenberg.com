@@ -12,14 +12,14 @@ redirect_from:
 
 As [I posted](/archive/2004/04/01/no-comments-possible/), no postbacks on my site were possible. Though I'm running the same application at home and on my site, the `onsubmit` tag was rendered differently. At home I get
 
-``` aspx-cs
+``` aspnet
 <form name="Form1" method="post" action="CommentsBroken.aspx" 
     language="javascript" onsubmit="ValidatorOnSubmit();" id="Form1">
 ```
 
 while [my public blog](/) is rendered
 
-``` aspx-cs
+``` aspnet
 <form name="Form1" method="post" action="CommentsBroken.aspx" 
     language="javascript"
     onsubmit="if (DefaultButton_RequireOwnPostback(this) ) { return false; }; if (!ValidatorOnSubmit()) return false;" 

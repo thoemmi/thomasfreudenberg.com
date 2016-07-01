@@ -13,7 +13,7 @@ redirect_from:
 
 > Developers should migrate their skills to .NET Framework managed code today to establish the experience and expertise needed to minimize problems in the eventual adoption of WinFX by 2008.
 
-Did you here this, Managers?
+Did you hear this, Managers?
 
 [via [Randy Holloway](http://longhornblogs.com/rholloway/posts/1561.aspx)]
 
