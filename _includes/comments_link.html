@@ -1,5 +1,5 @@
-{% if post.disqus_identifier %}
-  {% assign disqus_identifier = post.disqus_identifier %}
+{% if post.bag["disqus_identifier"]" %}
+  {% assign disqus_identifier = post.bag["disqus_identifier"] %}
 {% else %}
   {% assign disqus_identifier = page.disqus_identifier %}
 {% endif %}

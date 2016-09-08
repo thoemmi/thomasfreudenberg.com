@@ -2,6 +2,7 @@
 layout: post
 title: '7Zip4Powershell in PowerShell Gallery'
 comments: true
+disqus_identifier: http://thomasfreudenberg.com/archive/2016/02/28/7zip4powershell-in-powershell-gallery/
 tags: [7-zip, Powershell]
 keywords: [7-zip, PowerShell, Gallery, 7Zip4PowerShell]
 og_image: /files/archive/powershell-gallery_big.png
@@ -33,4 +34,4 @@ and installing it is as simple as invoking
 Install-Module -Name 7Zip4Powershell
 ```
 
-I'm very happy that the folks at Microsoft created that gallery, because it makes the discovery of interesting modules so much easier. 
+I'm very happy that the folks at Microsoft created that gallery, because it makes the discovery of interesting modules so much easier.

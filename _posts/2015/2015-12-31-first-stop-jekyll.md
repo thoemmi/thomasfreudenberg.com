@@ -2,11 +2,12 @@
 layout: post
 title: 'My Journey to Pretzel: First Stop Jekyll'
 comments: true
+disqus_identifier: http://thomasfreudenberg.com/archive/2015/12/31/first-stop-jekyll/
 tags: [Jekyll, CommunityServer]
 ---
 As described in my [previous post](/archive/2015/12/30/journey_to_pretzel/), I decided to replace my CommunityServer setup with a static site generator. Being a vivid GitHub user, the first choice was [GitHub Pages](https://pages.github.com/). GitHub Pages allows you to commit your site to a repository and let GitHub serve it using [Jekyll](http://jekyllrb.com/).
 
-I won't go into detail how to setup Jekyll or GitHub Pages. You'll be able to find enough information in the internet. Phil Haack, a much better story teller than me, wrote an article about [his migration from SubText to Jekyll](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/). He also gave advice how to [preserve all comments with Disqus](http://haacked.com/archive/2013/12/09/preserving-disqus-comments-with-jekyll/). 
+I won't go into detail how to setup Jekyll or GitHub Pages. You'll be able to find enough information in the internet. Phil Haack, a much better story teller than me, wrote an article about [his migration from SubText to Jekyll](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/). He also gave advice how to [preserve all comments with Disqus](http://haacked.com/archive/2013/12/09/preserving-disqus-comments-with-jekyll/).
 
 So my first step was to get the data of my existing site out of CommunityServer and into a format that Jekyll understands. [Keyvan Nayyeri](http://www.keyvan.tech/) wrote once [an extension for CommunityServer](http://blogml.codeplex.com/) to download the content as a [BlogML](https://en.wikipedia.org/wiki/BlogML) document (a standarized XML format for storing blog content).
 

@@ -2,6 +2,7 @@
 layout: post
 title: Saving bandwidth with Zopfli
 comments: true
+disqus_identifier: http://thomasfreudenberg.com/archive/2016/01/02/zopflipng/
 tags: [Zopfli]
 ---
 Today Jeff Atwood published the article [Zopfli Optimization: Literally Free Bandwidth](http://blog.codinghorror.com/zopfli-optimization-literally-free-bandwidth/), praising the compression algorithm **Zopfli**. Zopfli was created by Google and [published in 2013](http://googledevelopers.blogspot.de/2013/02/compress-data-more-densely-with-zopfli.html):
@@ -16,7 +17,7 @@ Jeff gave Zopfli a try and got [impressive results](http://blog.codinghorror.com
 
 However, Zopfli has one drawback. Its awesome compression ratio comes with a speed penalty, it's [more than **80 times slower** than gzip](http://www.lifehacker.com.au/2013/03/a-look-at-zopfli-googles-open-source-compression-algorithm/).
 
-Because of its slowness Zopfli is not the best choice for compression at runtime. But where it really shines is when it's used for pre-compressed data. A very good candidate are PNG encoded images. There's even a Zopfli encoder for that purpose, **ZopfliPNG**.   
+Because of its slowness Zopfli is not the best choice for compression at runtime. But where it really shines is when it's used for pre-compressed data. A very good candidate are PNG encoded images. There's even a Zopfli encoder for that purpose, **ZopfliPNG**.
 
 So because of the proclaimed reduction of the size of PNGs, I gave ZopfliPNG a try. First I measured the current size of all PNG images of my site with this PowerShell command:
 
@@ -29,12 +30,12 @@ Sum      : 4775284
 Maximum  :
 Minimum  :
 Property : Length
-``` 
+```
 
 That's about **4.6 MiB** of PNGs. Than I let ZopfliPNG re-compress all these files:
 
 ``` powershell
-gci *.png -Recurse | %{ zopflipng.exe -y --lossy_transparent $_.FullName $_.FullName } 
+gci *.png -Recurse | %{ zopflipng.exe -y --lossy_transparent $_.FullName $_.FullName }
 ```
 
 A few minutes and 110 files later the command has finished. 56 files have been changed, i.e. ZopfliPNG was able to produce a smaller size for more than half of all images.
