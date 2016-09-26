@@ -61,7 +61,7 @@ Scans any Win32 module and builds a hierarchical tree diagram of all dependent m
 Similar to *subst*, but persistent, i.e. the substitutions are kept after reboots.
 
 [WinCvs](http://wincvs.org/) and [TortoiseCVS](http://www.tortoisecvs.org/)  
-The former is a stand-alone GUI client for [CVS](http://www.cvshome.org/), while the latter is a shell extension.
+The former is a stand-alone GUI client for [CVS](http://www.nongnu.org/cvs/), while the latter is a shell extension.
 
 [BeyondCompare](http://scootersoftware.com/)  
 A powerful file and folder comparison utility.
