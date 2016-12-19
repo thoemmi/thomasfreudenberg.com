@@ -1,3 +1,39 @@
+# 0.5.0 (2016-10-29)
+
+ - [#314](https://github.com/Code52/pretzel/pull/314) - Fix the files are rendered too much time contributed by Jérémie Bertrand ([laedit](https://github.com/laedit))
+ - [#313](https://github.com/Code52/pretzel/pull/313) - Minor typos contributed by Stephen Moon ([s-moon](https://github.com/s-moon))
+ - [#310](https://github.com/Code52/pretzel/pull/310) - Update FileContentProvider.cs contributed by mark van tilburg ([markvantilburg](https://github.com/markvantilburg))
+ - [#309](https://github.com/Code52/pretzel/pull/309) - Update packages.config contributed by mark van tilburg ([markvantilburg](https://github.com/markvantilburg))
+ - [#306](https://github.com/Code52/pretzel/pull/306) - Added support for specifying frontmatter defaults in _config.yml contributed by Taco Ditiecher ([tditiecher](https://github.com/tditiecher))
+ - [#304](https://github.com/Code52/pretzel/pull/304) - Added DateToStringFilter to the LiquidEngine. contributed by Taco Ditiecher ([tditiecher](https://github.com/tditiecher)) +fix
+ - [#298](https://github.com/Code52/pretzel/pull/298) - Replace Firefly with Nowin contributed by E.Z. Hart ([hartez](https://github.com/hartez))
+ - [#297](https://github.com/Code52/pretzel/pull/297) - Prevent adding of duplicate tags during PreProcess() in RazorSiteEngine contributed by E.Z. Hart ([hartez](https://github.com/hartez))
+ - [#296](https://github.com/Code52/pretzel/issues/296) - ArgumentException when modifying a page while taste is running +fix
+ - [#164](https://github.com/Code52/pretzel/issues/164) - Exception while navigating between pages during tasting +fix
+ - [#147](https://github.com/Code52/pretzel/issues/147) - Sporadically crashes on "Taste" caused by 'Cannot access a disposed object.' +fix
+ - [#102](https://github.com/Code52/pretzel/issues/102) - Crash when browsing a site hosted in Pretzel taste +fix
+
+Commits: 1e49a174fc...a0634fdcec
+
+
+# 0.4.0 (2016-01-23)
+
+##  Breaking changes
+ - [#287](https://github.com/Code52/pretzel/pull/287) - Accessible configuration contributed by Jérémie Bertrand ([laedit](https://github.com/laedit))
+
+## Fixes
+ - [#294](https://github.com/Code52/pretzel/pull/294) - Fix failing build on dev machine configured for NuGet V3 contributed by Tim Murphy ([TimMurphy](https://github.com/TimMurphy))
+ - [#293](https://github.com/Code52/pretzel/issues/293) - Broken razor template inheritance
+ - [#292](https://github.com/Code52/pretzel/pull/292) - Fix on Razor based pages not being renamed to .html contributed by Kees Schollaart ([keesschollaart81](https://github.com/keesschollaart81))
+
+
+## Features
+ - [#288](https://github.com/Code52/pretzel/pull/288) - [RFC] new extension point `IBeforeProcessingTransform` contributed by Thomas Freudenberg ([thoemmi](https://github.com/thoemmi))
+ - [#284](https://github.com/Code52/pretzel/pull/284) - New command : create new post contributed by Keuvain ([k94ll13nn3](https://github.com/k94ll13nn3))
+
+Commits: [4d8fcaa1a0...142be2a212](https://github.com/Code52/pretzel/compare/4d8fcaa1a0...142be2a212)
+
+
 # 0.3.0
 
 ## Breaking changes
