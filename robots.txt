@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 
-Sitemap: http://thomasfreudenberg.com/sitemap.xml 
+Sitemap: https://thomasfreudenberg.com/sitemap.xml
