@@ -3,7 +3,7 @@ layout: post
 title: 'My Journey to Pretzel: First Stop Jekyll'
 comments: true
 disqus_identifier: http://thomasfreudenberg.com/archive/2015/12/31/first-stop-jekyll/
-tags: [Jekyll, CommunityServer]
+tags: [Jekyll, Community Server]
 ---
 As described in my [previous post](/archive/2015/12/30/journey_to_pretzel/), I decided to replace my CommunityServer setup with a static site generator. Being a vivid GitHub user, the first choice was [GitHub Pages](https://pages.github.com/). GitHub Pages allows you to commit your site to a repository and let GitHub serve it using [Jekyll](http://jekyllrb.com/).
 

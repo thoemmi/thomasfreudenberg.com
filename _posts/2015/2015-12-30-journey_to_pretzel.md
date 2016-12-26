@@ -3,7 +3,7 @@ layout: post
 title: 'My Journey to Pretzel: Preface'
 comments: true
 disqus_identifier: http://thomasfreudenberg.com/archive/2015/12/30/journey_to_pretzel/
-tags: [Pretzel, .Text, CommunityServer]
+tags: [Pretzel, .Text, Community Server]
 ---
 After running my site for more than 12 years, I decided it was time to replace the software behind it with something new.
 
