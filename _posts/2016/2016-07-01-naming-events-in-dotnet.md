@@ -6,6 +6,13 @@ tags: [.NET]
 disqus_identifier: http://thomasfreudenberg.com/archive/2016/06/29/naming-events-in-dotnet/
 keywords: [.NET Core, .NET Framework, Naming, Guideline, Events]
 ---
+
+**Update 2016/12/29**: I've complained about the `On` prefix in the [comment section](https://docs.microsoft.com/en-us/dotnet/articles/csharp/events-overview#comments-container)
+of the documentation (and [Jonas Gauffin](http://blog.gauffin.org/) too). In fact the prefix was a mistake and
+is [fixed](https://github.com/dotnet/docs/pull/1012) by now.
+
+<hr>
+
 Things are changing in the .NET world. A couple of days ago Microsoft released
 [.NET Core 1.0](https://blogs.msdn.microsoft.com/dotnet/2016/06/27/announcing-net-core-1-0/),
 the new cross-platform, open source, and modular .NET platform.
