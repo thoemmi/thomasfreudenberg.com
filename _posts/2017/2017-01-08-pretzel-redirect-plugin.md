@@ -3,7 +3,7 @@ layout: post
 title: 'Pretzel Plugin: Redirect'
 comments: true
 tags: [Pretzel]
-disqus_identifier: 50001
+disqus_identifier: 50003
 keywords: [Pretzel,Plugin,redirect]
 ---
 
