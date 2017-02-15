@@ -38,7 +38,8 @@ public class TagPagesGenerator : IBeforeProcessingTransform {
                 File = Path.Combine(context.SourceFolder, TagConstants.Folder, slug, "index.html"),
                 Filepath = Path.Combine(context.OutputFolder, TagConstants.Folder, slug, "index.html"),
                 OutputFile = Path.Combine(context.OutputFolder, TagConstants.Folder, slug, "index.html"),
-                Bag = $"---\r\nlayout: {TagConstants.Layout}\r\ntag: {name}\r\n---\r\n".YamlHeader()
+                Bag = $"---\r\nlayout: {TagConstants.Layout}\r\ntag: {name}\r\n---\r\n".YamlHeader(),
+                Date = tagPage.Select(t => t.Post.Date).Max()
             };
 
             p.Bag.Add("pages", tagPage.Select(t => t.Post).ToList());
