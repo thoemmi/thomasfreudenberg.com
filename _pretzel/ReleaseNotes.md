@@ -1,3 +1,21 @@
+# 0.7.0 (2017-03-18)
+
+ - [#319](https://github.com/Code52/pretzel/pull/319) - Site with support of html_pages contributed by Roland Bär ([rolandbaer](https://github.com/rolandbaer))
+ - [#318](https://github.com/Code52/pretzel/issues/318) - Chocolatey install - Get-BinRoot deprecated
+
+Commits: b7afc2ced8...8b677201a1
+
+
+# 0.6.0 (2017-01-29)
+
+ - [#317](https://github.com/Code52/pretzel/pull/317) - Support for :slug in permalinks contributed by Thomas Freudenberg ([thoemmi](https://github.com/thoemmi)) +Enhancement
+ - Fix rss/atom feeds and add site settings in config +Fix
+ - Add more info on "Error converting markdown" +Enhancement
+ - Cleaning of Tracing/Logger - Logger is now deprecated +Breaking-change
+
+Commits: 8ffc7d6444...35f9a0491d
+
+
 # 0.5.0 (2016-10-29)
 
  - [#314](https://github.com/Code52/pretzel/pull/314) - Fix the files are rendered too much time contributed by Jérémie Bertrand ([laedit](https://github.com/laedit))
