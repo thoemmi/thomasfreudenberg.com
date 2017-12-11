@@ -8,7 +8,7 @@ disqus_identifier: 50008
 ---
 
 *Some time ago I reported a bug and provided a pull request to
-[resourcelib](https://github.com/resourcelib/resourcelib), a managed
+[**resourcelib**](https://github.com/resourcelib/resourcelib), a managed
 library to read and write Win32 resources in executables or DLL's.
 And unawarely, the next morning I was a maintainer of that library.*
 
@@ -39,7 +39,7 @@ According to the output of `dumpbin` there are 7 sections in the executable the 
 
 In a hex viewer you can see that after the last section, the file continues for another **104205 bytes**, starting with 0x4D 0x53 0x43 0x46 (`MSCF`, the magic number starting a [cab file](https://de.wikipedia.org/wiki/CAB_(Dateiformat))).
 
-I patched the `StringFileInfo` resource using **resourcelib, which changed the content of the `.rsrc` section only. Afterwards the file ended at 0x000715FF, i.e. the following **104205 bytes** were missing.
+I patched the `StringFileInfo` resource using **resourcelib**, which changed the content of the `.rsrc` section only. Afterwards the file ended at 0x000715FF, i.e. the following **104205 bytes** were missing.
 
 By the way, the `.wixburn` section contains following bytes:
 
