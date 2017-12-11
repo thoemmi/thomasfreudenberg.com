@@ -21,7 +21,7 @@ the resources with resourdelib, the setup didn't work anymore.*
 and reading the [PE format specification](https://msdn.microsoft.com/en-us/library/windows/desktop/ms680547(v=vs.85).aspx#section_table__section_headers_).
 Because I don't know how good Google is at indexing Github issues, I'll
 also post my analysis here in my blog for reference. The original
-thread is [here]().*
+thread is [here](https://github.com/resourcelib/resourcelib/issues/19#issuecomment-350891529).*
 
 **TL;DR:** to me it looks like WiX is doing it wrong.
 
