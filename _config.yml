@@ -1,33 +1,130 @@
-# Permalinks
-#permalink:        pretty
-relative_permalinks: true
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Setup
-title:            Thomas Freudenberg
-tagline:          'Confessions of a caffeine addict'
-description:      'Confessions of a caffeine addict'
-imageurl:         '/public/tfr.jpg'
-url:              https://thomasfreudenberg.com
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Thomas Freudenberg
+subtitle: "Confessions of a caffeine addict"
+email: info@thomasfreudenberg.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+twitter_username: thoemmi
+github_username: thoemmi
+minimal_mistakes_skin: dark
+search: true
+repository: thoemmi/thomasfreudenberg.com
+locale: en
+url: https://thomasfreudenberg.com
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+#permalink: /:categories/:title/
+permalink: /archive/:year/:month/:day/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page/:num/
+#timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
 
 author:
-  name:           'Thomas Freudenberg'
-  url:            https://twitter.com/thoemmi
+  name   : "Thomas Freudenberg"
+  avatar : "/files/tfr.jpg"
+  bio    : "Confessions of a caffeine addict"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/thoemmi"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/thoemmi"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
-disqus_short_name: thomasfreudenberg
-disqus_show_comment_count: true
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/thoemmi"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/thoemmi"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
+    - label: "Privacy"
+      url: "/privacy"
 
-google_analytics_tracking_id: UA-262965-1
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true
+      share: false
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
-paginate:         5
-permalink:        /archive/:year/:month/:day/:title/
-paginate_path:    "page/:num"
+#category_archive:
+#  type: liquid
+#  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
-only_frontmatter_categories: true
+comments:
+  provider: custom
 
-redirect_generate_aspx: true
-
-exclude:
-  - _pretzel
-  - deploy.cmd
-  - .gitignore
-  - .git
+# head_scripts:
+#   - /assets/js/utils.js
+#   - /assets/js/comments.js

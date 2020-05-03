@@ -1,37 +1,7 @@
 ---
-layout: default
-title: Home
-paginate: 5
-redirect_from:
-  - /blog/
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+author_profile: true
 ---
-
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-    <header>
-      <h1 class="post-title">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          {{ post.title }}
-        </a>
-      </h1>
-      {% include meta.html %}
-    </header>
-
-    {{ post.content }}
-  </article>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page_url %}
-    <a class="pagination-item older" href="{{ paginator.next_page_url | prepend: site.baseurl | replace: 'index.html', '' | replace: '//', '/' }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page_url %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_url | prepend: site.baseurl | replace: 'index.html', '' | replace: '//', '/' }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>

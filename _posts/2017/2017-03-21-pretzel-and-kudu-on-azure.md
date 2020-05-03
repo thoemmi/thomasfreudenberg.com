@@ -16,9 +16,7 @@ Actually, it's quite simple: The source files for the site are hosted in a
 hosted in Azure. Whenever I push changes to the git repository, the web site will be updated
 automatically.
 
-::: image-center
-![Pretzel and Azure](/files/archive/pretzel-and-azure.png)
-:::
+![Pretzel and Azure](/files/archive/pretzel-and-azure.png){: .align-center}
 
 The setup is a two-stage process: first, you have to create a Azure App Service and connect it to
 your git repository. The steps involved are documented very well in
@@ -37,16 +35,19 @@ In my case I want Kudu to run `pretzel.exe` to generate the static HTML files fr
    `_pretzel`)
 
 2. Add a batch file `deploy.cmd` to execute `pretzel.exe`:
+
    ```batch
    @echo off
    echo Running Pretzel...
    _pretzel\pretzel.exe bake --destination=%DEPLOYMENT_TARGET%
    ```
+
    `bake` is the Pretzel's command to generate the files, and the destination folder is `%DEPLOYMENT_TARGET%`,
    which is the wwwroot folder.
 
 3. Instruct Kudu to execute that `deploy.cmd` by creating a file `.deployment` with following
    content:
+
    ```ini
    [config]
    command = deploy.cmd

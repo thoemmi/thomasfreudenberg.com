@@ -8,10 +8,7 @@ keywords: [7-zip, PowerShell, Gallery, 7Zip4PowerShell]
 og_image: /files/archive/powershell-gallery_big.png
 ---
 
-::: image-right
-![PowerShell Gallery Logo](/files/archive/powershell-gallery.png)
-:::
-
+![PowerShell Gallery Logo](/files/archive/powershell-gallery.png){: .align-right}
 A few days ago the *Preview* suffix was removed from **PowerShell
 Gallery**. This gallery is a central repository for PowerShell content
 such as modules and scripts. You can read the [public

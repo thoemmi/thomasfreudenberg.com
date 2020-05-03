@@ -5,6 +5,8 @@ comments: true
 tags: [.NET]
 disqus_identifier: http://thomasfreudenberg.com/archive/2016/06/29/naming-events-in-dotnet/
 keywords: [.NET Core, .NET Framework, Naming, Guideline, Events]
+date: 2016-07-01
+last_modified_at: 2016-12-29
 ---
 
 **Update 2016/12/29**: I've complained about the `On` prefix in the [comment section](https://docs.microsoft.com/en-us/dotnet/articles/csharp/events-overview#comments-container)

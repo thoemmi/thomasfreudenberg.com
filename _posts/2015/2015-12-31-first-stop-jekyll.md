@@ -5,6 +5,7 @@ comments: true
 disqus_identifier: http://thomasfreudenberg.com/archive/2015/12/31/first-stop-jekyll/
 tags: [Jekyll, Community Server]
 ---
+
 As described in my [previous post](/archive/2015/12/30/journey_to_pretzel/), I decided to replace my CommunityServer setup with a static site generator. Being a vivid GitHub user, the first choice was [GitHub Pages](https://pages.github.com/). GitHub Pages allows you to commit your site to a repository and let GitHub serve it using [Jekyll](http://jekyllrb.com/).
 
 I won't go into detail how to setup Jekyll or GitHub Pages. You'll be able to find enough information in the internet. Phil Haack, a much better story teller than me, wrote an article about [his migration from SubText to Jekyll](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/). He also gave advice how to [preserve all comments with Disqus](http://haacked.com/archive/2013/12/09/preserving-disqus-comments-with-jekyll/).
@@ -14,6 +15,7 @@ So my first step was to get the data of my existing site out of CommunityServer 
 Then I found [BlogMLToMarkdown](https://github.com/pcibraro/BlogMLToMarkdown), a command line tool transforming a BlogML document to markdown documents ready to be consumed by Jekyll.
 
 However, I had to tweak that tool for my needs. Amongst others it
+
 * downloads all images, attachments, and other files hosted on my old site and changes the referencing links,
 * fixes redirects, and
 * exports all (approved) comments to a `disqus.wxr`, ready to be imported into [Disqus](https://disqus.com/).

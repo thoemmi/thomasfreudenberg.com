@@ -5,6 +5,7 @@ comments: true
 disqus_identifier: http://thomasfreudenberg.com/archive/2016/01/02/zopflipng/
 tags: [Zopfli]
 ---
+
 Today Jeff Atwood published the article [Zopfli Optimization: Literally Free Bandwidth](http://blog.codinghorror.com/zopfli-optimization-literally-free-bandwidth/), praising the compression algorithm **Zopfli**. Zopfli was created by Google and [published in 2013](http://googledevelopers.blogspot.de/2013/02/compress-data-more-densely-with-zopfli.html):
 
 > The [Zopfli Compression Algorithm](https://code.google.com/p/zopfli/) is a new open sourced general purpose data compression library that got its name from a Swiss bread recipe. It is an implementation of the Deflate compression algorithm that creates a smaller output size compared to previous techniques. [...]

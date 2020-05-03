@@ -27,8 +27,10 @@ redirect_from:
   - /pages/page1
 ---
 ```
+
 This will generate a small html page at `\pages\page1\index.html`, which will redirect to the new
 location:
+
 ```html
 <!DOCTYPE html>
 <meta charset="utf-8" />
@@ -49,7 +51,7 @@ Therefore I've implemented an additional switch. If you're using IIS (or Azure, 
 supporting ASP.NET), you can specify the switch `redirect_generate_aspx: true` in Pretzel's
 `_config.yml`. In this case the generated page will look like this:
 
-```aspnet
+```html
 <%@ Page Language="C#"%>
 <script runat="server">
 private void Page_Load(object sender, System.EventArgs e)
@@ -61,6 +63,7 @@ private void Page_Load(object sender, System.EventArgs e)
 }
 </script>
 ```
+
 This ensures that the server returns the correct HTTP status.
 
 Anyway, this plugin is a [simple ScriptCs file](https://github.com/Code52/pretzel/wiki/create-plugins),

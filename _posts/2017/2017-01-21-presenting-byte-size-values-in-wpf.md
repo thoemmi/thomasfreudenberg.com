@@ -45,7 +45,7 @@ However, if you're on the Windows platform, there's a much easier option:
 That's the same method that Explorer is using to display file sizes. Its advantages are that
 you don't have any localization issues, and it it has a fixed precision of 3 digits.
 
-Because my application is using WPF, I wrote a `IValueConverter` to be used in bindings:
+Because my application is using WPF, I wrote an `IValueConverter` to be used in bindings:
 
 {% gist 03b81c07586f63accb83521d783d6749 FormatKbSizeConverter.cs %}
 
@@ -76,6 +76,4 @@ Formatting binded values in XAML becomes quite easy with that converter
 </DataGrid>
 ```
 
-::: image-center
-![FormatKbSizeConverter](/files/archive/FormatKbSizeConverter.png)
-:::
+![FormatKbSizeConverter](/files/archive/FormatKbSizeConverter.png){: .align-center}

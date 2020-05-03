@@ -1,9 +1,9 @@
 ---
-layout: post
 title: 'Generating workflow diagrams for TFS work items'
 comments: true
 tags: [TFS, Graphviz, Powershell]
 keywords: [TFS, Workitem, WITD, witadmin, Graphviz, dot, Powershell]
+layout: post
 disqus_identifier: 50009
 ---
 
@@ -21,6 +21,7 @@ Fortunately, the XML format of work item template definitions (WITD) is well-doc
 To get the XML file of a WITD, you can use either the Visual Studio Add-in
 [TFS Process Template Editor](https://marketplace.visualstudio.com/items?itemName=KarthikBalasubramanianMSFT.TFSProcessTemplateEditor)
 or use [`witadmin`](https://docs.microsoft.com/en-us/vsts/work/customize/reference/witadmin/witadmin-import-export-manage-wits):
+
 ```shell
 witadmin exportwitd /collection:CollectionURL /p:Project /n:TypeName [/f:FileName]
 ```
@@ -33,9 +34,7 @@ The challenge was now to convert the XML of the WITD to the [DOT language](https
 But that's quite easy to accomplish using Powershell. But before I show the script,
 first a picture of the default workflow for bugs from the Scrum process template:
 
-::: image-center
-![Pretzel and Azure](/files/archive/witd.bug.default.png)
-:::
+![Pretzel and Azure](/files/archive/witd.bug.default.png){: .align-center}
 
 And here's the script:
 
@@ -46,9 +45,7 @@ are permitted to change a work item to a specific state, the graph will show
 this too. E.g. if only members of the QA are allowed to move a but from the
 *Done* state, the graph will look like this:
 
-::: image-center
-![Pretzel and Azure](/files/archive/witd.bug.customized.png)
-:::
+![Pretzel and Azure](/files/archive/witd.bug.customized.png){: .align-center}
 
 Nevertheless, the script was written in a short time, it does what it should
 do without any error handling. However, it suits my needs. Maybe yours as well.

@@ -45,4 +45,5 @@ The script support the `-WhatIf` parameter, so calling
 ```powershell
 .\Clear-NuGetCache.ps1 -CutOffDays 90 -WhatIf
 ```
+
 wouldn't delete a single byte but log which folders the script would remove.

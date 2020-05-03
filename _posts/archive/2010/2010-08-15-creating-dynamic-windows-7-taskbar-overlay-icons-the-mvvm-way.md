@@ -9,10 +9,7 @@ redirect_from:
   - /blog/archive/2010/08/15/creating-dynamic-windows-7-taskbar-overlay-icons-the-mvvm-way.aspx
 ---
 
-::: image-right
-![metrotwit](/files/archive/metrotwit_516A72C4.png "metrotwit")
-:::
-
+![metrotwit](/files/archive/metrotwit_516A72C4.png "metrotwit"){: .align-right}
 Since Windows 7 the icon of an application can get an overlay bitmap. You can use that to indicate some state of the application, or–like [MetroTwit](http://www.metrotwit.com/)–to show the number of unread items.
 
 ### Overlay Icon in WPF
@@ -21,7 +18,7 @@ In WPF, the API is pretty simple:
 
 ``` xml
 <Window.TaskbarItemInfo>
-    <TaskbarItemInfo 
+    <TaskbarItemInfo
         Overlay="{StaticResource ResourceKey=MyOverlayImage}" />
 </Window.TaskbarItemInfo>
 ```
@@ -40,16 +37,16 @@ Extending TaskbarItemInfo doesn’t work because it is sealed. Therefore I took 
 public class TaskbarItemOverlay  {
     public static readonly DependencyProperty ContentProperty =
         DependencyProperty.RegisterAttached(
-            "Content", 
-            typeof(object), 
-            typeof(TaskbarItemOverlay), 
+            "Content",
+            typeof(object),
+            typeof(TaskbarItemOverlay),
             new PropertyMetadata(OnPropertyChanged));
 
     public static readonly DependencyProperty TemplateProperty =
         DependencyProperty.RegisterAttached(
-        "Template", 
-        typeof(DataTemplate), 
-        typeof(TaskbarItemOverlay), 
+        "Template",
+        typeof(DataTemplate),
+        typeof(TaskbarItemOverlay),
         new PropertyMetadata(OnPropertyChanged));
 
 
@@ -85,7 +82,7 @@ public class TaskbarItemOverlay  {
         var bmp =
             new RenderTargetBitmap(ICON_WIDTH, ICON_HEIGHT, 96, 96, PixelFormats.Default);
         var root = new ContentControl {
-            ContentTemplate = template, 
+            ContentTemplate = template,
             Content = content
         };
         root.Arrange(new Rect(0, 0, ICON_WIDTH, ICON_HEIGHT));
@@ -105,33 +102,33 @@ The actual work is done in the method `OnPropertyChanged`. It takes the template
 I have created a small application to demonstrate the use of the attached properties. The XAML of the window is this:
 
 ``` xml
-<Window 
+<Window
     x:Class="WpfApplication1.MainWindow"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:src="clr-namespace:WpfApplication1" 
+    xmlns:src="clr-namespace:WpfApplication1"
     Title="MainWindow" Height="350" Width="525">
     <Window.Resources>
         <DataTemplate x:Key="OverlayIcon">
             <Grid Width="16" Height="16">
-                <Ellipse 
-                    Fill="Red" 
-                    Stroke="White" 
+                <Ellipse
+                    Fill="Red"
+                    Stroke="White"
                     StrokeThickness=".5" />
-                <TextBlock 
-                    Text="{Binding}" 
-                    TextAlignment="Center" 
-                    Foreground="White" 
-                    FontWeight="Bold" 
-                    Height="16" 
-                    VerticalAlignment="Center" 
+                <TextBlock
+                    Text="{Binding}"
+                    TextAlignment="Center"
+                    Foreground="White"
+                    FontWeight="Bold"
+                    Height="16"
+                    VerticalAlignment="Center"
                     FontSize="10"/>
             </Grid>
         </DataTemplate>
     </Window.Resources>
     <Window.TaskbarItemInfo>
-        <TaskbarItemInfo 
-            src:TaskbarItemOverlay.Content="{Binding Count}" 
+        <TaskbarItemInfo
+            src:TaskbarItemOverlay.Content="{Binding Count}"
             src:TaskbarItemOverlay.Template="{StaticResource OverlayIcon}" />
     </Window.TaskbarItemInfo>
     <Viewbox>

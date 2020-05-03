@@ -9,9 +9,7 @@ redirect_from:
   - /blog/archive/2007/08/30/nrw07-follow-up.aspx
 ---
 
-::: image-left
-![nrw07 speaker](/files/archive/speakernrw07.jpg)
-::: 
+![nrw07 speaker](/files/archive/speakernrw07.jpg){: .align-left}
 
 Last Friday the [nrw07](http://nrw07.de/) took place in Wuppertal, the biggest community conference in North Rhine-Westphalia. About **100 attendees** including the 22 speakers! The Diebels brewery contributes a couple of beer crates, and Subway served lots of sandwiches for lunch.
 
@@ -33,12 +31,11 @@ And now that I lost my virginity, I´m looking forward to give a talk again next
 
 Here are some other speakers and attendees blogging about nrw07:
 
--   [Craig Murphy](http://www.craigmurphy.com/blog/?p=664)
--   [Oliver Sturm](http://www.sturmnet.org/blog/archives/2007/08/27/great-time-at-nrw-07/)
--   [Frank Solinske](http://blog.solinske.de/PermaLink,guid,4dd2f795-7701-424a-90ac-e7e14f66e860.aspx)
--   [Lars Keller](http://blogs.dotnet-braunschweig.de/Lars/PermaLink,guid,0133f6d7-7c8d-4bd7-ad2a-144c36f0cff5.aspx)
--   [Kai Gloth](http://blog.veloursnebel.de/PermaLink,guid,ae8d952c-07ae-460e-a5eb-0e67448d4c19.aspx)
--   [Karim El Jed](http://blogs.dotnet-braunschweig.de/Karim/PermaLink,guid,254f3b98-e748-483c-97f2-d40995c44cca.aspx)
+- [Craig Murphy](http://www.craigmurphy.com/blog/?p=664)
+- [Oliver Sturm](http://www.sturmnet.org/blog/archives/2007/08/27/great-time-at-nrw-07/)
+- [Frank Solinske](http://blog.solinske.de/PermaLink,guid,4dd2f795-7701-424a-90ac-e7e14f66e860.aspx)
+- [Lars Keller](http://blogs.dotnet-braunschweig.de/Lars/PermaLink,guid,0133f6d7-7c8d-4bd7-ad2a-144c36f0cff5.aspx)
+- [Kai Gloth](http://blog.veloursnebel.de/PermaLink,guid,ae8d952c-07ae-460e-a5eb-0e67448d4c19.aspx)
+- [Karim El Jed](http://blogs.dotnet-braunschweig.de/Karim/PermaLink,guid,254f3b98-e748-483c-97f2-d40995c44cca.aspx)
 
 I met some more nice guys, who didn´t blog about this event. Nevertheless I´d like to send them my regards because we had such a good time and talks: [Andreas Hoffmann](http://dawsonsgeek.net/), Christian Schütz, [Mischa Hüschen](http://www.prodot.de/), [Pascal Kremmers](http://www.prodot.de/), Constantin Klein, [Marcel Gnoth](http://www.gnoth.net/), and [Marcel Franke](http://www.marcelfranke.com/). Sorry if I forgot one, there were so many faces new to me. When you see me next time, just stop by and treat me to a beer...
-

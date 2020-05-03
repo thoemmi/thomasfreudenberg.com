@@ -9,9 +9,7 @@ redirect_from:
   - /blog/archive/2010/07/25/reactivating-this-site.aspx
 ---
 
-::: image-right
-![germany.hamburg](/files/archive/germany.hamburg_4531E44E.png "germany.hamburg")
-:::
+![germany.hamburg](/files/archive/germany.hamburg_4531E44E.png "germany.hamburg"){: .align-right}
 
 Yes, this blog is still alive, though the last post is about two and a half years old.
 
@@ -24,4 +22,3 @@ But on the other hand, other might have had the same problem, so why not help th
 Additionally blogging will help me to sharpen my rusty English skills ;)
 
 Anyway, in my profession and in my spare time I deal with WPF, IoC containers, ASP.NET MVC, NoSQL databases (RavenDB in particular) among others, so you know what to expect in the future.
-

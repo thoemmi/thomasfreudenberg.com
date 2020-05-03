@@ -5,6 +5,7 @@ comments: true
 disqus_identifier: http://thomasfreudenberg.com/archive/2016/05/16/from-jekyll-to-pretzel/
 tags: [Jekyll, Pretzel]
 ---
+
 [Some time ago](/archive/2015/12/31/first-stop-jekyll/) I told that I converted my blog
 from CommunityServer to **Jekyll** on **Github Pages**. However, I was not satisfied with
 that solution. Running a static site has one drawback: redirects for moved pages.

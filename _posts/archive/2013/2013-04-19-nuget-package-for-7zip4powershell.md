@@ -9,10 +9,7 @@ redirect_from:
   - /blog/archive/2013/04/19/nuget-package-for-7zip4powershell.aspx
 ---
 
-::: image-right
-![nuget](/files/archive/nuget.png "nuget")
-:::
-
+![nuget](/files/archive/nuget.png "nuget"){: .align-right}
 A few days ago I mentioned [7-Zip for Powershell](/archive/2013/04/07/7-zip-for-powershell/). I’ve now created a NuGet package and published it at [NuGet.org](https://nuget.org/packages/7Zip4Powershell/).
 
 It took me a while to figure it out, but finally it’s a “tools only” package, i.e. it adds no references to your project.

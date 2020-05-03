@@ -1,27 +1,6 @@
 ---
-layout: default
+layout: single
+classes: wide
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  <header>
-    <h1 class="post-title">{{ page.title }}</h1>
-    {% include meta.html %}
-  </header>
-  {{ content }}
-</article>
-
-<div class="pagination">
-  {% if page.previous -%}
-    <a class="pagination-item older" href="{{page.previous.url}}">{{page.previous.title}}</a>
-  {% endif -%}
-  {% if page.next -%}
-  <a class="pagination-item newer" href="{{page.next.url}}">{{page.next.title}}</a>
-  {% endif -%}
-</div>
-
-{% if site.disqus_short_name and page.comments == true %}
-<section id="comment">
-    <h2 class="title">Comments</h2>
-    <div id="disqus_thread" aria-live="polite">{% include disqus_thread.html %}</div>
-</section>
-{% endif %}
+{{ content }}

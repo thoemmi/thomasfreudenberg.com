@@ -1,22 +1,20 @@
 ---
-layout: post
 title: 'Async/await in Desktop Applications'
 comments: true
 tags: [async, WinForms, WPF, multi-threading]
 keywords: [async, await, dotnet, c#, winforms, wpf, multi-threading, visual studio]
+layout: post
 disqus_identifier: 50010
 ---
 
 _This is a transcript of a demonstration I gave in our company internally
-about async/await "challenges" in UI programming. YOu can find the accompanying
+about async/await "challenges" in UI programming. You can find the accompanying
 repository in [my repository on Github](https://github.com/thoemmi/CrossThreadingTests)._
 
-::: image-center
-![Demo App](/files/archive/async-await-winforms-app.png "Demo App")
-:::
+![Demo App](/files/archive/async-await-winforms-app.png "Demo App"){: .align-center}
 
 The form contains three buttons which are intended to download the
-the content from http://microsoft.com asynchronously and show it
+the content from <http://microsoft.com> asynchronously and show it
 in a TextBox.
 
 ## Cross-Thread issue :(
@@ -48,15 +46,13 @@ accessing `textBox1` is forbidden.
 
 When you debug `button1_Click`, pay attention to the *Threads* tool window.
 
-::: image-center
-![Debugger](/files/archive/async-await-debugger.png "Debugger Thread Toolwindow")
-:::
+![Debugger](/files/archive/async-await-debugger.png "Debugger Thread Toolwindow"){: .align-center}
 
 1. Entering the method, you'll be on thread #1, the main thread.
 2. After calling `SomeFastAsyncOperation`, the code continues on thread #1.
    That's because the method returns an already completed task, so the code
    can continue synchronously.
-3. In contrast, `SomeSlowAsyncOperation` returns a not-completed task, 
+3. In contrast, `SomeSlowAsyncOperation` returns a not-completed task,
    therefore the succeeding code will continue not another one. (The UI thread
    will be released here and continue pumping the Win32 message queue)
 4. The property `textBox1.Text` will be set in said background thread and
@@ -119,17 +115,18 @@ and [_How to: Use AsyncPackage to load VSPackages in the background_](https://do
 
 I won't go into details of how async/await works. Basically, the compiler generates
 a state machine, which Dixin explains pretty good in his blog serie
-[_Understanding C# async / await (1) Compilation_](https://weblogs.asp.net/dixin/understanding-c-sharp-async-await-1-compilation) 
-([Part 2](https://weblogs.asp.net/dixin/understanding-c-sharp-async-await-2-awaitable-awaiter-pattern), 
+[_Understanding C# async / await (1) Compilation_](https://weblogs.asp.net/dixin/understanding-c-sharp-async-await-1-compilation)
+([Part 2](https://weblogs.asp.net/dixin/understanding-c-sharp-async-await-2-awaitable-awaiter-pattern),
 [Part 3](https://weblogs.asp.net/dixin/understanding-c-sharp-async-await-3-runtime-context)).
 
 In our case, two calls are interesting:
 
-1. `await TaskScheduler.Default;` will continue the succeeding code in a threadpool thread<br>
+1. `await TaskScheduler.Default;` will continue the succeeding code in a threadpool thread.<br>
    <small>(actually, the library provides an extension method `GetAwaiter(this TaskScheduler this)`.
    This works because the compiler uses a naming convention instead of requiring an interface implemenntation)</small>
 2. `await _joinableTaskFactory.SwitchToMainThreadAsync();` will continue the succeeding code in the
-   main thread <br><small>(actually, in the thread with instantiated `_joinableTaskFactory`).</small>
+   main thread.<br>
+   <small>(actually, in the thread with instantiated `_joinableTaskFactory`).</small>
 
 As you could see, _Microsoft.VisualStudio.Threading_ makes asynchronous programming
 in desktop applications, both WinForms and WPF, much simpler.
@@ -140,7 +137,5 @@ much more async helpers like `AsyncEventHandlers`.
 Here are some more links if you want to learn more about async programming:
 
 * [_The 3 VS Threading Rules_](https://www.slideshare.net/aarnott/the-3-vs-threading-rules) by Andrew Arnott
-
 * [_Don't Block on Async Code_](https://blog.stephencleary.com/2012/07/dont-block-on-async-code.html) by Stephen Cleary
-
 * [_Concurrency in C# Cookbook: Asynchronous, Parallel, and Multithreaded Programming_](https://lesen.amazon.de/kp/embed?asin=B00KCY2CB4&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_WWQtCbZETE973) by Stephen Cleary

@@ -58,3 +58,4 @@ There's no need for any additional code like a custom `ContractResolver`.
 And you can even use different encryption keys for different properties.
 
 My code works only for `string` properties though, but that's all I needed.
+
