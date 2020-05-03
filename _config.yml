@@ -123,7 +123,11 @@ tag_archive:
   path: /tags/
 
 comments:
-  provider: custom
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "gh-pages"
+    endpoint  : https://api.staticman.net/v3/entry/github/
+
 
 # head_scripts:
 #   - /assets/js/utils.js
