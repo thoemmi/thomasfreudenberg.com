@@ -1,6 +1,8 @@
 id: dsq-1955295788
 message: But this doesn't involve multiple inheritance. It's just a single base class, so I don't see any restriction by the current CLR (i.e. Whidbey).
 name: Thomas Freudenberg
+email: ee0f85e9318019b7ed75eeb5e7506f2d
+url: https://thomasfreudenberg.com
 date: 2003-11-07T08:21:00.0000000+01:00
-avatar: https://disqus.com/api/users/avatars/Thomas Freudenberg.jpg
+avatar: 
 replyToId: 

@@ -1,6 +1,8 @@
 id: dsq-2534285729
 message: There's no simple solution for the airspace problem. You may consider using the CefSharp ([http://cefsharp.github.io/)](http://cefsharp.github.io/) "http://cefsharp.github.io/)") instead of the WebBrwoser control. It's a wrapper around CEF, the Chromium Embedded Framework.
 name: Thomas Freudenberg
+email: ee0f85e9318019b7ed75eeb5e7506f2d
+url: https://thomasfreudenberg.com
 date: 2016-02-25T09:57:55.0000000+01:00
-avatar: https://disqus.com/api/users/avatars/thoemmi.jpg
+avatar: 
 replyToId: dsq-2534260749

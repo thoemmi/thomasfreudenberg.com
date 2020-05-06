@@ -1,6 +1,8 @@
 id: dsq-1955295709
 message: Marcus, for a blog with a few users only, I don't think that bicubic resizing will hurt the performance. Not all of them will upload pictures concurrently. A server like [weblogs.asp.net](http://weblogs.asp.net "weblogs.asp.net") it may by different ;-)
 name: Thomas Freudenberg
+email: ee0f85e9318019b7ed75eeb5e7506f2d
+url: https://thomasfreudenberg.com
 date: 2003-09-03T19:33:00.0000000+02:00
-avatar: https://disqus.com/api/users/avatars/Thomas Freudenberg.jpg
+avatar: 
 replyToId: 

@@ -1,6 +1,8 @@
 id: dsq-2079025177
 message: "Hi Dave,\r\n\r\nI didn't need the exclusion of files and folders, so I didn't implement it. Feel free to modify my code, you can find it on [Github](https://github.com/thoemmi/7Zip4Powershell \"https://github.com/thoemmi/7Zip4Powershell\"). How about using the pipeline featire of PowerShell? I would accept a pull request.\r\n\r\nBest regards  \r\nThomas"
 name: Thomas Freudenberg
+email: ee0f85e9318019b7ed75eeb5e7506f2d
+url: https://thomasfreudenberg.com
 date: 2015-06-14T22:58:29.0000000+02:00
-avatar: https://disqus.com/api/users/avatars/thoemmi.jpg
+avatar: 
 replyToId: dsq-2074996721

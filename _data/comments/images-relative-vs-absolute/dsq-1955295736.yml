@@ -1,6 +1,8 @@
 id: dsq-1955295736
 message: Hi Marco. In fact, I did change the the images' URL, but the .Text engine patched them again after commiting. So you don't have to adjust the URL's when moving.
 name: Thomas Freudenberg
+email: ee0f85e9318019b7ed75eeb5e7506f2d
+url: https://thomasfreudenberg.com
 date: 2003-09-09T03:04:00.0000000+02:00
-avatar: https://disqus.com/api/users/avatars/Thomas Freudenberg.jpg
+avatar: 
 replyToId: 

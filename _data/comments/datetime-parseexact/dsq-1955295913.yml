@@ -1,6 +1,8 @@
 id: dsq-1955295913
 message: "NewP, ParseExact works as expected. I tried\r\n\r\nDateTime dt = DateTime.ParseExact(\"2008-07-10\", @\"yyyy-MM-dd\",null);\r\n\r\nand dt has the correct values.  \r\nI assume that you convert the DateTime object to a string accidentally, which will the default format (like dt.ToString())"
 name: Thomas Freudenberg
+email: ee0f85e9318019b7ed75eeb5e7506f2d
+url: https://thomasfreudenberg.com
 date: 2004-07-20T08:24:00.0000000+02:00
-avatar: https://disqus.com/api/users/avatars/Thomas Freudenberg.jpg
+avatar: 
 replyToId: 

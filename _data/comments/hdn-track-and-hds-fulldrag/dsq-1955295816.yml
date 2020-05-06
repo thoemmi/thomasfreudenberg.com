@@ -1,6 +1,8 @@
 id: dsq-1955295816
 message: Jörgen, if you have set the HDS_FULLDRAG style, you do *not* get the HDN_TRACK notification. If have to remove that style to get the message.
 name: Thomas Freudenberg
+email: ee0f85e9318019b7ed75eeb5e7506f2d
+url: https://thomasfreudenberg.com
 date: 2004-03-14T11:14:00.0000000+01:00
-avatar: https://disqus.com/api/users/avatars/Thomas Freudenberg.jpg
+avatar: 
 replyToId: 

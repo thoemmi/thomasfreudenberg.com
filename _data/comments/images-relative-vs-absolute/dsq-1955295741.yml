@@ -1,6 +1,8 @@
 id: dsq-1955295741
 message: "I see what you mean. However I entered the full path to the image (i.e. [http://thoemmi.dyndns.org/images/thoemmi.dyndns.org/TFr/16/r_edit_user.JPG](http://thoemmi.dyndns.org/images/thoemmi.dyndns.org/TFr/16/r_edit_user.JPG \"http://thoemmi.dyndns.org/images/thoemmi.dyndns.org/TFr/16/r_edit_user.JPG\")), but .Text skipped the first part.  \r\n\r\nAnyway, SharpReader is able to display the proper image, while RSSBandit is not. Is SharpReader more fail-safe, even if less conform to standards?"
 name: Thomas Freudenberg
+email: ee0f85e9318019b7ed75eeb5e7506f2d
+url: https://thomasfreudenberg.com
 date: 2003-09-09T03:04:00.0000000+02:00
-avatar: https://disqus.com/api/users/avatars/Thomas Freudenberg.jpg
+avatar: 
 replyToId: 

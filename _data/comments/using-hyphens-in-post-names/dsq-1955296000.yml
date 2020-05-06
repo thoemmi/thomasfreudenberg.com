@@ -10,6 +10,8 @@ message: >-
 
   I can reassure you that referencing your post by id and by name can co-exist. If you have look at your SiteUrls.config, you can find weblogpostId and weblogpostName. The first one handles the request, if the url contains ony digits. If this doesn't match, the second one will handle posts by their name.
 name: Thomas Freudenberg
+email: ee0f85e9318019b7ed75eeb5e7506f2d
+url: https://thomasfreudenberg.com
 date: 2005-10-03T05:21:00.0000000+02:00
-avatar: https://disqus.com/api/users/avatars/Thomas Freudenberg.jpg
+avatar: 
 replyToId: 

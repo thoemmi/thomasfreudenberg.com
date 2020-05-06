@@ -1,6 +1,8 @@
 id: dsq-4417419340
 message: "That's the intention of this task: to bind the content of the WebBrowser control to a property. Just imagine you want to display some dynamic HTML created by your application at runtime."
 name: Thomas Freudenberg
+email: ee0f85e9318019b7ed75eeb5e7506f2d
+url: https://thomasfreudenberg.com
 date: 2019-04-10T18:51:47.0000000+02:00
-avatar: https://disqus.com/api/users/avatars/thoemmi.jpg
+avatar: 
 replyToId: dsq-4417381821
