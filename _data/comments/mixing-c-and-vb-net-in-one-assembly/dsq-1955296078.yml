@@ -1,0 +1,27 @@
+id: dsq-1955296078
+message: >-
+  Thanks - that was great help.
+
+
+
+  Not being a MSBuild guru I just (proudly) managed to integrate several c# based projects in a single file assembly - after modifying parts of the central build and .csproj xmls to ensure I would actually get netmodules from VS2005.
+
+
+
+  I am still struggling to remove the external references from the assembly which I need for the VS IDE - not sure it matters, maybe for purity only. The code works as csc when adding netmodules that implement the same types as ref'd projects/dlls apparently overwrites the external reference - at least it issues a warning.
+
+
+
+  I would hope sometime this to be supported by VS.
+
+
+
+  Again - thanks for posting this!
+
+
+
+  tb
+name: Anonymous
+date: 2006-08-21T19:18:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+replyToId: 

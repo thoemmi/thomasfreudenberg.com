@@ -1,0 +1,6 @@
+id: dsq-1955295845
+message: "My problem is similar, I need to call another javascript function regardless of whether or not ValidatorOnSubmit() is true or false. My WebUIValidation.js has  \r\n\r\nfunction ValidatorCommonOnSubmit() {   \r\n\r\nvar result = !Page_BlockSubmit;   \r\n\r\nPage_BlockSubmit = false;   \r\n\r\nevent.returnValue = result;   \r\n\r\nreturn result;   \r\n\r\n}   \r\n\r\nBut still my form has onsubmit = \"if (!ValidatorOnSubmit()) return false; MyFunction()\"  \r\n\r\nHence MyFunction() is not being called when the validation fails. I want it to be called everytime.. how can I change this so that my function is also called??  \r\n\r\nAny help will be appreciated.."
+name: Anonymous
+date: 2004-04-05T10:43:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+replyToId: 

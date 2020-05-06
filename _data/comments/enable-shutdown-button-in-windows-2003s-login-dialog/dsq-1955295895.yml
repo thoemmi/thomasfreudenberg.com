@@ -1,0 +1,23 @@
+id: dsq-1955295895
+message: >-
+  How can I enable shutdown button while AD Group Policy is over-riding the locally set policy on server each time machine restarts.
+
+
+
+  Note that No Group policy deployed on ADC regarding Shutdown. ADC it self is working good having shutdown button active through the procedure mentioned in the article and have no difficulty and It worked since activated...
+
+
+
+  Each day I need to enable that button on this PC, which is very annoying. Please help me to resolve this issue.
+
+
+
+  Thankx
+
+
+
+  plz email me at sm_balaj@yahoo.com
+name: Anonymous
+date: 2004-04-07T04:40:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+replyToId: 

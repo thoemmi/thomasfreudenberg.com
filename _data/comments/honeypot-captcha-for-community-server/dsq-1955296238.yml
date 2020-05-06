@@ -1,0 +1,19 @@
+id: dsq-1955296238
+message: >-
+  Very cool! Regarding using CSS to hide the field, we're going to update the Subkismet control to use a Web Resource handler so that the CSS is in a different file.
+
+
+
+  That way the control itself doesn't give any clue that it is invisible.
+
+
+
+  The reason I want to use CSS for the honeypot is that I'm using Javascript for the Invisible Captcha. [http://haacked.com/archive/...](http://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx "http://haacked.com/archive/2006/09/26/Lightweight_Invisible_CAPTCHA_Validator_Control.aspx")
+
+
+
+  It's sort of my two-prong approach against spam bots. So far, Invisible Captcha catches all comment spam on my blog. It just doesn't deal with trackbacks/pingbacks for obvious reasons.
+name: Haacked
+date: 2007-09-17T17:34:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Haacked.jpg
+replyToId: 

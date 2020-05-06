@@ -1,0 +1,27 @@
+id: dsq-1955295921
+message: >-
+  Hi ,
+
+
+
+  I have a similar problem in that I am trying to find the correct datetime.parseexact format for the us 12 hour format e.g 9/14/2009 12:00:00 AM
+
+
+
+  Do you know how i need to specify the format string to parse these?
+
+
+
+  Any help is greatly appreciated.
+
+
+
+  Thanks
+
+
+
+  Chris
+name: Anonymous
+date: 2004-07-20T08:24:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+replyToId: 

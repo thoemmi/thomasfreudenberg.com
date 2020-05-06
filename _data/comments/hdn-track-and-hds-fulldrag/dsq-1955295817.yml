@@ -1,0 +1,6 @@
+id: dsq-1955295817
+message: "I'm stumped. I googled this after having spent 20 minutes scratching my head.  \r\n\r\nI got delighted when I saw your blog entry, and ALT+TABed back to VS.NET. Did it work? Nope. :( I have even verified that the header control does indeed have the HDS_FULLDRAG style set. But I still don't get HDN_TRACK, just the other notifications.  \r\n\r\nSo I had to fall back to HDN_ITEMCHANGING. Although it works, it feels a bit like a defeat. Could it be that the behaviour of header controls have changed with SP2?"
+name: Anonymous
+date: 2004-03-14T11:14:00.0000000+01:00
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+replyToId: 

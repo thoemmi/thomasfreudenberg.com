@@ -1,0 +1,6 @@
+id: dsq-2572960431
+message: "You can specify custom parameters this way:  \r\n$initScript = {  \r\n param ($compressor)  \r\n $compressor.CustomParameters.Add(\"d\", \"900000b\")  \r\n}  \r\nCompress-7Zip -Path . -ArchiveFileName demo.7z -CustomInitialization $initScript"
+name: Thomas Freudenberg
+date: 2016-03-16T17:28:09.0000000+01:00
+avatar: https://disqus.com/api/users/avatars/thoemmi.jpg
+replyToId: dsq-2572767903

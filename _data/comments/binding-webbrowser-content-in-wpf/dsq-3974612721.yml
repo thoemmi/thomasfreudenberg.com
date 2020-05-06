@@ -1,0 +1,6 @@
+id: dsq-3974612721
+message: When you want to show two WebBrowsers at the same time, it does not work, because the DependencyProperty is static and the value is shared with all the WebBrowsers using it.
+name: Raphael Ulrich
+date: 2018-07-05T11:19:15.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/raphaelulrich.jpg
+replyToId: 

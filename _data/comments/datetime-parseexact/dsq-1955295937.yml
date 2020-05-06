@@ -1,0 +1,6 @@
+id: dsq-1955295937
+message: Hato0be, it depends on your regional settings. For example on my machine I set the date separator to '-', so the code above throws a FormatException if the string to be parsed contains slashes.
+name: Thoemmi
+date: 2004-07-20T08:24:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Thoemmi.jpg
+replyToId: 

@@ -1,0 +1,27 @@
+id: dsq-1955295997
+message: >-
+  Quick question about this: How is other punctuation handled in the post title? i.e. I'd say more than half of my posts have formats like so:
+
+
+
+  First part of the title -- second part
+
+
+
+  or
+
+
+
+  first part of the title...second part
+
+
+
+  I'm the first to admit that I'm regex impaired...how would I go about stripping out all punctuation and still have the hyphens?
+
+
+
+  Second question: Is there a way to get both formats running on the same installation? I wouldn't want to lose my old trackbacks with the default format.
+name: jayson knight
+date: 2005-10-03T05:21:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/jayson knight.jpg
+replyToId: 

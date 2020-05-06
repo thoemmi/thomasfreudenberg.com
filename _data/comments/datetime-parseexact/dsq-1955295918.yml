@@ -1,0 +1,6 @@
+id: dsq-1955295918
+message: "Mac, a) April has only 30 days, and b) your format string does not specify the seconds fraction. Following line works fine:  \r\nDateTime parsedDate = DateTime.ParseExact(  \r\n \"2008-05-31T13:20:00:000\",  \r\n \"yyyy-MM-ddTHH:mm:ss:fff\", null);"
+name: Thomas Freudenberg
+date: 2004-07-20T08:24:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Thomas Freudenberg.jpg
+replyToId: 

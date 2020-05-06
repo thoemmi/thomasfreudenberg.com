@@ -1,0 +1,15 @@
+id: dsq-1955295931
+message: >-
+  For me, don't know why... but works fine and without escaping the slashes, the date was in other format but i think it's the same..
+
+
+
+  i used this command:
+
+
+
+  DateTime.ParseExact("2004/05/31", "dd/MM/yyyy", null);
+name: Anonymous
+date: 2004-07-20T08:24:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+replyToId: 

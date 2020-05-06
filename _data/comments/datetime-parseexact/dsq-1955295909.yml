@@ -1,0 +1,6 @@
+id: dsq-1955295909
+message: "I am not sure what I am doing wrong.  \r\nI am putting value in a datatable. Column type is DateTime.\r\n\r\nnextRow[colIndex]= DateTime.ParseExact(\"2008-07-10, @\"yyyy-MM-dd\",null);  \r\nIt always puts value in default format. So the resultant date that I see looks like \"07/10/2008 12:00:00 AM\"\r\n\r\nI don't understand why.\r\n\r\nany ideas?\r\n\r\nThanks"
+name: Anonymous
+date: 2004-07-20T08:24:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+replyToId: 

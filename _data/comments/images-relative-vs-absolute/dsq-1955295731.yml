@@ -1,0 +1,6 @@
+id: dsq-1955295731
+message: "You are right: I had a look into the code and noticed we fix only the relatives in \"href\" attributes, not in \"src\". Will file a bug to our workspace(s) to get it fixed in the next release. Thanks for your advice.  \r\n\r\nPS: If you get .Text work without removing the absolute Url, it should work immediatly :)"
+name: torsten.rendelmann@gmx.net (To
+date: 2003-09-09T03:04:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/torsten.rendelmann@gmx.net (To.jpg
+replyToId: 

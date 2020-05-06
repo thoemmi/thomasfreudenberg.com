@@ -1,0 +1,6 @@
+id: dsq-1955295855
+message: "I was experiencing exactly the same problem after installing the hotfix as described in KB 818803.  \r\n\r\nWhat I found is that the hotfix updates the ValidatorCommonOnSubmit() function in WINDOWS\\Microsoft.NET\\Framework\\v1.1.4322\\ASP.NETClientFiles\\WebUIValidation.js, however our IIS was pointing to a copy of this file in \\WRoot\\wwwroot\\aspnet_client\\system_web\\1_1_4322\\WebUIValidation.js (pointing directly to the windows directory is not correct from a security point of view).  \r\n\r\nCopying the updated WebUIValidation.js file to the directory pointed to by IIS fixed the problem. The new ValidatorCommonOnSubmit() function has been changed as follows:  \r\n\r\nfunction ValidatorCommonOnSubmit() {  \r\n\r\n var result = !Page_BlockSubmit;  \r\n\r\n Page_BlockSubmit = false;  \r\n\r\n event.returnValue = result;  \r\n\r\n return result;  \r\n\r\n}  \r\n\r\nhope this helps  \r\n\r\nRekkie"
+name: Anonymous
+date: 2004-04-05T10:43:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+replyToId: 

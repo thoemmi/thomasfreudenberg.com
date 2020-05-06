@@ -1,0 +1,6 @@
+id: dsq-1955295852
+message: "Returning always true might cause to always submit the form even when there are errors on page.  \r\n\r\nfollowing code should be better alternative  \r\n\r\nfunction ValidatorCommonOnSubmit()   \r\n\r\n{   \r\n\r\n event.returnValue = !Page_BlockSubmit;  \r\n\r\n ret_Val = !Page_BlockSubmit;  \r\n\r\n Page_BlockSubmit = false;   \r\n\r\n return ret_Val;  \r\n\r\n}  "
+name: Manoj M
+date: 2004-04-05T10:43:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Manoj M.jpg
+replyToId: 

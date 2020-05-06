@@ -1,0 +1,15 @@
+id: dsq-1955296000
+message: >-
+  Hi Jayson.
+
+
+
+  Regarding your first question, it depends how you name your posts. You can only use letters, digits, underscores, and hyphens. There might be some special characters you might use, but no '#', '&' or '?. You may use Scott's auo-name module, which generates the name from the title automatically. However, Scott's code is only a proof-of-concept, e.g. it lacks the removal of special characters.
+
+
+
+  I can reassure you that referencing your post by id and by name can co-exist. If you have look at your SiteUrls.config, you can find weblogpostId and weblogpostName. The first one handles the request, if the url contains ony digits. If this doesn't match, the second one will handle posts by their name.
+name: Thomas Freudenberg
+date: 2005-10-03T05:21:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Thomas Freudenberg.jpg
+replyToId: 

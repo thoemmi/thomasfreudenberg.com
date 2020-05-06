@@ -1,0 +1,6 @@
+id: dsq-1955295823
+message: "err...I thought someone had written me directly about the comment issue. But you are correct, I changed the name of EntryHanlders (used to be called EntryProcessing) and I fat-fingered the pre-comment processing.  \r\n\r\nAlso for you search control, you might want set the search buttons causes validation property to false, otherwise you can not search from a post page.  \r\n\r\nAs for the search box, I am still undecided. Its cool to have it on every page, but I have always thought the current blog UI was a little cluttered, so for the moment I held off. On my own site, I am using just search link.  \r\n\r\nCongrats on the setup :).  \r\n\r\n-Scott  \r\n\r\nP.S. I think you had once implemented \"transitions\", (changed \":)\" to an image. The EntryHandlers should give you a \"clean\" way to do this again."
+name: Scott
+date: 2004-02-05T13:15:00.0000000+01:00
+avatar: https://disqus.com/api/users/avatars/Scott.jpg
+replyToId: 

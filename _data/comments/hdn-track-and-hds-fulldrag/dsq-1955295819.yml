@@ -1,0 +1,6 @@
+id: dsq-1955295819
+message: Viray, to prevent resizing of certain columns, you have to return TRUE when you receive the HDN_BEGINTRACK for these columns.
+name: Thomas Freudenberg
+date: 2004-03-14T11:14:00.0000000+01:00
+avatar: https://disqus.com/api/users/avatars/Thomas Freudenberg.jpg
+replyToId: 

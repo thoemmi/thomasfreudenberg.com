@@ -1,0 +1,11 @@
+id: dsq-1955296118
+message: >-
+  After upgrading my site to SP2, I was able to get this to work as it will fail with a bad cs_weblog_postset sproc that's updated as part of the service pack.
+
+
+
+  Thanks Thomas!
+name: Jose Lema
+date: 2007-01-04T19:27:00.0000000+01:00
+avatar: https://disqus.com/api/users/avatars/Jose Lema.jpg
+replyToId: 

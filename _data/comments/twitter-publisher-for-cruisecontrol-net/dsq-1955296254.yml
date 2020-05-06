@@ -1,0 +1,6 @@
+id: dsq-1955296254
+message: "Hi ,  \r\nwhat is the best way to get the following information with Twitter API without getting Login Credentials for twitterUserA:\r\n\r\n1)suppose I have a user called twitterUserA  \r\nI want to get detailed information for people who are following him and his followers.\r\n\r\n2)so i need Followersname, FollowerID, FollowersFollowerCount,FollowersFollowingCount,followersUpdates#,and other info if possible.\r\n\r\nwhat is the fastest and best way to get information for a given twitter account without asking for twitter Log in credentials (username and password)\r\n\r\nthanks  \r\nBally"
+name: Anonymous
+date: 2007-06-17T18:09:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+replyToId: 

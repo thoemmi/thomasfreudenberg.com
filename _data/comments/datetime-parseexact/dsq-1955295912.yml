@@ -1,0 +1,6 @@
+id: dsq-1955295912
+message: "At my end dt = {7/10/2008 12:00:00 AM}  \r\nright after I execute   \r\nDateTime dt = DateTime.ParseExact(\"2008-07-10\", @\"yyyy-MM-dd\",null);  \r\nin watch window. So ... what could it be?\r\n\r\nI am pulling my hair on this ...\r\n\r\nthanks ..I appreciate it."
+name: Anonymous
+date: 2004-07-20T08:24:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Anonymous.jpg
+replyToId: 

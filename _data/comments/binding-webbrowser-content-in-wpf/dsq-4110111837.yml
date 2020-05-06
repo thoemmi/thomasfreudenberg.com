@@ -1,0 +1,6 @@
+id: dsq-4110111837
+message: "Dwayne, you have to specify the namespace which contains your helper class. E.g. if you  \r\nhave put WebBrowserHelpers into MyProject.HelperClasses, to have to declare\r\n\r\n ``  \r\n\r\nThe you can use this XML:\r\n\r\n ``  "
+name: Thomas Freudenberg
+date: 2018-09-23T18:07:06.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/thoemmi.jpg
+replyToId: dsq-4073126237

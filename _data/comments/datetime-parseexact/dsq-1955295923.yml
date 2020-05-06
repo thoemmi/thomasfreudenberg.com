@@ -1,0 +1,6 @@
+id: dsq-1955295923
+message: "@Chris,  \r\njust like the example, @\"yyyy\\/MM\\/dd HH:mm\", exclude the second  \r\nbtw. in visual studio 2008, you don't need the escape anymore, so you just do it like this (in vb):  \r\ndim getdate as date  \r\ngetdate=DateTime.ParseExact(\"2004/05/31\", \"yyyy/MM/dd\", Nothing)\r\n\r\nand you change the null to Nothing, otherwise it will generate error, and remember no space in \"2004/05/31\""
+name: reedone816
+date: 2004-07-20T08:24:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/reedone816.jpg
+replyToId: 

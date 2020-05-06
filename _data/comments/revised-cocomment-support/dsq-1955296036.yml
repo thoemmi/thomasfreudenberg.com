@@ -1,0 +1,11 @@
+id: dsq-1955296036
+message: >-
+  This didn't work for me. I added the code to my skin-commentform.aspx and it kept bombing on the line "bool isAuthor...".
+
+
+
+  I have the latest CS 2.1 beta 1, ASP.NET 2.0 Version.
+name: Scott Elkin
+date: 2006-02-08T20:05:00.0000000+01:00
+avatar: https://disqus.com/api/users/avatars/Scott Elkin.jpg
+replyToId: 

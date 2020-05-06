@@ -1,0 +1,6 @@
+id: dsq-1955295811
+message: "The joy's of pre-Releases :)  \r\n\r\nFor the global count, change the commentcount line in the trigger to:   \r\n\r\nCommentCount = (Select Count(*) From blog_Content Where blog_Content.BlogID = blog_Config.BlogID and PostType = 8 and PostConfig & 1 = 1),  \r\n\r\nFor individual items, change blog_InsertEntry (sp)  \r\n\r\nElse if(@PostType = 8) -- was three  \r\n\r\nBegin  \r\n\r\nUpdate blog_Content  \r\n\r\nSet FeedBackCount = FeedBackCount + 1 where [ID] = @ParentID  \r\n\r\nEnd  \r\n\r\nYou might also want to write run some sql to update an exisitng counts.   \r\n\r\nHTH,  \r\n\r\nScott"
+name: Scott Watermasysk
+date: 2004-02-05T13:15:00.0000000+01:00
+avatar: https://disqus.com/api/users/avatars/Scott Watermasysk.jpg
+replyToId: 

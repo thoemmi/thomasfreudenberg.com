@@ -1,0 +1,6 @@
+id: dsq-1955295764
+message: "CraigBlog's docs are not quite right for .NET 1.1. I had to do the following:   \r\n\r\nFirst, the main checks for args.Length > 1. This should be args.Length > 0.   \r\n\r\nNext, ti.Context is a property, not a method, so ti.Context(ctx) should be ti.Context = ctx.   \r\n\r\nLast, it's not clear how to deal with normal service startup in the sample. I added an else to the if (/install) else if (/uninstall) clause where I put my \"I'm running as a service\" code."
+name: Charlie Kindel
+date: 2003-10-09T22:57:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Charlie Kindel.jpg
+replyToId: 

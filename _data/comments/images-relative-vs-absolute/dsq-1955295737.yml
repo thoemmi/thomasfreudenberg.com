@@ -1,0 +1,6 @@
+id: dsq-1955295737
+message: 'Think your example is misspelled a bit. Should be <img src="" .../> But: if you start your path with a slash "/", they are not relative. Try leaving the slash and also the images should be displayed in Bandit.'
+name: TorstenR
+date: 2003-09-09T03:04:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/TorstenR.jpg
+replyToId: 

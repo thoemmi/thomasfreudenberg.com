@@ -1,0 +1,6 @@
+id: dsq-2198244890
+message: "Nice.\r\n\r\nImport-Module -Name \"7Zip\"\r\n\r\nWorks when all the libraries from [7Zip4PowerShell.zip](http://7Zip4PowerShell.zip \"7Zip4PowerShell.zip\") are placed in the modules directory, and create a module manifest data file (e.g. c:\\Windows\\System32\\WindowsPowerShell\\v1.0\\Modules\\7Zip\\7Zip.psd1):  \r\n\r\n```\r\n  \r\n@{  \r\n GUID = '{00000000-1111-2222-3333-000000000000}'  \r\n Author = 'Thomas Freudenberg'  \r\n CompanyName = 'N/A'  \r\n Copyright = '© Thomas Freudenberg'  \r\n ModuleVersion = '1.0.0.0'  \r\n PowerShellVersion = '2.0'  \r\n HelpInfoUri = \"[http://thomasfreudenberg.co...](http://thomasfreudenberg.com/archive/2013/04/07/7-zip-for-powershell \"http://thomasfreudenberg.com/archive/2013/04/07/7-zip-for-powershell\")\"\r\n\r\n NestedModules = @(  \r\n \"7Zip4Powershell.dll\")  \r\n CmdletsToExport = @(  \r\n \"Expand-7Zip\",  \r\n \"Compress-7Zip\"  \r\n )  \r\n}\r\n\r\n```"
+name: Mathieu
+date: 2015-08-17T14:07:04.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Mathieu.jpg
+replyToId: 

@@ -1,0 +1,6 @@
+id: dsq-1955295854
+message: "Rekkie's comment is accurate - you should use the latest versions of these javascript files on sites rather than editing the system files.  \r\n\r\nWe at WDG came across this problem recently and realised that the aspnet registration was corrupt for these sites but discovered that running \"aspnet_regiis.exe -i\" wasn't updating all sites on our server with the latest jvascript files.  \r\n\r\nWe noticed however that the sites that it wasn't updating had the aspnet_client directory as a virtual directory. Removing the virtual directories and re-running the regiis command fixed the problem.  "
+name: Jason
+date: 2004-04-05T10:43:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Jason.jpg
+replyToId: 

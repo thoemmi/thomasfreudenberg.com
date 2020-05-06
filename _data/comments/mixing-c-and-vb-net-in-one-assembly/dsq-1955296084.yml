@@ -1,0 +1,6 @@
+id: dsq-1955296084
+message: link.exe is an external tool, which is installed with Visual Studio. To execute the script you have to either open the Visual Studio 2008 Command Prompt or set the PATH environment variable manually.
+name: Thomas Freudenberg
+date: 2006-08-21T19:18:00.0000000+02:00
+avatar: https://disqus.com/api/users/avatars/Thomas Freudenberg.jpg
+replyToId: 
