@@ -1,0 +1,7 @@
+_id: 42c2b710-a9c5-11ea-b7ee-713876424630
+message: "Thomas, thanks for the great article. We are attempting to use this but running into an issue. Our Converter requires an object called EncryptionProvider that does the actual en/decrypting. \r\n\r\nNow, with the  attribute: [JsonConverter(typeof(EncryptionJsonConverter)] The EncryptionJsonConverter has a constructor where we inject the EncryptionProvider using DI. \r\n\r\nThe issue we are having is that it is instantiating a new converter for each property that has the attribute instead of using the one that was already created.\r\n\r\nAny ideas how to fix this?"
+name: Eddie Shipman
+email: 97c75ddecbd558d64fff2b8d684d9b0f
+url: 'http://www.microsoft.com'
+hidden: ''
+date: '2020-06-08T20:18:48.484Z'
