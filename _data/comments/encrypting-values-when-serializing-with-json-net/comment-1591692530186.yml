@@ -1,0 +1,7 @@
+_id: 09dda680-aa2e-11ea-9836-b55891ef8217
+message: "Eddie, without knowing the Details of your requirements, a simple solution could be to just use a static `EncryptionProvider` property in your converter.\r\nAnother, more advanced approach would involve implementing a custom `ContractResolver`."
+name: Thomas Freudenberg
+email: ee0f85e9318019b7ed75eeb5e7506f2d
+url: 'https://thomasfreudenberg.com'
+hidden: ''
+date: '2020-06-09T08:48:50.182Z'
