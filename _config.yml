@@ -132,6 +132,13 @@ reCaptcha:
   siteKey: "6LfliacZAAAAANBxjLLwfQse0_34tLMHWy0vX9Af"
   secret: "Wn9v5YmLTb5dYyym7ydWtQl37JZ4O2exPY+QCtuqsLECv82ZapjCrCJyFMU7xIBm4e7o6PMdHwNQsvGah6fmLUX0+4q24hQcsXPuWhEu5aI4X72sSjP8nGK9vnWvL/Mo6HipnOU+/9kvn3+ZRaeoS0nLzwN2014dRpQ9eDQlGco="
 
+# seo
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-262965-1"
+    anonymize_ip: true
+
 
 # head_scripts:
 #   - /assets/js/utils.js
