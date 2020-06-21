@@ -20,4 +20,3 @@ Therefore, I've started to implement an on-line user administration. Here's what
 It just creates and updates users in the database. Some more things have to be done: For non-virtual set-ups it has to create the appropriate folder and the dummy `default.txt` file in it, but that's not implemented yet. Additionally, in the user database (i.e. `blog\_Config`) a flag has to be added for each user, whether he is allowed to administrate the users.
 
 I would like to know, if anyone else (esp. Scott) is interested in that? Any comments are welcome.
-

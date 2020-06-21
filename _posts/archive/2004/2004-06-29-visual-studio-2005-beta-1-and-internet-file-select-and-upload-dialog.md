@@ -17,4 +17,3 @@ In the meanwhile, I recommend you to have a look at [Daniel Fisher](http://www.l
 **Update:** Daniel has added an [online demo](http://www.staticdust.net/samples/StaticDust.Web.UI.Controls.UploadDialog/).
 
 **Update 2:** [Sam Gentile](http://samgentile.com/) [wrote](http://samgentile.com/blog/archive/2004/06/29/12027.aspx): *Visual Studio 2005 Beta 1 will be available in a few days to MSDN Subscribers.* \*sigh\*
-

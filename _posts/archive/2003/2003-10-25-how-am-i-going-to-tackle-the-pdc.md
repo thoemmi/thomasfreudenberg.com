@@ -23,4 +23,3 @@ redirect_from:
 Well, I don't know yet, since I'm torn. On the one hand, I am a GUI developer, so want to know about Longhorn, Avalon and Aero as much as possible. But on the other hand, we are in the design stage of a new software product, so from my employer's point of view the most interesting topic is Indigo.
 
 I think I'll try to catch a little of everything ![Blushing](/files/archive/smiley_redface.gif)
-

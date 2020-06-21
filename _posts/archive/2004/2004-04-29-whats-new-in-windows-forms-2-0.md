@@ -11,4 +11,3 @@ redirect_from:
 ---
 
 [Mike Weinhardt](http://www.mikedub.net/windowsformsredux/) and [Chris Sells](http://www.sellsbrothers.com/news/showTopic.aspx?ixTopic=1291) published [What's new and cool in Windows Forms 2.0](http://msdn.microsoft.com/msdnmag/issues/04/05/NETFramework20/default.aspx) in this month's MSDN Magazine.
-

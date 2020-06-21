@@ -12,4 +12,3 @@ redirect_from:
 > It is REALLY worth doing this, dialup users will love you long time for doing this! (Oh, and you'll effectively quadruple your bandwidth :-)) This is an excellent [article](http://dotnetguy.techieswithcats.com/archives/003475.shtml) from a techie with a cat
 
 [via [Scott Galloway](http://www.mostlylucid.co.uk/posts/478.aspx)]
-

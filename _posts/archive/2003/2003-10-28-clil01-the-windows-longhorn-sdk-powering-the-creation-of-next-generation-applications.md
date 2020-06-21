@@ -24,8 +24,8 @@ Steven has done some comparison between the .NET framework 1.0 and WinFX:
 
 <sup>\*</sup>Sorry, I cannot read my own hand-writing
 
--   High Level for Productivity
--   Low Level API for Power and Flexibility
+- High Level for Productivity
+- Low Level API for Power and Flexibility
 
 **Good news about the documentation:**
 
@@ -36,4 +36,3 @@ Longhorn SDK *Vegas*: Next Generation Longhorn SDK content delivery and publish
 There will be no Platform SDK for Longhorn, only WinFX.
 
 The documentation is living, i.e. it will be updated regularly via Internet, the help pages will have kind of a discussion forum attached, so build-in feedback.
-

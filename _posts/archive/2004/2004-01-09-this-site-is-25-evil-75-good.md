@@ -15,11 +15,10 @@ That's what [The Gematriculator](http://homokaasu.org/gematriculator/) says.
 
 Courtesy of [Daniel Turini](http://www.codeproject.com/script/profile/whos_who.asp?id=18901), who [posted this](http://www.codeproject.com/lounge.asp?msg=709673#xx709673xx) in the [CodeProject](http://www.codeproject.com/) [Lounge](http://www.codeproject.com/lounge.asp):
 
-> And http://www.microsoft.com/ is 15% evil, 85% good.<br/>
-> http://www.kingsofchaos.com/ is 50% evil, 50% good.<br/>
+> And <http://www.microsoft.com/> is 15% evil, 85% good.<br/>
+> <http://www.kingsofchaos.com/> is 50% evil, 50% good.<br/>
 > And beware!<br/>
-> http://www.gnu.org/ is 53% evil, 47% good!<br/>
-> http://www.oracle.com/ is 58% evil, 42% good! (I knew it!)<br/>
+> <http://www.gnu.org/> is 53% evil, 47% good!<br/>
+> <http://www.oracle.com/> is 58% evil, 42% good! (I knew it!)<br/>
 > As the website says,<br/>
 > "Experts consider the mathematical patterns in the text of the Holy Bible as God's watermark of authenticity. Thus, the Gematriculator provides only results that are **absolutely correct**."
-

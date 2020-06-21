@@ -19,4 +19,3 @@ Ok, I admit this screenshot is faked. First I tried to implement it in RSS Bandi
 Anyway, no offense. This should just give an impetus.
 
 PS: How could Tim conceive to call his new control *EyeFinder*???
-

@@ -14,4 +14,3 @@ redirect_from:
 > Visit [http://microsoft.sitestream.com/](http://microsoft.sitestream.com/) to see it all. Tres cool.
 
 [via [Peter Provost](http://www.peterprovost.org/weblog/)]
-

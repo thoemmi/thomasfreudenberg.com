@@ -17,4 +17,3 @@ I could't avoid to think of [Roy Osherove](http://weblogs.asp.net/rosherove/)'s 
 > Ali is Iranian, I'm an Israeli. Our countries are enemies. We don't necessarily agree with everything the other one believes in. Yet we talked. I won't repeat the chat because I didn't tell him I'd post about it. But the fact is we **talked** even through our political issues with each other. Yet another way technology brings us closer together.
 
 Not that I (or Germany) is in any war currently. But I too think that technology breaks many barriers.
-

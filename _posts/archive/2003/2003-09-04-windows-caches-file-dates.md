@@ -19,4 +19,3 @@ Here some quotes from MSDN:
 and in the documentation of CreateFile:
 
 > **Windows NT/2000:** If you rename or delete a file, then restore it shortly thereafter, Windows NT searches the cache for file information to restore. Cached information includes its short/long name pair and creation time.
-

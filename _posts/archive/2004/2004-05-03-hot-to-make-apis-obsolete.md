@@ -18,4 +18,3 @@ Interesting, how long it takes from making an API obsolete to finally removing i
 >
 > The process for making an API obsolete is phased over time. Once an API is marked obsolete-as-warning, a full release must pass, at which point it will be marked obsolete-as-error. At this point, an attempt to recompile using the API will fail. Marking something as deprecation-as-error can only be performed during a standard release, never during a servicing release.
 > The API will remain in this state for a minimum period of the servicing lifecycle for the release in which it was marked as an error to use. This is typically 7 years. Once that period is over, the API will be removed. At this point, applications attempting to bind or use a version of the library with the API, will fail.
-

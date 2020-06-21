@@ -10,4 +10,3 @@ redirect_from:
 ---
 
 [David McNamee](http://www.davidmcnamee.com/) [on](http://www.davidmcnamee.com/permalink.aspx/95994ff4-18d3-432e-b01d-2224432e21b5) [Indigo](http://msdn.microsoft.com/Longhorn/understanding/pillars/Indigo/) and [Don Box](http://www.gotdotnet.com/team/dbox/)
-

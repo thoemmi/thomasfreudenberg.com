@@ -11,7 +11,6 @@ redirect_from:
 
 That's what I call an adequate job advertisment for programmers:
 
-![](/files/archive/o_ProgrammersAd.jpg)
+![ProgrammersAd](/files/archive/o_ProgrammersAd.jpg)
 
 [Via [Chris Maunder](http://www.codeproject.com/script/profile/whos_who.asp?id=1) in the [CodeProject Lounge](http://www.codeproject.com/lounge.asp?msg=704768#xx704768xx)]
-

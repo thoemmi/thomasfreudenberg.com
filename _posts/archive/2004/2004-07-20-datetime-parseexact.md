@@ -19,4 +19,3 @@ After I've catched `FormatExceptions` several times, I've found [this explanati
 > ``` csharp
 > System.DateTime.ParseExact("2004/05/31 16:19:43", @"yyyy\/MM\/dd HH:mm:ss", null);
 > ```
-

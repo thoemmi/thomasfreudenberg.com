@@ -14,8 +14,8 @@ redirect_from:
 
 > It has been hell keeping this to myself as Lutz has been sending me beta drops for the last coupla months for the completely reworked Reflector 4.0. Two very cool things about this release of Reflector:
 >
-> 1.  It supports any version of the .NET Framework, so it works great on Longhorn and Whidbey
-> 2.  It has a replacement for the Class Viewer tools in the .NET SDK (wincv.exe) that I came to depend on in my writing and that hasn't been updated for WinFX, so Reflector 4.0 is even more important to me than it would normally be
+> 1. It supports any version of the .NET Framework, so it works great on Longhorn and Whidbey
+> 2. It has a replacement for the Class Viewer tools in the .NET SDK (wincv.exe) that I came to depend on in my writing and that hasn't been updated for WinFX, so Reflector 4.0 is even more important to me than it would normally be
 >
 > If you're a .NET developer, you must use Reflector and if you use Reflector, [you must use Reflector 4.0](http://www.aisto.com/roeder/DotNet/). Thanks, Lutz! We love you, man!
 >
@@ -42,4 +42,3 @@ Here're the release notes:
 > **WinFX Help:** To view the Longhorn MSDN documentation instead of the .NET Framework MSDN documentation add a [WebSearch] section to your Reflector.cfg file with Msdn=<http://longhorn.msdn.microsoft.com>.
 
 I still don't know, why you're asked for your name and email address before you can download it.
-

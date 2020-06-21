@@ -14,4 +14,3 @@ redirect_from:
 Several weeks ago I played around with NAnt, since we need a decent build environment for our new software. I've read about MSBuild a.k.a. XBuild before, but no information was available (at least outside Microsoft).
 
 Today I attended the session about MSBuild. It bases on XML files, which are -- suprise, suprise -- similar to the build files of [NAnt](http://nant.sourceforge.com/). As far as I can see they have mainly the same feature set. However, the big advantage of MSBuild compared to NAnt is its integration and support by Whidbey. For NAnt you have to either maintain a *.build* and a *.vcproj* files, or use the new *solution* task, which is still a little bit buggy. For Whidbey, they have (once again ![sigh](/files/archive/smiley_sigh.gif)) changed the format of the *.vcproj* file, so it's the single place to edit your project.
-

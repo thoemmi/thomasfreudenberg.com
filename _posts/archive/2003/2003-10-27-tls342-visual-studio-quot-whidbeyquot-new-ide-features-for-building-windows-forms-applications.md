@@ -10,4 +10,3 @@ redirect_from:
 ---
 
 In this session Steve Lasker presented the mainly the form designed in Whidbey. E.g. the alignment of control will be much easier, it will create guidelines for top, baseline, and bottom alignment automatically. Another enhancement is the data binding support. Finally, all features I've missed in the previous releases.
-

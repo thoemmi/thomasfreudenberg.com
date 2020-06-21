@@ -15,4 +15,3 @@ Ooops. I didn't notice the release of Visual Studio 2005 Community Technology Pr
 > I'm installing the “May” technical preview. With the new Burton tools, it installs to 2.3 GB!! Although it's listed as another “technical preview”, many parts of the product identify themselves as Beta 1 and it looks a lot more functional and polished.
 
 Downloading...
-

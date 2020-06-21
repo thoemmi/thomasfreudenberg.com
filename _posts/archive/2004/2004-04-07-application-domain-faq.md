@@ -13,4 +13,3 @@ redirect_from:
 [Yves Dolce](http://weblogs.asp.net/yvesdolc/) [wrote](http://weblogs.asp.net/yvesdolc/archive/2004/04/06/108595.aspx):
 
 > As a friend of mine asked me to explain him what an AppDomain was, I started answering his e-mail. I then thought “Let's not re-invent the wheel”, this must have been done before and in a better way than mine. Indeed: [Application Domain FAQ](http://www.gotdotnet.com/team/clr/AppdomainFAQ.aspx)
-

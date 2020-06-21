@@ -20,4 +20,3 @@ Anyway, I've been waiting for several weeks for the sources of [.Text](http://
 Now I have a fresh installation of .Text at home. Since I'm connected via [T-DSL](http://www.t-dsl.com/), I get a dynamic IP only. Therefore, I've created an account at [dyndns.org](http://dyndns.org/). Don't wonder, if this page is not available every now and then ;-).
 
 I think it's enough for my very first posting. Oh, one last point: I'm German, so please excuse my English...
-

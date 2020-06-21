@@ -15,4 +15,3 @@ Microsoft released [Virtual PC 2004](http://www.microsoft.com/windowsxp/virtual
 However, it's not available for MSDN yet, [but](http://www.microsoft.com/presspass/press/2003/nov03/11-10VPC2004RTMPR.asp):
 
 > *Microsoft Virtual PC 2004 will be made available later this year through Microsoft's existing retail and volume licensing channels. It also will be included in Microsoft's MSDN® subscriptions, and volume discounts are available through Microsoft's Open, Select and Enterprise Agreement volume licensing programs.*
-

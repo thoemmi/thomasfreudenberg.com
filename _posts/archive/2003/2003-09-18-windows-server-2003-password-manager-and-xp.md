@@ -16,4 +16,3 @@ Are you working with Windows Server 2003? Maybe you have noticed that *Stored Us
 No more `net use /user:`. I wish Microsoft would have included it in XP already.
 
 But wait... Maybe we can use that applet on Windows XP as well. In fact, the control panel applet's executable is `%SystemRoot%\System32\keymgr.cpl`. So if you have access to a Windows Server 2003 installation, just copy that file to your Windows XP box and open your control panel. Viola.
-

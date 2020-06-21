@@ -14,4 +14,3 @@ Well, here it is:
 ![PDC Wallpaper](/files/archive/Enmeshed.jpg)
 
 *[originally posted by HiroProtagonist in [Neowin Forum](http://www.neowin.net/forum/index.php?showtopic=112167&st=30)]*
-

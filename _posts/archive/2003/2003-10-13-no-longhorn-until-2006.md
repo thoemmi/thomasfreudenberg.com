@@ -11,4 +11,3 @@ redirect_from:
 ---
 
 According to [Mary Jo Foley](http://www.microsoft-watch.com/category2/0,4251,747660,00.asp), [Longhorn will not ship until 2006](http://www.microsoft-watch.com/article2/0,4248,1332766,00.asp). ![Unsure](/files/archive/smiley_squeamish.gif)
-

@@ -13,4 +13,3 @@ redirect_from:
 > [via [Wesner Moise](http://wesnerm.blogs.com/net_undocumented/2003/10/official_c_20_s.html)]
 
 Exciting. However, I don't have the time to read the spec's before the PDC ![Sad](/files/archive/smiley_frown.gif)
-

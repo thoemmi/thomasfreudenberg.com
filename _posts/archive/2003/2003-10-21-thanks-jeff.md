@@ -11,4 +11,3 @@ redirect_from:
 ---
 
 Such a [T-Shirt](http://radio.weblogs.com/0124699/2003/10/20.html) arrived yesterday. Thanks, [Jeff](http://radio.weblogs.com/0124699/).
-

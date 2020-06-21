@@ -13,4 +13,3 @@ redirect_from:
 ![Intels new 64bit CPU](/files/archive/intel_64bit.jpg)
 
 *(found in a [t-break forum](http://www.tbreak.com/forums/))*
-

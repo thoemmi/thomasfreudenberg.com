@@ -21,4 +21,3 @@ redirect_from:
 and I totally agree.
 
 If you agree too, make sure you comment or tarckback Peter's [original post](http://www.peterprovost.org/archive/2004/06/12/1379.aspx).
-

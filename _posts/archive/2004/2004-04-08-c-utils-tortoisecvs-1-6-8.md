@@ -15,4 +15,3 @@ With this post I'm starting a new category on my blog, *c:\\utils*. Its name is 
 Two days ago, [TortoiseCVS](http://www.tortoisecvs.org/) 1.6.8 has been released. Download available [here](http://www.tortoisecvs.org/download.shtml).
 
 TortoiseCVS is a Windows Shell Extension, which integrates access to CVS into the shell, e.g. you can directly check out modules, update, commit and see differences by right clicking on files and folders within Explorer. I'm hardly using [WinCvs](http://www.wincvs.org) anymore, because TortoiseCVS gives you all at your fingertips.
-

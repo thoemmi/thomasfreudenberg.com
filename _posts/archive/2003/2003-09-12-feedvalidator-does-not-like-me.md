@@ -20,4 +20,3 @@ It seemed as [Feed Validator](http://feedvalidator.org/) didn't like me. When I 
 Thanks in advance, Mark.
 
 PS: BTW, I cannot find a RSS feed for the Feed Validator News ![WTF](/files/archive/smiley_WTF.gif)
-

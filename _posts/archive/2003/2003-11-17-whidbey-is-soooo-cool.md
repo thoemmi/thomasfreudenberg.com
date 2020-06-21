@@ -18,11 +18,10 @@ I've already written about 2k lines, but this issue bars me from doing any UI de
 
 However, while porting back, I've noticed how much Whidbey will easen the developer's life:
 
--   Anonymous delegates make your source code much clearer.
--   Generics allow you do write more, well, generic code.
--   `System.Xml.XmlTextWriter`/`Reader` 2.0 implement `IDisposable`.
+- Anonymous delegates make your source code much clearer.
+- Generics allow you do write more, well, generic code.
+- `System.Xml.XmlTextWriter`/`Reader` 2.0 implement `IDisposable`.
 
 .NET 1.1 is so... *yesterday*.
 
 **Update:** I'm missing the `System.Windows.Form.WebBrowser` control, too.
-

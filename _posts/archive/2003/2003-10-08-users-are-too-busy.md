@@ -17,8 +17,7 @@ However, I think the most important fact in the post is hidden in the second foo
 
 BTW, this and [Peter Provost](http://www.peterprovost.org/)'s post about [missing documentation](http://www.peterprovost.org/weblog/permalink.aspx?guid=6a634ba7-5ee2-4fdd-bfee-dbe840f24dbb) reminded me in [Joel Spolsky](http://www.joelonsoftware.com/)'s [User Interface Design foor Programmers, Chapter 6](http://www.joelonsoftware.com/uibook/chapters/fog0000000062.html):
 
-> 1.  Users don't have the manual, and if they did, they wouldn't read it.
-> 2.  In fact, users can't read anything, and if they could, they wouldn't want to.
+> 1. Users don't have the manual, and if they did, they wouldn't read it.
+> 2. In fact, users can't read anything, and if they could, they wouldn't want to.
 
 I really recommend that book.
-

@@ -16,4 +16,3 @@ Well, at least until today.
 After some googling I found [Craig Andera](http://staff.develop.com/candera/weblog2/)'s article [HowTo: Write a Self-Installing Service](http://staff.develop.com/candera/selfinstall.htm). Only a few lines of code are needed to get your service registering itself. ![Cool](/files/archive/smiley_cool.gif) Awesome, Craig.
 
 Why didn't Microsoft document that way? (Ok, they doc'd [`TransactedInstaller`](http://msdn.microsoft.com/library/en-us/cpref/html/frlrfsystemconfigurationinstalltransactedinstallerclasstopic.asp), but if you don't know where to search... ![sigh](/files/archive/smiley_sigh.gif))
-

@@ -13,16 +13,16 @@ redirect_from:
 As [I posted](/archive/2004/04/01/no-comments-possible/), no postbacks on my site were possible. Though I'm running the same application at home and on my site, the `onsubmit` tag was rendered differently. At home I get
 
 ``` aspnet
-<form name="Form1" method="post" action="CommentsBroken.aspx" 
+<form name="Form1" method="post" action="CommentsBroken.aspx"
     language="javascript" onsubmit="ValidatorOnSubmit();" id="Form1">
 ```
 
 while [my public blog](/) is rendered
 
 ``` aspnet
-<form name="Form1" method="post" action="CommentsBroken.aspx" 
+<form name="Form1" method="post" action="CommentsBroken.aspx"
     language="javascript"
-    onsubmit="if (DefaultButton_RequireOwnPostback(this) ) { return false; }; if (!ValidatorOnSubmit()) return false;" 
+    onsubmit="if (DefaultButton_RequireOwnPostback(this) ) { return false; }; if (!ValidatorOnSubmit()) return false;"
     id="Form1">
 ```
 
@@ -41,4 +41,3 @@ function ValidatorCommonOnSubmit() {
 ```
 
 Now comments are possible again and I'm happy.
-

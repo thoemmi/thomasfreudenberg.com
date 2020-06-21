@@ -30,5 +30,3 @@ Anyway, the FxCop team [has released](http://weblogs.asp.net/fxcop/archive/2004/
 > Regards,
 >
 > Jeffrey
-
-

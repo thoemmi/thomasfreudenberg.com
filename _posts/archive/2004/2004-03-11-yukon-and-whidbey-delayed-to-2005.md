@@ -11,4 +11,3 @@ redirect_from:
 ---
 
 Microsoft has delayed the release of SQL Server 2005 (formerly known as Yukon) and Whidbey (VS.NET 2005?) to H1/2005. I hope we get same betas till then.
-

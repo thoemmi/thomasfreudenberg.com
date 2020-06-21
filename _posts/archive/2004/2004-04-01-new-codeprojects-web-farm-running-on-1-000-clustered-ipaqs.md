@@ -11,4 +11,3 @@ redirect_from:
 ---
 
 [Happy April Fool's Day](http://www.codeproject.com/scrapbook/hosting.asp) ![:-)](/files/archive/smiley_smile.gif)
-

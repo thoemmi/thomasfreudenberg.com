@@ -15,4 +15,3 @@ redirect_from:
 I'm always a little bit nervous when updating my site, especially when the database has changed. But the new features persuaded me. However, I took the chance to tweak my .Text installation a little bit. You may notice the search panel to the left. Scott hasn't implemented the UI to get to the search page from the site except [going to the URL directly](http://scottwater.com/blog/archive/2004/02/03/DogFood096.aspx). So I've written my own little panel. I don't know what Scott's plans are, so if anybody is interested, I'd be glad to support you.
 
 BTW, there's a little bug in pre .96, so you cannot post comments. In fact, it's a typo in the *web.config*. I've already posted the details in the [.Text forum](http://www.asp.net/Forums/ShowPost.aspx?tabindex=1&PostID=465056).
-

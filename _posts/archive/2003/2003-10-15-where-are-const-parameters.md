@@ -39,7 +39,7 @@ public class MainClass
     {
         foo.Param = 42;
     }
-   
+
     public static void Main()
     {
         Foo foo = new Foo();
@@ -53,4 +53,3 @@ Our object we want to forward to our method as const is of type `Foo`. However, 
 Aynway, forget what I've said. That's just a nasty work-around. I don't want to implement a special interface for each of my classes soleley because I need a const parameter. Do you?
 
 Finally, I will return to the opening question: Why does C\# do not support const parameters? I hope [Brad Abrams](http://blogs.gotdotnet.com/BradA/) or someone else will read and answer this question. (BTW, does the MSIL? At least it supports default parameters, which C\# doesn't)
-

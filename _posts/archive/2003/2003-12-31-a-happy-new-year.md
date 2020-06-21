@@ -10,4 +10,3 @@ redirect_from:
 ---
 
 I wish you all a good 2004. Take care everyone.
-

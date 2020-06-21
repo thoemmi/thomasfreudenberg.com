@@ -10,4 +10,3 @@ redirect_from:
 ---
 
 Interesting session... for someone who hasn't heard of FxCop before. Ok, they have added some new rules targeting Whidbey. Besides that, it was the least interesting session today.
-

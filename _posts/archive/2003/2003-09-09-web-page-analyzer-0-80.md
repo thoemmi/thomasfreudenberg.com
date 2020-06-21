@@ -12,4 +12,3 @@ redirect_from:
 > [Andy King](http://www.websiteoptimization.com/about/) has updated his [web page analyzer](http://www.websiteoptimization.com/services/analyze/).
 
 [via [FeedDemon](http://nick.typepad.com/blog/2003/09/web_page_analyz.html)]
-

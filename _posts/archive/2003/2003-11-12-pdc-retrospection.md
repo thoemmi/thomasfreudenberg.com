@@ -15,4 +15,3 @@ Today's the PDC retrospection "*Neues aus L.A.*" organized by [newtelligence AG]
 However, this restrospection is for all those people who couldn't attend this year's PDC. Clemens, [Michael Willers](http://staff.newtelligence.net/michaelw/), and [Jörg Freiberger](http://staff.newtelligence.net/joergf/) are going to speak about WinFS, Indigo, Avalon, and ASP.NET 2.0.
 
 Though I attended the PDC myself (including the Blogger BoF), I'll glad to meet both other PDCians and non-PDCians. Of course I'll wear my ["I'm blogging this" T-shirt](/archive/2003/10/21/thanks-jeff/) ![Wink](/files/archive/smiley_wink.gif)
-

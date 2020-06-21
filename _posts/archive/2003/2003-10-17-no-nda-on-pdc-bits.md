@@ -15,4 +15,3 @@ redirect_from:
 > NDA-centric culture. There are no NDAs at the PDC over the PDC content. Enough said. But, we still are far too NDA-oriented. So, I'll give us a "B" on that score. Improvement still needed.
 
 AFAIK the first time Microsoft gives away early bits without any NDA ![OMG](/files/archive/smiley_omg.gif)
-

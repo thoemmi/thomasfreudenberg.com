@@ -14,4 +14,3 @@ redirect_from:
 [via [Mary Jo Foley](http://www.microsoft-watch.com/article2/0,0,1265051,00.asp?kc=MWRSS02129TX1K0000535)]
 
 I'm using Outlook 2003 for several month by now, and I **love** it. I'm glad I do not have to wait till October.
-

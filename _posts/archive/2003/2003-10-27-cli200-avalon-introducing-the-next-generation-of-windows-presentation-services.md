@@ -12,4 +12,3 @@ redirect_from:
 Awesome. Michael Wallent and Pablo Fernicola showed some impressive demos with Avalon. They coded a simple application containing several controls, which you can reposition, resize, and rotate during run-time. Interesting about it is that on of the controls played a WMV movie, glitchless even while rotating the hosting control.
 
 I don't know the specs of the machine they used for the demo. But if you remember Bill Gates' key note saying that in 2006 PC will run at 4-6 GHz, have 1 TB main memory, and have GPU three times more capable than todays, the shown demo is peanuts only.
-

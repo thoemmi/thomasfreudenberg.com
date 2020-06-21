@@ -20,13 +20,12 @@ redirect_from:
 >
 > Features
 >
-> -   Microsoft Office 2003 style rendering for a cutting-edge look and feel
-> -   Pluggable renderer support means complete customisation is easy
-> -   Buttons can be collapsed in to a tray increasing real estate in the client area
-> -   Chevron menu provides access to hidden buttons and customisation features
-> -   Header and button fonts can be fully customised
-> -   Support for all common image sizes on buttons and in the tray
-> -   Full and rich designer support means in-place editing with no collection editor
+> - Microsoft Office 2003 style rendering for a cutting-edge look and feel
+> - Pluggable renderer support means complete customisation is easy
+> - Buttons can be collapsed in to a tray increasing real estate in the client area
+> - Chevron menu provides access to hidden buttons and customisation features
+> - Header and button fonts can be fully customised
+> - Support for all common image sizes on buttons and in the tray
+> - Full and rich designer support means in-place editing with no collection editor
 
 I'm looking forward to see it in [RSS Bandit](http://rssbandit.org/) ([Torsten Rendelmann](http://www.rendelmann.info/blog/) is quite fast in adopting Tim's controls ;-)). How about one pane per category? I'd love to see that.
-

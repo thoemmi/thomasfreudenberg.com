@@ -12,7 +12,6 @@ redirect_from:
 
 For all the Half-Live fans out there:
 
-![](http://members.home.nl/gis/blackmesa159.jpg)
+![BlackMesa Case](http://members.home.nl/gis/blackmesa159.jpg)
 
 [More pics](http://members.home.nl/gis/).
-

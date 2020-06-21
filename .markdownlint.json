@@ -1,0 +1,9 @@
+{
+    "line-length": false,
+    "no-inline-html": {
+      "allowed_elements": [ "small", "hr", "kbd", "sup", "sub", "br" ]
+    },
+    "no-trailing-punctuation": {
+      "punctuation": ""
+    }
+  }

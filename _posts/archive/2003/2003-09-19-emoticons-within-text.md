@@ -40,7 +40,6 @@ Anyway, the graphics Scott envisioned to use are not my favourites. Therefore, I
 | `[wtf]`   | ![WTF](/files/archive/smiley_WTF.gif) |
 | `[unsure]`| ![Unsure](/files/archive/smiley_squeamish.gif) |
 
-**Update:** Of course I asked [Chris](http://www.codeproject.com/script/profile/whos_who.asp?id=1) 
-(heart and soul of CodeProject) for permission to use the depicted graphics. Therefore as promised: 
+**Update:** Of course I asked [Chris](http://www.codeproject.com/script/profile/whos_who.asp?id=1)
+(heart and soul of CodeProject) for permission to use the depicted graphics. Therefore as promised:
 Credits for the emoticons go to Chris and CodeProject.
-

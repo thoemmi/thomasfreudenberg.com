@@ -16,9 +16,9 @@ I'm posting this, because it took me two hours to find the issue.
 
 I wanted to customize a listview's header control, i.e. changing its behavior when the user resizes a column. According to the MSDN documentation, the header sends following notifications:
 
--   [`HDN_BEGINTRACK`](http://msdn.microsoft.com/library/en-us/shellcc/platform/commctls/header/notifications/hdn_begintrack.asp) when the user starts dragging a divider,
--   [`HDN_TRACK`](http://msdn.microsoft.com/library/en-us/shellcc/platform/commctls/header/notifications/hdn_track.asp) while dragging, and
--   [`HDN_ENDTRACK`](http://msdn.microsoft.com/library/en-us/shellcc/platform/commctls/header/notifications/hdn_endtrack.asp) when the user has finished dragging the divider.
+- [`HDN_BEGINTRACK`](http://msdn.microsoft.com/library/en-us/shellcc/platform/commctls/header/notifications/hdn_begintrack.asp) when the user starts dragging a divider,
+- [`HDN_TRACK`](http://msdn.microsoft.com/library/en-us/shellcc/platform/commctls/header/notifications/hdn_track.asp) while dragging, and
+- [`HDN_ENDTRACK`](http://msdn.microsoft.com/library/en-us/shellcc/platform/commctls/header/notifications/hdn_endtrack.asp) when the user has finished dragging the divider.
 
 I've had no problem getting `HDN_BEGINTRACK` and `HDN_ENDTRACK`. Unfortunately, I didn't receive the `HDN_TRACK` notification.
 

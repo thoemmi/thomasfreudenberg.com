@@ -10,4 +10,3 @@ redirect_from:
 ---
 
 [Techie dubs first son Version 2.0](http://heraldsun.com.au/common/story_page/0,5478,8560151%255E1702,00.html). Poor world.
-

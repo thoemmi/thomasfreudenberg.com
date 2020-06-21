@@ -20,4 +20,3 @@ I found the following breaking change in the MSDN article "[Development Impacts 
 > The `SetDllDirectory` function, also available in Windows XP SP1, modifies the search path used to locate DLLs for the application and affects all subsequent calls to the `LoadLibrary` and `LoadLibraryEx` functions by the application.
 
 via [Paul Wilson](http://weblogs.asp.net/pwilson/posts/9214.aspx).
-

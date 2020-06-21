@@ -16,4 +16,3 @@ redirect_from:
 Did you hear this, Managers?
 
 [via [Randy Holloway](http://longhornblogs.com/rholloway/posts/1561.aspx)]
-

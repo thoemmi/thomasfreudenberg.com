@@ -16,4 +16,3 @@ Anyway, here's a photo I took:
  ![Meeting CPians at PDC](/files/archive/PA300044.JPG)
 
 Left to right: [Simon Stewart](http://www.brokenkeyboards.com/brokenkeyboards/), [Nick Hodapp](http://www.codeproject.com/script/profile/whos_who.asp?id=162), Bianca, and [Chris](http://www.codeproject.com/script/profile/whos_who.asp?id=1). Additionally I met [David Cunningham](http://www.codeproject.com/script/profile/whos_who.asp?id=2).
-

@@ -17,4 +17,3 @@ Chaka! I'm attending the PDC in L.A.!
 I love to here about [Whidbey](http://www.microsoft.com/sql/evaluation/yukon.asp), [Longhorn](http://www.winsupersite.com/faq/longhorn.asp), Indigo, and [Yukon](http://www.microsoft.com/sql/evaluation/yukon.asp) (one of these is already running here, guess which)
 
 See you in LA ![Cool](/files/archive/smiley_cool.gif)
-

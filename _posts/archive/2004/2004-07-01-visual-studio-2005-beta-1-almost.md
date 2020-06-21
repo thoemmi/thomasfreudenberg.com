@@ -17,5 +17,3 @@ After waiting for [two days](/archive/2004/06/29/visual-studio-2005-beta-1-and-i
 I'd prefer to get a single DVD image. However, I started the download of all 8 images.
 
 **Update 7/4/2004:** I've just noticed that there is now a DVD image of about 3.6 GB available.
-
-

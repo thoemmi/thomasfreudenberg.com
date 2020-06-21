@@ -19,4 +19,3 @@ Damn, I'd have never expected that (well, is this statement syntactically correc
 > Congratulations and thank you!
 > [How grammatically sound are you?](http://quizilla.com/users/BaalObsidian/quizzes/How%20grammatically%20sound%20are%20you%3F/)
 > brought to you by [Quizilla](http://quizilla.com/)
-

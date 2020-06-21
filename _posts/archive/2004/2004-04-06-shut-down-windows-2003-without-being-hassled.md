@@ -22,13 +22,12 @@ redirect_from:
 >
 > A. Like Windows 2000, Windows 2003 has an event tracker that prompts you to enter a reason for shutting down a server. To disable this feature, perform the following steps:
 >
-> 1.  Open the Microsoft Management Console (MMC) Group Policy Editor (GPE) snap-in or use Windows 2003 Group Policy Management Console (GPMC) to load the Group Policy Object (GPO) that you want to modify (e.g., the Default Domain Controllers policy).
-> 2.  Navigate to Computer Configuration, Administrative Templates, System.
-> 3.  Double-click Display Shutdown Event Tracker.
-> 4.  Select Disabled, then click OK.
-> 5.  Use the Gpupdate command to force the policy to refresh.
+> 1. Open the Microsoft Management Console (MMC) Group Policy Editor (GPE) snap-in or use Windows 2003 Group Policy Management Console (GPMC) to load the Group Policy Object (GPO) that you want to modify (e.g., the Default Domain Controllers policy).
+> 2. Navigate to Computer Configuration, Administrative Templates, System.
+> 3. Double-click Display Shutdown Event Tracker.
+> 4. Select Disabled, then click OK.
+> 5. Use the Gpupdate command to force the policy to refresh.
 
 **Update:** I've made a screenshot where to find the setting:
 
 ![Shut down Windows 2003 without being hassled](/files/archive/gpedit.png)
-

@@ -12,4 +12,3 @@ redirect_from:
 ...since you may take a plunge.
 
 After I posted [this](/archive/2004/01/09/this-site-is-25-evil-75-good/), my site became 34% evil. ![Unsure](/files/archive/smiley_squeamish.gif)
-

@@ -19,4 +19,3 @@ Then I changed our build scripts to use VC Build instead of devenv. Now the buil
 Today I discovered that VC Build is not a nice tool hidden in the 'net anymore. Now it's part of Visual Studio 2005, at least part of Beta 1. You can find it in *\<whidbey installation path\>\\VC\\VCpackages\\*.
 
 (I planned to post about VC Build for long time, but I've forgotten. Funny incidence that today I found VC Build in Whidbey, and [Jamie "NUnitAddin" Cansdale](http://weblogs.asp.net/nunitaddin/) [mentioned VC Build in his blog](http://weblogs.asp.net/nunitaddin/archive/2004/07/09/178378.aspx)).
-

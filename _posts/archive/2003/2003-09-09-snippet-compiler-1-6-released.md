@@ -11,7 +11,6 @@ redirect_from:
 
 [Peter Provost](http://www.peterprovost.org/weblog/) [says](http://www.peterprovost.org/weblog/permalink.aspx?guid=2bd8bfd9-9757-45aa-9696-4576ffd718aa):
 
-> I can't believe how fast Jeff is busting out releases of [*Snippet Compiler](http://www.sliver.com/dotnet/snippetcompiler/). This one has a colored syntax editor and much more. This is certainly the coolest little tool I've added to my arsenal lately.
+> I can't believe how fast Jeff is busting out releases of [*Snippet Compiler*](http://www.sliver.com/dotnet/snippetcompiler/). This one has a colored syntax editor and much more. This is certainly the coolest little tool I've added to my arsenal lately.
 
 I fully agree.
-

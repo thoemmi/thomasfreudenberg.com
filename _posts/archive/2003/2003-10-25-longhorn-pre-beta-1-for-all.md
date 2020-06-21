@@ -13,4 +13,3 @@ redirect_from:
 > [WinNetMag](http://www.winnetmag.com/) is [reporting](http://www.winnetmag.com/Article/ArticleID/40618/40618.html) that Microsoft will make Longhorn pre-Beta 1 available for a small fee and also ship it for free to MSDN subscribers.
 
 [via [Mack D. Male](http://longhornblogs.com/mastermaq/posts/595.aspx)]
-

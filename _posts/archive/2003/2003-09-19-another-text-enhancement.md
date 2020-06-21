@@ -26,7 +26,4 @@ to the start of line 19 in `\admin\Resources\PageTemplate.ascx`. This link direc
 
 I can think of others who are missing this too. [Scott](http://scottwater.com/), how about adding this to the official .Text distribution?
 
- 
-
 **Update:** ![Doh](/files/archive/smiley_doh.gif) Do you see the "Thoemmi.NET" text? In fact, that's the link back to the main page. I didn't notice that. Thanks to [Scott](http://scottwater.com/), Bryant Likes, and [Shannon J Hager](http://www.hdconsultants.us/) for opening my eyes.
-

@@ -12,4 +12,3 @@ redirect_from:
 Testing automatic emoticon substitution:
 
 :-) ;-) :wtf: :zzz: :-D :???: 8-) :,-( X-( :doh: :eek: :-( :-| :omg: :sigh:
-
