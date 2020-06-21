@@ -127,6 +127,10 @@ comments:
   staticman:
     branch    : "gh-pages"
     endpoint  : https://api.staticman.net/v3/entry/github/
+reCaptcha:
+  enabled: true
+  siteKey: "6LfliacZAAAAANBxjLLwfQse0_34tLMHWy0vX9Af"
+  secret: "Wn9v5YmLTb5dYyym7ydWtQl37JZ4O2exPY+QCtuqsLECv82ZapjCrCJyFMU7xIBm4e7o6PMdHwNQsvGah6fmLUX0+4q24hQcsXPuWhEu5aI4X72sSjP8nGK9vnWvL/Mo6HipnOU+/9kvn3+ZRaeoS0nLzwN2014dRpQ9eDQlGco="
 
 
 # head_scripts:
