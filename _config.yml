@@ -17,9 +17,7 @@ title: Thomas Freudenberg
 subtitle: "Confessions of a caffeine addict"
 email: info@thomasfreudenberg.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Thomas Freudenberg - Confessions of a caffeine addict
 twitter_username: thoemmi
 github_username: thoemmi
 minimal_mistakes_skin: dark
@@ -81,6 +79,14 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
+social:
+  name: Thomas Freudenberg
+  links:
+    - "https://thomasfreudenberg.com"
+    - "https://twitter.com/thoemmi"
+    - "https://github.com/thoemmi"
+    - "https://www.linkedin.com/in/freudenberg/"
+
 footer:
   links:
     - label: "Twitter"
@@ -89,6 +95,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thoemmi"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/freudenberg/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -107,6 +116,7 @@ defaults:
       comments: true
       share: false
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -138,7 +148,6 @@ analytics:
   google:
     tracking_id: "UA-262965-1"
     anonymize_ip: true
-
 
 # head_scripts:
 #   - /assets/js/utils.js
