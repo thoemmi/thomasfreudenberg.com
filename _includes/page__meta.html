@@ -1,0 +1,23 @@
+{% assign page = post | default: page %}
+
+{% if page.show_date %}
+<p class="page__meta">
+    {% assign date = page.date %}
+    <i class="far {% if include.type == 'grid' and page.read_time and page.show_date %}fa-fw {% endif %}fa-calendar-alt" aria-hidden="true"></i>
+    <time datetime="{{ date | date_to_xmlschema }}">{{ date | date: "%B %-d, %Y" }}</time>
+
+    {% capture page_tags %}{% for tag in page.tags %}{{ tag | downcase }}|{{ tag }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+    {% assign tag_hashes = page_tags | split: ',' | sort %}
+  
+    <span class="page__meta-sep"></span>
+
+    <i class="fas fa-fw fa-tags" aria-hidden="true"></i>
+    <span itemprop="keywords">
+    {% for hash in tag_hashes %}
+    {% assign keyValue = hash | split: '|' %}
+    {% capture tag_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
+    <a href="{{ tag_word | slugify | prepend: path_type | prepend: site.tag_archive.path | relative_url }}" class="page__taxonomy-item" rel="tag">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+    {% endfor %}
+    </span>
+</p>
+{% endif %}
