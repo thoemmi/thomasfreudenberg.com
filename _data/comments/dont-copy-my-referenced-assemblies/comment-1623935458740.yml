@@ -1,0 +1,7 @@
+_id: 74d6ef40-cf6d-11eb-ae09-9f8676770c09
+message: "@Matt, the item group `ReferenceCopyLocalPaths` contains all referenced assembies. So before removing them from the item group, you should be able to copy them to a different folder with the [Copy Task](https://docs.microsoft.com/en-us/visualstudio/msbuild/copy-task).\r\n\r\nI also found this Stack Overflow question, one of the answers may help you too: https://stackoverflow.com/questions/55946010/how-to-specify-output-folder-for-the-referenced-nuget-packages"
+name: Thomas Freudenberg
+email: ee0f85e9318019b7ed75eeb5e7506f2d
+url: 'https://thomasfreudenberg.com'
+hidden: ''
+date: '2021-06-17T13:10:58.737Z'
