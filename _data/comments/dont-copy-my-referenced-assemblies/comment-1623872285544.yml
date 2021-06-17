@@ -1,0 +1,12 @@
+_id: 5eb93300-ceda-11eb-ae09-9f8676770c09
+message: >-
+  Is there a way to do it such that the referenced assemblies get copied to the
+  parent directory of the output directory instead?  For example, I want my
+  plugins to copy to the the Debug\plugins folder (i.e., the output directory),
+  but I want all referenced assemblies for each plugin to be copied to the
+  parent directory of the output directory.
+name: Matt Davis
+email: 02219f2cfcae5dae0c9e4c19f148759c
+url: ''
+hidden: ''
+date: '2021-06-16T19:38:05.541Z'
