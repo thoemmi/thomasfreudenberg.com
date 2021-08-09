@@ -1,0 +1,24 @@
+_id: debd6ad0
+Message: hfgjhsj
+Name: Thomas Freudenberg
+Email: ee0f85e9318019b7ed75eeb5e7506f2d
+Url: https://thomasfreudenberg.com
+Date:
+  DateTime: 2021-08-09T13:40:38.8589870
+  UtcDateTime: 2021-08-09T13:40:38.8589870Z
+  LocalDateTime: 2021-08-09T15:40:38.8589870+02:00
+  Date: 2021-08-09T00:00:00.0000000
+  Day: 9
+  DayOfWeek: Monday
+  DayOfYear: 221
+  Hour: 13
+  Millisecond: 858
+  Minute: 40
+  Month: 8
+  Offset: 00:00:00
+  Second: 38
+  Ticks: 637641132388589870
+  UtcTicks: 637641132388589870
+  TimeOfDay: 13:40:38.8589870
+  Year: 2021
+Slug: async-await-in-desktop-applications
