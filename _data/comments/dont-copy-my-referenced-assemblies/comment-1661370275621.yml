@@ -1,0 +1,7 @@
+_id: 2e795560-23e5-11ed-8e5f-f98d52f196c5
+message: "Just circling back on this.  The Copy task worked.  Thanks so much.\r\n\r\nIn case others land here...\r\n\r\n<Target Name=\"ClearReferenceCopyLocalPaths\" AfterTargets=\"ResolveAssemblyReferences\" Condition=\"$(OutDir.EndsWith('plugins\\'))\">\r\n  <Copy SourceFiles=\"@(ReferenceCopyLocalPaths)\" DestinationFolder=\"$(OutDir)..\" />\r\n  <ItemGroup>\r\n    <ReferenceCopyLocalPaths Remove=\"@(ReferenceCopyLocalPaths)\" />\r\n  </ItemGroup>\r\n</Target>\r\n\r\nTake care to use DestinationFolder, not DestinationFiles."
+name: Matt Davis
+email: 82d942c970e170236337221f754807dc
+url: ''
+hidden: ''
+date: '2022-08-24T19:44:35.617Z'
