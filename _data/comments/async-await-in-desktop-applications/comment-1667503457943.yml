@@ -1,0 +1,7 @@
+_id: 1bfb5780-5bad-11ed-b6a6-6dc27eaabfc6
+message: "Why are you calling ConfigureAwait(false) anyway? This is exactly what you are intended NOT to do in application event handler code, but only inside any library code which is not talking to the GUI.\r\n\r\nAlso see: https://devblogs.microsoft.com/dotnet/configureawait-faq/\r\nThis is Microsoft's own article about it, and it is still the best article I have found about the subject, because it gives you these very practical guidelines.\r\n\r\nThe parameter you are setting to false is continueOnCapturedContext (I often use this parameter name explicitly as a named parameter in this method call, to make it more clear)\r\nIt literally means that you are configuring whether you want to return to the current thread or not, exactly to prevent this cross thread issue.\r\n\r\nBasically the idea is simply that the whole async call chain can run inside another thread, except the primary scope from your event handler, from your user interface handling code.\r\n\r\nWhen having clear enough separation between buisiness logic done elsewhere (deeper inside the async call chain) and GUI-only work directly inside event handlers, you should normally not run into issues and things should work right together with it."
+name: Eduard
+email: 7de3f88e642359b5b1def2b6ace7c52b
+url: ''
+hidden: ''
+date: '2022-11-03T19:24:17.941Z'
